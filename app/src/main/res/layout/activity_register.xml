@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".ActivityRegister">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="44dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <EditText
+        android:id="@+id/et1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/stylo_borde_editext"
+        android:ems="10"
+        android:gravity="left"
+        android:hint="Nombres"
+        android:textColorHint="@color/black"
+        android:inputType="textPersonName"
+        android:shadowColor="#171616"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName6"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnRegistro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="31dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/stylo_borde_editext"
+        android:text="Registrarse"
+        android:textColor="@color/black"
+        app:backgroundTint="#5ABC48"
+        app:layout_constraintEnd_toEndOf="@+id/et6"
+        app:layout_constraintTop_toBottomOf="@+id/et6"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/et2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:background="@drawable/stylo_borde_editext"
+        android:ems="10"
+        android:hint="Apellidos"
+        android:textColorHint="@color/black"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="@+id/et1"
+        app:layout_constraintTop_toBottomOf="@+id/et1"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/et3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="2dp"
+        android:layout_marginRight="2dp"
+        android:textColorHint="@color/black"
+        android:layout_marginBottom="12dp"
+        android:background="@drawable/stylo_borde_editext"
+        android:ellipsize="none"
+        android:ems="4"
+        android:hint="  //  //"
+        android:inputType="date"
+        app:layout_constraintBottom_toTopOf="@+id/et4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/et4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="73dp"
+        android:background="@drawable/stylo_borde_editext"
+        android:ems="10"
+        android:hint="Correo Electronico"
+        android:textColorHint="@color/black"
+        android:inputType="textEmailAddress"
+        app:layout_constraintStart_toStartOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/et2"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/et5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/stylo_borde_editext"
+        android:ems="10"
+        android:textColorHint="@color/black"
+        android:hint="Contraseña"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="@+id/et4"
+        app:layout_constraintTop_toBottomOf="@+id/et4"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/et6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginRight="1dp"
+        android:background="@drawable/stylo_borde_editext"
+        android:ems="10"
+        android:textColorHint="@color/black"
+        android:hint="Confirmar Contraseña"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/et5"
+        app:layout_constraintTop_toBottomOf="@+id/et5"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="9dp"
+        android:layout_marginRight="9dp"
+        android:text="Fecha Nacimiento:"
+        android:textColor="@color/black"
+        app:layout_constraintBaseline_toBaselineOf="@+id/et3"
+        app:layout_constraintEnd_toStartOf="@+id/et3"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="12dp"
+        android:ems="5"
+        android:fontFamily="@font/opensanslight"
+        android:gravity="center"
+        android:inputType="textPersonName"
+        android:text="REGISTRO"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/et1"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>
