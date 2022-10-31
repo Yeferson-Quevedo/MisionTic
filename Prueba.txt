@@ -1,6 +1,6 @@
 yeferson Quevedo
-<<<<<<< HEAD
+
 Oscar Javier Ramirez Jimenez
-=======
+
 Diana Ariza
->>>>>>> 714f8e9aa3d08907b0410dae4c3652397c571691
+
