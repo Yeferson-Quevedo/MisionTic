@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
-    tools:context=".ActivityHome">
+    tools:context=".view.ui.activities.HomeActivity">
 
 </androidx.constraintlayout.widget.ConstraintLayout>
