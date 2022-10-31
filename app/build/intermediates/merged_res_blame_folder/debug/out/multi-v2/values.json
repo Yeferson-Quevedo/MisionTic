@@ -184,25 +184,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\sprint 2\\LatinShopApp\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "804"
-                    },
-                    "to": {
-                        "startLines": "5855",
-                        "startColumns": "4",
-                        "startOffsets": "397946",
-                        "endLines": "5867",
-                        "endColumns": "12",
-                        "endOffsets": "398527"
-                    }
-                },
-                {
                     "source": "C:\\Users\\fenix\\.gradle\\caches\\transforms-3\\e2ead5f317d22088c48cad1a61f8b969\\transformed\\viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -219,23 +200,6 @@
                         "endLines": "12581",
                         "endColumns": "24",
                         "endOffsets": "717175"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\sprint 2\\LatinShopApp\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "49",
-                        "endOffsets": "61"
-                    },
-                    "to": {
-                        "startLines": "1695",
-                        "startColumns": "4",
-                        "startOffsets": "105472",
-                        "endColumns": "49",
-                        "endOffsets": "105517"
                     }
                 },
                 {
@@ -313,6 +277,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\sprint 2\\proyecto real\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "804"
+                    },
+                    "to": {
+                        "startLines": "5855",
+                        "startColumns": "4",
+                        "startOffsets": "397946",
+                        "endLines": "5867",
+                        "endColumns": "12",
+                        "endOffsets": "398527"
+                    }
+                },
+                {
                     "source": "C:\\Users\\fenix\\.gradle\\caches\\transforms-3\\47ac39755f246ef2ff54ad5b7942d42f\\transformed\\drawerlayout-1.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -332,20 +315,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\sprint 2\\LatinShopApp\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\sprint 2\\proyecto real\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "6,2,3,5,7,4",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "216,55,94,175,258,134",
-                        "endColumns": "41,38,39,40,41,40",
-                        "endOffsets": "253,89,129,211,295,170"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
                     },
                     "to": {
-                        "startLines": "612,613,669,830,851,852",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "31169,31211,35109,46718,48165,48207",
-                        "endColumns": "41,38,39,40,41,40",
-                        "endOffsets": "31206,31245,35144,46754,48202,48243"
+                        "startLines": "1695",
+                        "startColumns": "4",
+                        "startOffsets": "105472",
+                        "endColumns": "49",
+                        "endOffsets": "105517"
                     }
                 },
                 {
@@ -399,6 +382,23 @@
                         "startOffsets": "98173",
                         "endColumns": "59",
                         "endOffsets": "98228"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\sprint 2\\proyecto real\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "6,2,3,5,7,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "216,55,94,175,258,134",
+                        "endColumns": "41,38,39,40,41,40",
+                        "endOffsets": "253,89,129,211,295,170"
+                    },
+                    "to": {
+                        "startLines": "612,613,669,830,851,852",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "31169,31211,35109,46718,48165,48207",
+                        "endColumns": "41,38,39,40,41,40",
+                        "endOffsets": "31206,31245,35144,46754,48202,48243"
                     }
                 },
                 {

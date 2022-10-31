@@ -6,107 +6,107 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml
+8-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml
+9-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:5:5-56:19
+11-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:5:5-56:19
 12        android:allowBackup="true"
-12-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.8.0] C:\Users\fenix\.gradle\caches\transforms-3\205feb206244c8c1b4b56fcdc8d69988\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 14        android:dataExtractionRules="@xml/data_extraction_rules"
-14-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:7:9-65
+14-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:7:9-65
 15        android:debuggable="true"
 16        android:fullBackupContent="@xml/backup_rules"
-16-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:8:9-54
+16-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:8:9-54
 17        android:icon="@mipmap/ic_launcher"
-17-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:9:9-43
+17-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:9:9-43
 18        android:label="@string/app_name"
-18-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:10:9-41
+18-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:10:9-41
 19        android:roundIcon="@mipmap/ic_launcher_round"
-19-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:11:9-54
+19-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:11:9-54
 20        android:supportsRtl="true"
-20-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:12:9-35
+20-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:12:9-35
 21        android:testOnly="true"
 22        android:theme="@style/Theme.LatinShop" >
-22-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:13:9-47
+22-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:13:9-47
 23        <activity
-23-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:15:9-21:20
+23-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:15:9-21:20
 24            android:name="com.example.latinshopapp.view.ui.activities.RestoreActivity"
-24-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:16:13-63
+24-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:16:13-63
 25            android:exported="false" >
-25-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:17:13-37
+25-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:17:13-37
 26            <meta-data
-26-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:18:13-20:36
+26-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:18:13-20:36
 27                android:name="android.app.lib_name"
-27-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:19:17-52
+27-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:19:17-52
 28                android:value="" />
-28-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:20:17-33
+28-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:20:17-33
 29        </activity>
 30        <activity
-30-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:22:9-28:20
+30-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:22:9-28:20
 31            android:name="com.example.latinshopapp.view.ui.activities.RegisterActivity"
-31-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:23:13-64
+31-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:23:13-64
 32            android:exported="false" >
-32-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:24:13-37
+32-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:24:13-37
 33            <meta-data
-33-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:18:13-20:36
+33-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:18:13-20:36
 34                android:name="android.app.lib_name"
-34-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:19:17-52
+34-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:19:17-52
 35                android:value="" />
-35-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:20:17-33
+35-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:20:17-33
 36        </activity>
 37        <activity
-37-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:29:9-35:20
+37-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:29:9-35:20
 38            android:name="com.example.latinshopapp.view.ui.activities.LoginActivity"
-38-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:30:13-61
+38-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:30:13-61
 39            android:exported="false" >
-39-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:31:13-37
+39-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:31:13-37
 40            <meta-data
-40-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:18:13-20:36
+40-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:18:13-20:36
 41                android:name="android.app.lib_name"
-41-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:19:17-52
+41-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:19:17-52
 42                android:value="" />
-42-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:20:17-33
+42-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:20:17-33
 43        </activity>
 44        <activity
-44-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:36:9-42:20
+44-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:36:9-42:20
 45            android:name="com.example.latinshopapp.view.ui.activities.HomeActivity"
-45-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:37:13-60
+45-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:37:13-60
 46            android:exported="false" >
-46-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:38:13-37
+46-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:38:13-37
 47            <meta-data
-47-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:18:13-20:36
+47-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:18:13-20:36
 48                android:name="android.app.lib_name"
-48-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:19:17-52
+48-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:19:17-52
 49                android:value="" />
-49-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:20:17-33
+49-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:20:17-33
 50        </activity>
 51        <activity
-51-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:43:9-55:20
+51-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:43:9-55:20
 52            android:name="com.example.latinshopapp.view.ui.activities.MainActivity"
-52-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:44:13-60
+52-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:44:13-60
 53            android:exported="true" >
-53-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:45:13-36
+53-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:45:13-36
 54            <intent-filter>
-54-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:46:13-50:29
+54-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:46:13-50:29
 55                <action android:name="android.intent.action.MAIN" />
-55-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:47:17-69
-55-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:47:25-66
+55-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:47:17-69
+55-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:47:25-66
 56
 57                <category android:name="android.intent.category.LAUNCHER" />
-57-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:49:17-77
-57-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:49:27-74
+57-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:49:17-77
+57-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:49:27-74
 58            </intent-filter>
 59
 60            <meta-data
-60-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:18:13-20:36
+60-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:18:13-20:36
 61                android:name="android.app.lib_name"
-61-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:19:17-52
+61-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:19:17-52
 62                android:value="" />
-62-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\LatinShopApp\app\src\main\AndroidManifest.xml:20:17-33
+62-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\sprint 2\proyecto real\app\src\main\AndroidManifest.xml:20:17-33
 63        </activity>
 64
 65        <provider
