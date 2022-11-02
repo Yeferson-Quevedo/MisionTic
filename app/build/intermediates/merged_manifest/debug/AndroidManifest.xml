@@ -62,6 +62,10 @@
                 android:value="" />
         </activity>
 
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
         <provider
             android:name="androidx.startup.InitializationProvider"
             android:authorities="com.example.latinshopapp.androidx-startup"

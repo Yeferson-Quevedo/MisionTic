@@ -1,5 +1,9 @@
 R_DEF: Internal format may change without notice
 local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
 color black
 color blue
 color green
@@ -28,12 +32,14 @@ id textView
 layout activity_home
 layout activity_login
 layout activity_main
+layout activity_products
 layout activity_register
 layout activity_restore
 mipmap ic_launcher
 mipmap ic_launcher_round
 raw shopping_cart_animation
 string app_name
+string hello_blank_fragment
 style Theme.LatinShop
 xml backup_rules
 xml data_extraction_rules
