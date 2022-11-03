@@ -68,10 +68,6 @@
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.latinshopapp-merged_res-35:/layout_activity_restore.xml.flat",
-        "source": "com.example.latinshopapp-main-37:/layout/activity_restore.xml"
-    },
-    {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\layout_activity_register.xml.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\layout\\activity_register.xml"
     },
@@ -122,6 +118,10 @@
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.latinshopapp-merged_res-35:/font_poppins_extrabold.ttf.flat",
+        "source": "com.example.latinshopapp-main-37:/font/poppins_extrabold.ttf"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-xhdpi_ic_launcher_background.png.flat",
