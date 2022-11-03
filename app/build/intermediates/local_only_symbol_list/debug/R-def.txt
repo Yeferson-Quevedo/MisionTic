@@ -14,6 +14,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable logo
 drawable stylo_border_editext
+font poppins_extrabold
 font poppinslight
 id animation_view
 id editTextBirthDate
