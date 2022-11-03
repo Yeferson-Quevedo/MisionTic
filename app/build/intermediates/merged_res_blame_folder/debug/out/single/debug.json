@@ -1,130 +1,130 @@
 [
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-30:\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\layout\\activity_main.xml"
+        "merged": "com.example.latinshopapp-merged_res-35:/layout_activity_home.xml.flat",
+        "source": "com.example.latinshopapp-main-37:/layout/activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\font_poppinslight.ttf.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\font\\poppinslight.ttf"
+        "merged": "com.example.latinshopapp-merged_res-35:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.latinshopapp-pngs-30:/drawable-mdpi/ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-30:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "com.example.latinshopapp-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.latinshopapp-main-37:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.latinshopapp-merged_res-35:/font_poppinslight.ttf.flat",
+        "source": "com.example.latinshopapp-main-37:/font/poppinslight.ttf"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable_stylo_border_editext.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\drawable\\stylo_border_editext.xml"
+        "merged": "com.example.latinshopapp-merged_res-35:/drawable_stylo_border_editext.xml.flat",
+        "source": "com.example.latinshopapp-main-37:/drawable/stylo_border_editext.xml"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.latinshopapp-merged_res-35:/layout_activity_register.xml.flat",
+        "source": "com.example.latinshopapp-main-37:/layout/activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\xml\\backup_rules.xml"
+        "merged": "com.example.latinshopapp-merged_res-35:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.latinshopapp-pngs-30:/drawable-hdpi/ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.latinshopapp-merged_res-35:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.latinshopapp-pngs-30:/drawable-xhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\raw_shopping_cart_animation.json.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\raw\\shopping_cart_animation.json"
+        "merged": "com.example.latinshopapp-merged_res-35:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.latinshopapp-pngs-30:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\layout\\activity_login.xml"
+        "merged": "com.example.latinshopapp-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.latinshopapp-main-37:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.latinshopapp-merged_res-35:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.latinshopapp-pngs-30:/drawable-anydpi-v21/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-30:\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "com.example.latinshopapp-merged_res-35:/raw_shopping_cart_animation.json.flat",
+        "source": "com.example.latinshopapp-main-37:/raw/shopping_cart_animation.json"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-30:\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.latinshopapp-merged_res-35:/layout_activity_restore.xml.flat",
+        "source": "com.example.latinshopapp-main-37:/layout/activity_restore.xml"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\layout\\activity_register.xml"
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.latinshopapp-merged_res-35:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.latinshopapp-pngs-30:/drawable-xxxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.latinshopapp-merged_res-35:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.latinshopapp-pngs-30:/drawable-xxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-30:\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.latinshopapp-merged_res-35:/layout_activity_login.xml.flat",
+        "source": "com.example.latinshopapp-main-37:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-v24_logo.png.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\drawable-v24\\logo.png"
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\layout\\activity_home.xml"
+        "merged": "com.example.latinshopapp-merged_res-35:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.latinshopapp-pngs-30:/drawable-ldpi/ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-30:\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "com.example.latinshopapp-merged_res-35:/drawable-v24_logo.png.flat",
+        "source": "com.example.latinshopapp-main-37:/drawable-v24/logo.png"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\layout_activity_restore.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\layout\\activity_restore.xml"
-    },
-    {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
         "merged": "com.example.latinshopapp-merged_res-35:/font_poppins_extrabold.ttf.flat",
         "source": "com.example.latinshopapp-main-37:/font/poppins_extrabold.ttf"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-30:\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.latinshopapp-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.latinshopapp-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.latinshopapp-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.example.latinshopapp-main-37:/layout/activity_main.xml"
     }
 ]
