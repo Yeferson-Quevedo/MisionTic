@@ -88,6 +88,10 @@
         "source": "com.example.latinshopapp-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "com.example.latinshopapp-merged_res-35:/layout_activity_products.xml.flat",
+        "source": "com.example.latinshopapp-main-37:/layout/activity_products.xml"
+    },
+    {
         "merged": "com.example.latinshopapp-merged_res-35:/layout_activity_login.xml.flat",
         "source": "com.example.latinshopapp-main-37:/layout/activity_login.xml"
     },
@@ -96,17 +100,8 @@
         "source": "com.example.latinshopapp-main-37:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-<<<<<<< HEAD
-        "merged": "com.example.latinshopapp-merged_res-35:/layout_activity_products.xml.flat",
-        "source": "com.example.latinshopapp-main-37:/layout/activity_products.xml"
-    },
-    {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\layout\\activity_home.xml"
-=======
         "merged": "com.example.latinshopapp-merged_res-35:/drawable-ldpi_ic_launcher_background.png.flat",
         "source": "com.example.latinshopapp-pngs-30:/drawable-ldpi/ic_launcher_background.png"
->>>>>>> temp-branch
     },
     {
         "merged": "com.example.latinshopapp-merged_res-35:/drawable-v24_logo.png.flat",

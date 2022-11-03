@@ -11,11 +11,7 @@
 9-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml
 10
 11    <application
-<<<<<<< HEAD
 11-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:5:5-60:19
-=======
-11-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:5:5-56:19
->>>>>>> test
 12        android:allowBackup="true"
 12-->C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"

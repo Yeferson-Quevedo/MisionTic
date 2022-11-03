@@ -673,7 +673,6 @@ com.example.latinshopapp:style/Base.Animation.AppCompat.Tooltip = 0x7f13000b
 com.example.latinshopapp:style/Theme.AppCompat.CompactMenu = 0x7f1301e6
 com.example.latinshopapp:style/Animation.AppCompat.Dialog = 0x7f130002
 com.example.latinshopapp:style/AlertDialog.AppCompat.Light = 0x7f130001
-<<<<<<< HEAD
 com.example.latinshopapp:string/status_bar_notification_info_overflow = 0x7f12008e
 com.example.latinshopapp:string/path_password_strike_through = 0x7f12008c
 com.example.latinshopapp:string/path_password_eye_mask_visible = 0x7f12008b
@@ -741,74 +740,6 @@ com.example.latinshopapp:string/m3_sys_motion_easing_emphasized = 0x7f120031
 com.example.latinshopapp:string/item_view_role_description = 0x7f120030
 com.example.latinshopapp:string/hide_bottom_view_on_scroll_behavior = 0x7f12002e
 com.example.latinshopapp:string/hello_blank_fragment = 0x7f12002d
-=======
-com.example.latinshopapp:string/status_bar_notification_info_overflow = 0x7f12008d
-com.example.latinshopapp:string/path_password_strike_through = 0x7f12008b
-com.example.latinshopapp:string/path_password_eye_mask_visible = 0x7f12008a
-com.example.latinshopapp:string/path_password_eye_mask_strike_through = 0x7f120089
-com.example.latinshopapp:string/mtrl_timepicker_confirm = 0x7f120086
-com.example.latinshopapp:style/ShapeAppearanceOverlay.Material3.Chip = 0x7f130160
-com.example.latinshopapp:string/mtrl_switch_track_path = 0x7f120084
-com.example.latinshopapp:string/mtrl_switch_thumb_path_name = 0x7f120080
-com.example.latinshopapp:string/mtrl_switch_thumb_path_morphing = 0x7f12007f
-com.example.latinshopapp:string/mtrl_switch_thumb_group_name = 0x7f12007d
-com.example.latinshopapp:string/mtrl_picker_toggle_to_year_selection = 0x7f12007c
-com.example.latinshopapp:string/mtrl_picker_toggle_to_calendar_input_mode = 0x7f120079
-com.example.latinshopapp:string/mtrl_picker_text_input_month_abbr = 0x7f120077
-com.example.latinshopapp:string/mtrl_picker_text_input_day_abbr = 0x7f120076
-com.example.latinshopapp:string/mtrl_picker_text_input_date_range_end_hint = 0x7f120074
-com.example.latinshopapp:string/mtrl_picker_text_input_date_hint = 0x7f120073
-com.example.latinshopapp:string/mtrl_picker_save = 0x7f120072
-com.example.latinshopapp:string/mtrl_picker_range_header_selected = 0x7f12006f
-com.example.latinshopapp:style/Base.ThemeOverlay.AppCompat = 0x7f13006d
-com.example.latinshopapp:string/mtrl_picker_range_header_only_end_selected = 0x7f12006d
-com.example.latinshopapp:string/mtrl_picker_invalid_range = 0x7f12006a
-com.example.latinshopapp:string/mtrl_picker_day_of_week_column_header = 0x7f120066
-com.example.latinshopapp:string/mtrl_picker_date_header_unselected = 0x7f120065
-com.example.latinshopapp:string/mtrl_picker_date_header_selected = 0x7f120063
-com.example.latinshopapp:string/mtrl_picker_cancel = 0x7f120061
-com.example.latinshopapp:string/mtrl_picker_a11y_prev_month = 0x7f12005f
-com.example.latinshopapp:string/mtrl_picker_a11y_next_month = 0x7f12005e
-com.example.latinshopapp:string/mtrl_exceed_max_badge_number_suffix = 0x7f12005d
-com.example.latinshopapp:string/mtrl_exceed_max_badge_number_content_description = 0x7f12005c
-com.example.latinshopapp:string/mtrl_chip_close_icon_content_description = 0x7f12005b
-com.example.latinshopapp:string/mtrl_checkbox_state_description_unchecked = 0x7f12005a
-com.example.latinshopapp:style/Theme.LatinShop = 0x7f130201
-com.example.latinshopapp:string/mtrl_checkbox_state_description_indeterminate = 0x7f120059
-com.example.latinshopapp:string/mtrl_checkbox_state_description_checked = 0x7f120058
-com.example.latinshopapp:string/mtrl_checkbox_button_path_unchecked = 0x7f120057
-com.example.latinshopapp:string/mtrl_checkbox_button_path_checked = 0x7f120054
-com.example.latinshopapp:string/mtrl_checkbox_button_icon_path_name = 0x7f120053
-com.example.latinshopapp:string/mtrl_checkbox_button_icon_path_indeterminate = 0x7f120052
-com.example.latinshopapp:string/material_timepicker_pm = 0x7f12004c
-com.example.latinshopapp:string/material_timepicker_hour = 0x7f12004a
-com.example.latinshopapp:string/material_timepicker_clock_mode_description = 0x7f120049
-com.example.latinshopapp:string/material_timepicker_am = 0x7f120048
-com.example.latinshopapp:string/material_slider_range_end = 0x7f120046
-com.example.latinshopapp:string/material_motion_easing_standard = 0x7f120045
-com.example.latinshopapp:string/mtrl_picker_announce_current_selection = 0x7f120060
-com.example.latinshopapp:string/material_motion_easing_emphasized = 0x7f120043
-com.example.latinshopapp:string/material_motion_easing_decelerated = 0x7f120042
-com.example.latinshopapp:string/material_motion_easing_accelerated = 0x7f120041
-com.example.latinshopapp:string/material_minute_selection = 0x7f12003f
-com.example.latinshopapp:string/material_hour_suffix = 0x7f12003e
-com.example.latinshopapp:style/Base.V24.Theme.Material3.Dark.Dialog = 0x7f1300a2
-com.example.latinshopapp:string/material_hour_selection = 0x7f12003d
-com.example.latinshopapp:string/material_clock_toggle_content_description = 0x7f12003c
-com.example.latinshopapp:string/m3_sys_motion_easing_standard_decelerate = 0x7f12003a
-com.example.latinshopapp:string/m3_sys_motion_easing_standard = 0x7f120038
-com.example.latinshopapp:style/ShapeAppearance.Material3.Corner.Medium = 0x7f130152
-com.example.latinshopapp:string/m3_sys_motion_easing_linear = 0x7f120037
-com.example.latinshopapp:style/ThemeOverlay.Material3.MaterialCalendar.HeaderCancelButton = 0x7f130280
-com.example.latinshopapp:string/m3_sys_motion_easing_legacy_decelerate = 0x7f120036
-com.example.latinshopapp:string/m3_sys_motion_easing_legacy_accelerate = 0x7f120035
-com.example.latinshopapp:string/m3_sys_motion_easing_legacy = 0x7f120034
-com.example.latinshopapp:string/m3_sys_motion_easing_emphasized_decelerate = 0x7f120032
-com.example.latinshopapp:string/m3_sys_motion_easing_emphasized_accelerate = 0x7f120031
-com.example.latinshopapp:string/m3_sys_motion_easing_emphasized = 0x7f120030
-com.example.latinshopapp:string/item_view_role_description = 0x7f12002f
-com.example.latinshopapp:string/hide_bottom_view_on_scroll_behavior = 0x7f12002d
->>>>>>> test
 com.example.latinshopapp:style/Widget.Material3.AutoCompleteTextView.OutlinedBox.Dense = 0x7f130310
 com.example.latinshopapp:string/fab_transformation_scrim_behavior = 0x7f12002b
 com.example.latinshopapp:string/error_a11y_label = 0x7f120028
@@ -897,7 +828,6 @@ com.example.latinshopapp:macro/m3_comp_extended_fab_surface_icon_color = 0x7f0e0
 com.example.latinshopapp:macro/m3_comp_extended_fab_secondary_container_color = 0x7f0e0005
 com.example.latinshopapp:macro/m3_comp_extended_fab_primary_container_color = 0x7f0e0001
 com.example.latinshopapp:style/Widget.AppCompat.Light.ActionButton.CloseMode = 0x7f1302d8
-<<<<<<< HEAD
 com.example.latinshopapp:layout/select_dialog_multichoice_material = 0x7f0d0069
 com.example.latinshopapp:layout/select_dialog_item_material = 0x7f0d0068
 com.example.latinshopapp:layout/notification_template_part_time = 0x7f0d0067
@@ -961,71 +891,6 @@ com.example.latinshopapp:layout/design_layout_tab_icon = 0x7f0d0027
 com.example.latinshopapp:layout/design_layout_snackbar_include = 0x7f0d0026
 com.example.latinshopapp:layout/design_bottom_sheet_dialog = 0x7f0d0024
 com.example.latinshopapp:layout/custom_dialog = 0x7f0d0022
-=======
-com.example.latinshopapp:layout/select_dialog_multichoice_material = 0x7f0d0068
-com.example.latinshopapp:layout/select_dialog_item_material = 0x7f0d0067
-com.example.latinshopapp:layout/notification_template_part_time = 0x7f0d0066
-com.example.latinshopapp:layout/notification_template_part_chronometer = 0x7f0d0065
-com.example.latinshopapp:layout/notification_template_icon_group = 0x7f0d0064
-com.example.latinshopapp:layout/mtrl_picker_text_input_date_range = 0x7f0d0060
-com.example.latinshopapp:layout/mtrl_picker_header_toggle = 0x7f0d005e
-com.example.latinshopapp:layout/mtrl_picker_header_title_text = 0x7f0d005d
-com.example.latinshopapp:layout/mtrl_picker_header_fullscreen = 0x7f0d005b
-com.example.latinshopapp:layout/mtrl_picker_header_dialog = 0x7f0d005a
-com.example.latinshopapp:layout/mtrl_picker_dialog = 0x7f0d0058
-com.example.latinshopapp:layout/mtrl_picker_actions = 0x7f0d0057
-com.example.latinshopapp:styleable/AnimatedStateListDrawableItem = 0x7f140008
-com.example.latinshopapp:style/Base.Theme.MaterialComponents = 0x7f13005a
-com.example.latinshopapp:layout/mtrl_layout_snackbar_include = 0x7f0d0055
-com.example.latinshopapp:style/ShapeAppearance.M3.Sys.Shape.Corner.Large = 0x7f13014a
-com.example.latinshopapp:layout/mtrl_layout_snackbar = 0x7f0d0054
-com.example.latinshopapp:styleable/ViewBackgroundHelper = 0x7f140093
-com.example.latinshopapp:style/Platform.V25.AppCompat.Light = 0x7f130130
-com.example.latinshopapp:layout/mtrl_calendar_year = 0x7f0d0053
-com.example.latinshopapp:layout/mtrl_calendar_vertical = 0x7f0d0052
-com.example.latinshopapp:layout/mtrl_calendar_months = 0x7f0d0051
-com.example.latinshopapp:layout/mtrl_calendar_month_navigation = 0x7f0d0050
-com.example.latinshopapp:style/Theme.MaterialComponents.Light = 0x7f130237
-com.example.latinshopapp:layout/mtrl_calendar_horizontal = 0x7f0d004d
-com.example.latinshopapp:layout/mtrl_calendar_days_of_week = 0x7f0d004c
-com.example.latinshopapp:style/Widget.MaterialComponents.AppBarLayout.Surface = 0x7f1303a4
-com.example.latinshopapp:layout/mtrl_calendar_day_of_week = 0x7f0d004b
-com.example.latinshopapp:layout/mtrl_alert_dialog = 0x7f0d0043
-com.example.latinshopapp:layout/material_timepicker_textinput_display = 0x7f0d0042
-com.example.latinshopapp:style/RtlOverlay.Widget.AppCompat.Search.DropDown.Text = 0x7f13013f
-com.example.latinshopapp:layout/material_timepicker_dialog = 0x7f0d0041
-com.example.latinshopapp:layout/material_time_input = 0x7f0d003f
-com.example.latinshopapp:style/RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1 = 0x7f13013c
-com.example.latinshopapp:style/Base.TextAppearance.AppCompat.Widget.Button = 0x7f130035
-com.example.latinshopapp:layout/material_textinput_timepicker = 0x7f0d003d
-com.example.latinshopapp:layout/material_radial_view_group = 0x7f0d003c
-com.example.latinshopapp:style/ThemeOverlay.MaterialComponents.TimePicker = 0x7f1302ae
-com.example.latinshopapp:layout/material_clockface_view = 0x7f0d003b
-com.example.latinshopapp:layout/material_clockface_textview = 0x7f0d003a
-com.example.latinshopapp:style/Widget.Material3.TextInputLayout.FilledBox.Dense.ExposedDropdownMenu = 0x7f130393
-com.example.latinshopapp:layout/material_clock_period_toggle_land = 0x7f0d0039
-com.example.latinshopapp:layout/material_clock_period_toggle = 0x7f0d0038
-com.example.latinshopapp:style/TextAppearance.MaterialComponents.Subtitle2 = 0x7f1301df
-com.example.latinshopapp:layout/material_chip_input_combo = 0x7f0d0035
-com.example.latinshopapp:layout/m3_auto_complete_simple_item = 0x7f0d0034
-com.example.latinshopapp:layout/m3_alert_dialog_title = 0x7f0d0033
-com.example.latinshopapp:layout/m3_alert_dialog = 0x7f0d0031
-com.example.latinshopapp:style/Widget.AppCompat.Button = 0x7f1302bf
-com.example.latinshopapp:style/Base.TextAppearance.AppCompat.Title.Inverse = 0x7f13002c
-com.example.latinshopapp:layout/design_text_input_start_icon = 0x7f0d0030
-com.example.latinshopapp:layout/design_text_input_end_icon = 0x7f0d002f
-com.example.latinshopapp:styleable/LinearLayoutCompat = 0x7f140048
-com.example.latinshopapp:layout/design_navigation_item_subheader = 0x7f0d002c
-com.example.latinshopapp:layout/design_navigation_item_header = 0x7f0d002a
-com.example.latinshopapp:layout/design_navigation_item = 0x7f0d0029
-com.example.latinshopapp:layout/design_menu_item_action_area = 0x7f0d0028
-com.example.latinshopapp:layout/design_layout_tab_text = 0x7f0d0027
-com.example.latinshopapp:style/ThemeOverlay.Material3.Dialog.Alert = 0x7f13026b
-com.example.latinshopapp:layout/design_layout_tab_icon = 0x7f0d0026
-com.example.latinshopapp:layout/design_layout_snackbar_include = 0x7f0d0025
-com.example.latinshopapp:layout/design_bottom_sheet_dialog = 0x7f0d0023
-com.example.latinshopapp:layout/custom_dialog = 0x7f0d0021
->>>>>>> test
 com.example.latinshopapp:layout/activity_main = 0x7f0d001e
 com.example.latinshopapp:layout/activity_login = 0x7f0d001d
 com.example.latinshopapp:style/Theme.AppCompat.DayNight.Dialog.Alert = 0x7f1301ea
@@ -1205,11 +1070,7 @@ com.example.latinshopapp:id/scrollable = 0x7f0a0178
 com.example.latinshopapp:id/scrollView = 0x7f0a0177
 com.example.latinshopapp:id/text = 0x7f0a01bb
 com.example.latinshopapp:id/scale = 0x7f0a0172
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_date_header_title = 0x7f120065
-=======
-com.example.latinshopapp:string/mtrl_picker_date_header_title = 0x7f120064
->>>>>>> test
 com.example.latinshopapp:attr/layout_constraintStart_toStartOf = 0x7f04025d
 com.example.latinshopapp:id/rounded = 0x7f0a016d
 com.example.latinshopapp:id/right_side = 0x7f0a016c
@@ -1260,11 +1121,7 @@ com.example.latinshopapp:id/pin = 0x7f0a015b
 com.example.latinshopapp:style/Theme.AppCompat.DayNight = 0x7f1301e7
 com.example.latinshopapp:color/material_harmonized_color_on_error_container = 0x7f0601f9
 com.example.latinshopapp:id/mtrl_calendar_days_of_week = 0x7f0a0120
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_alert_dialog_actions = 0x7f0d0045
-=======
-com.example.latinshopapp:layout/mtrl_alert_dialog_actions = 0x7f0d0044
->>>>>>> test
 com.example.latinshopapp:dimen/notification_large_icon_width = 0x7f070259
 com.example.latinshopapp:id/mtrl_anchor_parent = 0x7f0a011e
 com.example.latinshopapp:id/motion_base = 0x7f0a011d
@@ -1392,11 +1249,7 @@ com.example.latinshopapp:id/content = 0x7f0a007f
 com.example.latinshopapp:id/confirm_button = 0x7f0a007c
 com.example.latinshopapp:id/collapseActionView = 0x7f0a007a
 com.example.latinshopapp:id/clear_text = 0x7f0a0075
-<<<<<<< HEAD
 com.example.latinshopapp:layout/notification_action_tombstone = 0x7f0d0063
-=======
-com.example.latinshopapp:layout/notification_action_tombstone = 0x7f0d0062
->>>>>>> test
 com.example.latinshopapp:color/m3_ref_palette_neutral_variant100 = 0x7f0600f7
 com.example.latinshopapp:color/m3_ref_palette_secondary95 = 0x7f06011a
 com.example.latinshopapp:id/src_atop = 0x7f0a019e
@@ -1435,11 +1288,7 @@ com.example.latinshopapp:attr/stackFromEnd = 0x7f0403ac
 com.example.latinshopapp:id/animation_view = 0x7f0a004e
 com.example.latinshopapp:id/always = 0x7f0a004b
 com.example.latinshopapp:id/ifRoom = 0x7f0a00e0
-<<<<<<< HEAD
 com.example.latinshopapp:layout/material_timepicker = 0x7f0d0041
-=======
-com.example.latinshopapp:layout/material_timepicker = 0x7f0d0040
->>>>>>> test
 com.example.latinshopapp:id/action_bar_subtitle = 0x7f0a0038
 com.example.latinshopapp:id/all = 0x7f0a0049
 com.example.latinshopapp:id/aligned = 0x7f0a0048
@@ -1508,11 +1357,7 @@ com.example.latinshopapp:drawable/notify_panel_notification_icon_bg = 0x7f0800d0
 com.example.latinshopapp:style/Widget.Material3.TabLayout.OnSurface = 0x7f13038b
 com.example.latinshopapp:dimen/m3_btn_translation_z_hovered = 0x7f0700d9
 com.example.latinshopapp:drawable/notification_tile_bg = 0x7f0800cf
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_switch_thumb_path_unchecked = 0x7f120083
-=======
-com.example.latinshopapp:string/mtrl_switch_thumb_path_unchecked = 0x7f120082
->>>>>>> test
 com.example.latinshopapp:macro/m3_comp_switch_disabled_selected_handle_color = 0x7f0e0016
 com.example.latinshopapp:attr/actionModeCloseContentDescription = 0x7f040014
 com.example.latinshopapp:drawable/notification_template_icon_low_bg = 0x7f0800ce
@@ -1543,11 +1388,7 @@ com.example.latinshopapp:animator/mtrl_btn_unelevated_state_list_anim = 0x7f0200
 com.example.latinshopapp:drawable/mtrl_ic_arrow_drop_up = 0x7f0800ad
 com.example.latinshopapp:id/search_voice_btn = 0x7f0a0182
 com.example.latinshopapp:drawable/mtrl_checkbox_button_unchecked_checked = 0x7f0800a9
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_picker_fullscreen = 0x7f0d005a
-=======
-com.example.latinshopapp:layout/mtrl_picker_fullscreen = 0x7f0d0059
->>>>>>> test
 com.example.latinshopapp:drawable/mtrl_checkbox_button_icon_unchecked_indeterminate = 0x7f0800a8
 com.example.latinshopapp:drawable/mtrl_checkbox_button_icon_unchecked_checked = 0x7f0800a7
 com.example.latinshopapp:drawable/mtrl_checkbox_button_icon_checked_indeterminate = 0x7f0800a3
@@ -1558,29 +1399,17 @@ com.example.latinshopapp:color/m3_ref_palette_neutral_variant70 = 0x7f0600fd
 com.example.latinshopapp:attr/shapeAppearanceCornerMedium = 0x7f040384
 com.example.latinshopapp:dimen/m3_card_elevated_hovered_z = 0x7f0700dd
 com.example.latinshopapp:drawable/material_ic_menu_arrow_up_black_24dp = 0x7f08009e
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_checkbox_button_icon_path_checked = 0x7f120051
-=======
-com.example.latinshopapp:string/mtrl_checkbox_button_icon_path_checked = 0x7f120050
->>>>>>> test
 com.example.latinshopapp:drawable/material_ic_menu_arrow_down_black_24dp = 0x7f08009d
 com.example.latinshopapp:drawable/material_ic_keyboard_arrow_right_black_24dp = 0x7f08009c
 com.example.latinshopapp:attr/ifTagSet = 0x7f0401fa
 com.example.latinshopapp:drawable/material_cursor_drawable = 0x7f080095
 com.example.latinshopapp:drawable/m3_tabs_transparent_background = 0x7f080094
-<<<<<<< HEAD
 com.example.latinshopapp:string/material_timepicker_minute = 0x7f12004c
 com.example.latinshopapp:color/material_slider_active_tick_marks_color = 0x7f060204
 com.example.latinshopapp:drawable/$mtrl_checkbox_button_checked_unchecked__2 = 0x7f080009
 com.example.latinshopapp:drawable/m3_tabs_rounded_line_indicator = 0x7f080093
 com.example.latinshopapp:string/material_slider_range_start = 0x7f120048
-=======
-com.example.latinshopapp:string/material_timepicker_minute = 0x7f12004b
-com.example.latinshopapp:color/material_slider_active_tick_marks_color = 0x7f060204
-com.example.latinshopapp:drawable/$mtrl_checkbox_button_checked_unchecked__2 = 0x7f080009
-com.example.latinshopapp:drawable/m3_tabs_rounded_line_indicator = 0x7f080093
-com.example.latinshopapp:string/material_slider_range_start = 0x7f120047
->>>>>>> test
 com.example.latinshopapp:drawable/m3_tabs_background = 0x7f080091
 com.example.latinshopapp:style/ShapeAppearance.M3.Comp.Switch.StateLayer.Shape = 0x7f130145
 com.example.latinshopapp:attr/floatingActionButtonLargePrimaryStyle = 0x7f0401a6
@@ -1612,11 +1441,7 @@ com.example.latinshopapp:drawable/abc_text_select_handle_right_mtrl = 0x7f08006b
 com.example.latinshopapp:attr/motionDurationExtraLong3 = 0x7f0402f0
 com.example.latinshopapp:drawable/abc_text_select_handle_middle_mtrl = 0x7f08006a
 com.example.latinshopapp:drawable/abc_text_cursor_material = 0x7f080068
-<<<<<<< HEAD
 com.example.latinshopapp:string/password_toggle_content_description = 0x7f120088
-=======
-com.example.latinshopapp:string/password_toggle_content_description = 0x7f120087
->>>>>>> test
 com.example.latinshopapp:drawable/abc_tab_indicator_mtrl_alpha = 0x7f080067
 com.example.latinshopapp:drawable/abc_tab_indicator_material = 0x7f080066
 com.example.latinshopapp:attr/wavePhase = 0x7f04048e
@@ -1642,11 +1467,7 @@ com.example.latinshopapp:attr/saturation = 0x7f040372
 com.example.latinshopapp:drawable/mtrl_navigation_bar_item_background = 0x7f0800b4
 com.example.latinshopapp:attr/materialIconButtonStyle = 0x7f0402ce
 com.example.latinshopapp:drawable/abc_popup_background_mtrl_mult = 0x7f080054
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_alert_select_dialog_singlechoice = 0x7f0d0049
-=======
-com.example.latinshopapp:layout/mtrl_alert_select_dialog_singlechoice = 0x7f0d0048
->>>>>>> test
 com.example.latinshopapp:animator/mtrl_btn_state_list_anim = 0x7f020012
 com.example.latinshopapp:drawable/abc_menu_hardkey_panel_mtrl_mult = 0x7f080053
 com.example.latinshopapp:drawable/abc_list_selector_holo_light = 0x7f080052
@@ -1681,11 +1502,7 @@ com.example.latinshopapp:dimen/material_input_text_to_prefix_suffix_padding = 0x
 com.example.latinshopapp:drawable/abc_ic_commit_search_api_mtrl_alpha = 0x7f08003b
 com.example.latinshopapp:drawable/abc_ic_arrow_drop_right_black_24dp = 0x7f080039
 com.example.latinshopapp:color/m3_ref_palette_dynamic_neutral_variant0 = 0x7f0600a7
-<<<<<<< HEAD
-com.example.latinshopapp:font/poppinslight = 0x7f090000
-=======
 com.example.latinshopapp:font/poppinslight = 0x7f090001
->>>>>>> test
 com.example.latinshopapp:drawable/abc_ic_ab_back_material = 0x7f080038
 com.example.latinshopapp:drawable/abc_edit_text_material = 0x7f080037
 com.example.latinshopapp:string/androidx_startup = 0x7f12001b
@@ -1723,21 +1540,13 @@ com.example.latinshopapp:drawable/$mtrl_switch_thumb_unchecked_checked__0 = 0x7f
 com.example.latinshopapp:attr/colorPrimarySurface = 0x7f0400fc
 com.example.latinshopapp:drawable/$mtrl_switch_thumb_checked_unchecked__0 = 0x7f08001c
 com.example.latinshopapp:drawable/mtrl_ic_check_mark = 0x7f0800af
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_confirm = 0x7f120063
-=======
-com.example.latinshopapp:string/mtrl_picker_confirm = 0x7f120062
->>>>>>> test
 com.example.latinshopapp:id/transitionToStart = 0x7f0a01d6
 com.example.latinshopapp:dimen/notification_media_narrow_margin = 0x7f07025b
 com.example.latinshopapp:drawable/$mtrl_checkbox_button_unchecked_checked__0 = 0x7f080018
 com.example.latinshopapp:attr/motionDurationShort3 = 0x7f0402fc
 com.example.latinshopapp:drawable/abc_ic_menu_selectall_mtrl_alpha = 0x7f080041
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_checkbox_button_path_group_name = 0x7f120056
-=======
-com.example.latinshopapp:string/mtrl_checkbox_button_path_group_name = 0x7f120055
->>>>>>> test
 com.example.latinshopapp:drawable/$mtrl_checkbox_button_icon_unchecked_indeterminate__0 = 0x7f080015
 com.example.latinshopapp:attr/materialIconButtonFilledStyle = 0x7f0402cb
 com.example.latinshopapp:attr/titleTextAppearance = 0x7f040456
@@ -1761,11 +1570,7 @@ com.example.latinshopapp:attr/constraintRotate = 0x7f040108
 com.example.latinshopapp:drawable/$avd_show_password__0 = 0x7f080003
 com.example.latinshopapp:drawable/$avd_hide_password__2 = 0x7f080002
 com.example.latinshopapp:drawable/$avd_hide_password__0 = 0x7f080000
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_text_input_year_abbr = 0x7f120079
-=======
-com.example.latinshopapp:string/mtrl_picker_text_input_year_abbr = 0x7f120078
->>>>>>> test
 com.example.latinshopapp:macro/m3_comp_switch_unselected_hover_icon_color = 0x7f0e0033
 com.example.latinshopapp:dimen/tooltip_y_offset_touch = 0x7f07026a
 com.example.latinshopapp:attr/materialTimePickerStyle = 0x7f0402d1
@@ -1843,11 +1648,7 @@ com.example.latinshopapp:dimen/mtrl_shape_corner_size_medium_component = 0x7f070
 com.example.latinshopapp:attr/elevationOverlayAccentColor = 0x7f04016e
 com.example.latinshopapp:dimen/mtrl_progress_track_thickness = 0x7f07022c
 com.example.latinshopapp:dimen/mtrl_progress_indicator_full_rounded_corner_radius = 0x7f07022b
-<<<<<<< HEAD
 com.example.latinshopapp:string/material_minute_suffix = 0x7f120041
-=======
-com.example.latinshopapp:string/material_minute_suffix = 0x7f120040
->>>>>>> test
 com.example.latinshopapp:drawable/notification_bg_low = 0x7f0800c7
 com.example.latinshopapp:dimen/mtrl_progress_circular_track_thickness_medium = 0x7f070229
 com.example.latinshopapp:dimen/mtrl_progress_circular_size_medium = 0x7f070226
@@ -1973,11 +1774,7 @@ com.example.latinshopapp:dimen/mtrl_btn_padding_top = 0x7f0701b3
 com.example.latinshopapp:attr/listChoiceIndicatorMultipleAnimated = 0x7f040283
 com.example.latinshopapp:dimen/mtrl_btn_padding_bottom = 0x7f0701b0
 com.example.latinshopapp:style/Widget.MaterialComponents.MaterialCalendar.Year.Selected = 0x7f1303e7
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_calendar_day = 0x7f0d004b
-=======
-com.example.latinshopapp:layout/mtrl_calendar_day = 0x7f0d004a
->>>>>>> test
 com.example.latinshopapp:dimen/mtrl_btn_hovered_z = 0x7f0701aa
 com.example.latinshopapp:attr/materialCalendarHeaderCancelButton = 0x7f0402b6
 com.example.latinshopapp:id/mtrl_calendar_year_selector_frame = 0x7f0a0126
@@ -2017,11 +1814,7 @@ com.example.latinshopapp:dimen/material_filled_edittext_font_2_0_padding_bottom 
 com.example.latinshopapp:dimen/material_emphasis_high_type = 0x7f07017e
 com.example.latinshopapp:drawable/mtrl_checkbox_button = 0x7f0800a0
 com.example.latinshopapp:dimen/material_divider_thickness = 0x7f07017b
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_checkbox_button_path_name = 0x7f120057
-=======
-com.example.latinshopapp:string/mtrl_checkbox_button_path_name = 0x7f120056
->>>>>>> test
 com.example.latinshopapp:id/design_bottom_sheet = 0x7f0a0093
 com.example.latinshopapp:dimen/abc_action_bar_default_padding_start_material = 0x7f070004
 com.example.latinshopapp:dimen/material_cursor_inset_top = 0x7f070179
@@ -2054,11 +1847,7 @@ com.example.latinshopapp:dimen/mtrl_calendar_header_text_padding = 0x7f0701cf
 com.example.latinshopapp:id/textinput_prefix_text = 0x7f0a01cb
 com.example.latinshopapp:dimen/m3_sys_motion_easing_standard_accelerate_control_y2 = 0x7f07015d
 com.example.latinshopapp:dimen/m3_sys_motion_easing_standard_accelerate_control_x2 = 0x7f07015b
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_picker_header_selection_text = 0x7f0d005d
-=======
-com.example.latinshopapp:layout/mtrl_picker_header_selection_text = 0x7f0d005c
->>>>>>> test
 com.example.latinshopapp:dimen/abc_search_view_preferred_height = 0x7f070036
 com.example.latinshopapp:dimen/m3_sys_motion_easing_linear_control_y2 = 0x7f070159
 com.example.latinshopapp:dimen/m3_sys_motion_easing_legacy_decelerate_control_y2 = 0x7f070155
@@ -2088,11 +1877,7 @@ com.example.latinshopapp:attr/currentState = 0x7f040134
 com.example.latinshopapp:dimen/m3_sys_elevation_level5 = 0x7f070141
 com.example.latinshopapp:layout/abc_screen_toolbar = 0x7f0d0017
 com.example.latinshopapp:dimen/m3_sys_elevation_level2 = 0x7f07013e
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_badge_numberless_content_description = 0x7f120050
-=======
-com.example.latinshopapp:string/mtrl_badge_numberless_content_description = 0x7f12004f
->>>>>>> test
 com.example.latinshopapp:layout/abc_select_dialog_material = 0x7f0d001a
 com.example.latinshopapp:dimen/m3_sys_elevation_level1 = 0x7f07013d
 com.example.latinshopapp:id/action_divider = 0x7f0a003c
@@ -2108,11 +1893,7 @@ com.example.latinshopapp:dimen/m3_ripple_pressed_alpha = 0x7f070133
 com.example.latinshopapp:style/ThemeOverlay.MaterialComponents.TimePicker.Display = 0x7f1302af
 com.example.latinshopapp:dimen/mtrl_extended_fab_translation_z_base = 0x7f0701fe
 com.example.latinshopapp:dimen/m3_ripple_hovered_alpha = 0x7f070132
-<<<<<<< HEAD
 com.example.latinshopapp:layout/design_navigation_menu_item = 0x7f0d002f
-=======
-com.example.latinshopapp:layout/design_navigation_menu_item = 0x7f0d002e
->>>>>>> test
 com.example.latinshopapp:id/centerInside = 0x7f0a006b
 com.example.latinshopapp:style/Widget.MaterialComponents.Toolbar.PrimarySurface = 0x7f130417
 com.example.latinshopapp:dimen/m3_comp_extended_fab_primary_hover_container_elevation = 0x7f0700ee
@@ -2190,18 +1971,11 @@ com.example.latinshopapp:dimen/m3_comp_fab_primary_hover_state_layer_opacity = 0
 com.example.latinshopapp:macro/m3_comp_bottom_app_bar_container_color = 0x7f0e0000
 com.example.latinshopapp:dimen/m3_comp_fab_primary_container_height = 0x7f0700f4
 com.example.latinshopapp:dimen/m3_comp_fab_primary_container_elevation = 0x7f0700f3
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_out_of_range = 0x7f12006d
 com.example.latinshopapp:dimen/m3_comp_extended_fab_primary_pressed_container_elevation = 0x7f0700f1
 com.example.latinshopapp:drawable/mtrl_switch_thumb_pressed = 0x7f0800bb
 com.example.latinshopapp:dimen/m3_comp_extended_fab_primary_icon_size = 0x7f0700f0
 com.example.latinshopapp:layout/activity_products = 0x7f0d001f
-=======
-com.example.latinshopapp:string/mtrl_picker_out_of_range = 0x7f12006c
-com.example.latinshopapp:dimen/m3_comp_extended_fab_primary_pressed_container_elevation = 0x7f0700f1
-com.example.latinshopapp:drawable/mtrl_switch_thumb_pressed = 0x7f0800bb
-com.example.latinshopapp:dimen/m3_comp_extended_fab_primary_icon_size = 0x7f0700f0
->>>>>>> test
 com.example.latinshopapp:dimen/m3_comp_extended_fab_primary_hover_state_layer_opacity = 0x7f0700ef
 com.example.latinshopapp:dimen/m3_comp_extended_fab_primary_container_elevation = 0x7f0700ea
 com.example.latinshopapp:dimen/m3_comp_bottom_app_bar_container_elevation = 0x7f0700e8
@@ -2210,11 +1984,7 @@ com.example.latinshopapp:dimen/m3_chip_elevated_elevation = 0x7f0700e5
 com.example.latinshopapp:dimen/m3_chip_disabled_translation_z = 0x7f0700e3
 com.example.latinshopapp:dimen/m3_chip_corner_size = 0x7f0700e2
 com.example.latinshopapp:id/cache_measures = 0x7f0a0065
-<<<<<<< HEAD
 com.example.latinshopapp:layout/activity_restore = 0x7f0d0021
-=======
-com.example.latinshopapp:layout/activity_restore = 0x7f0d0020
->>>>>>> test
 com.example.latinshopapp:dimen/m3_card_stroke_width = 0x7f0700e0
 com.example.latinshopapp:dimen/m3_card_elevated_dragged_z = 0x7f0700db
 com.example.latinshopapp:dimen/m3_btn_text_btn_padding_right = 0x7f0700d7
@@ -2393,11 +2163,7 @@ com.example.latinshopapp:style/Widget.MaterialComponents.NavigationRailView.Colo
 com.example.latinshopapp:dimen/abc_action_bar_default_height_material = 0x7f070002
 com.example.latinshopapp:color/yellow = 0x7f060260
 com.example.latinshopapp:color/white = 0x7f06025f
-<<<<<<< HEAD
 com.example.latinshopapp:string/search_menu_title = 0x7f12008d
-=======
-com.example.latinshopapp:string/search_menu_title = 0x7f12008c
->>>>>>> test
 com.example.latinshopapp:color/m3_ref_palette_dynamic_tertiary90 = 0x7f0600d8
 com.example.latinshopapp:color/switch_thumb_normal_material_dark = 0x7f06025b
 com.example.latinshopapp:style/TextAppearance.MaterialComponents.Headline3 = 0x7f1301d9
@@ -2468,11 +2234,7 @@ com.example.latinshopapp:dimen/mtrl_calendar_day_horizontal_padding = 0x7f0701c3
 com.example.latinshopapp:color/mtrl_filled_stroke_color = 0x7f060228
 com.example.latinshopapp:color/m3_chip_background_color = 0x7f060070
 com.example.latinshopapp:id/bottom = 0x7f0a005f
-<<<<<<< HEAD
 com.example.latinshopapp:string/material_motion_easing_linear = 0x7f120045
-=======
-com.example.latinshopapp:string/material_motion_easing_linear = 0x7f120044
->>>>>>> test
 com.example.latinshopapp:color/mtrl_filled_icon_tint = 0x7f060227
 com.example.latinshopapp:color/abc_btn_colored_text_material = 0x7f060003
 com.example.latinshopapp:color/mtrl_fab_ripple_color = 0x7f060225
@@ -2518,11 +2280,7 @@ com.example.latinshopapp:style/TextAppearance.AppCompat.Display1 = 0x7f130175
 com.example.latinshopapp:color/material_slider_inactive_tick_marks_color = 0x7f060207
 com.example.latinshopapp:color/material_slider_halo_color = 0x7f060206
 com.example.latinshopapp:color/material_on_surface_emphasis_medium = 0x7f060202
-<<<<<<< HEAD
 com.example.latinshopapp:layout/notification_action = 0x7f0d0062
-=======
-com.example.latinshopapp:layout/notification_action = 0x7f0d0061
->>>>>>> test
 com.example.latinshopapp:color/material_on_surface_emphasis_high_type = 0x7f060201
 com.example.latinshopapp:id/x_right = 0x7f0a01f3
 com.example.latinshopapp:color/material_on_surface_disabled = 0x7f060200
@@ -2681,11 +2439,7 @@ com.example.latinshopapp:color/mtrl_popupmenu_overlay_color = 0x7f060235
 com.example.latinshopapp:color/m3_sys_color_light_on_secondary = 0x7f060183
 com.example.latinshopapp:attr/buttonIconTint = 0x7f040080
 com.example.latinshopapp:color/m3_sys_color_light_on_primary = 0x7f060181
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_calendar_month = 0x7f0d004f
-=======
-com.example.latinshopapp:layout/mtrl_calendar_month = 0x7f0d004e
->>>>>>> test
 com.example.latinshopapp:color/m3_sys_color_light_on_error_container = 0x7f060180
 com.example.latinshopapp:attr/materialDividerStyle = 0x7f0402ca
 com.example.latinshopapp:drawable/mtrl_switch_thumb_pressed_checked = 0x7f0800bc
@@ -2734,11 +2488,7 @@ com.example.latinshopapp:color/m3_sys_color_dynamic_light_background = 0x7f06016
 com.example.latinshopapp:color/m3_sys_color_dynamic_dark_tertiary_container = 0x7f060161
 com.example.latinshopapp:color/m3_tabs_ripple_color = 0x7f060193
 com.example.latinshopapp:color/m3_sys_color_dynamic_dark_tertiary = 0x7f060160
-<<<<<<< HEAD
 com.example.latinshopapp:string/m3_sys_motion_easing_emphasized_path_data = 0x7f120034
-=======
-com.example.latinshopapp:string/m3_sys_motion_easing_emphasized_path_data = 0x7f120033
->>>>>>> test
 com.example.latinshopapp:color/m3_sys_color_dynamic_dark_surface_variant = 0x7f06015f
 com.example.latinshopapp:style/Base.Theme.AppCompat.Dialog.Alert = 0x7f130049
 com.example.latinshopapp:id/decelerate = 0x7f0a008d
@@ -2841,17 +2591,10 @@ com.example.latinshopapp:dimen/mtrl_btn_text_btn_padding_right = 0x7f0701b9
 com.example.latinshopapp:color/m3_ref_palette_secondary40 = 0x7f060114
 com.example.latinshopapp:attr/arrowHeadLength = 0x7f040035
 com.example.latinshopapp:color/m3_ref_palette_secondary100 = 0x7f060111
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_invalid_format = 0x7f120068
 com.example.latinshopapp:color/m3_sys_color_dynamic_dark_on_surface_variant = 0x7f060156
 com.example.latinshopapp:styleable/MaterialButton = 0x7f140050
 com.example.latinshopapp:string/path_password_eye = 0x7f120089
-=======
-com.example.latinshopapp:string/mtrl_picker_invalid_format = 0x7f120067
-com.example.latinshopapp:color/m3_sys_color_dynamic_dark_on_surface_variant = 0x7f060156
-com.example.latinshopapp:styleable/MaterialButton = 0x7f140050
-com.example.latinshopapp:string/path_password_eye = 0x7f120088
->>>>>>> test
 com.example.latinshopapp:attr/layout_scrollEffect = 0x7f040278
 com.example.latinshopapp:color/m3_ref_palette_primary70 = 0x7f06010a
 com.example.latinshopapp:color/m3_sys_color_dynamic_dark_surface = 0x7f06015e
@@ -2866,11 +2609,7 @@ com.example.latinshopapp:style/ThemeOverlay.MaterialComponents.Dialog.Alert.Fram
 com.example.latinshopapp:color/m3_ref_palette_primary30 = 0x7f060106
 com.example.latinshopapp:attr/checkMarkTint = 0x7f04009c
 com.example.latinshopapp:color/m3_ref_palette_primary100 = 0x7f060104
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_toggle_to_text_input_mode = 0x7f12007c
-=======
-com.example.latinshopapp:string/mtrl_picker_toggle_to_text_input_mode = 0x7f12007b
->>>>>>> test
 com.example.latinshopapp:attr/progressBarPadding = 0x7f040356
 com.example.latinshopapp:color/m3_ref_palette_primary0 = 0x7f060102
 com.example.latinshopapp:color/m3_ref_palette_neutral_variant99 = 0x7f060101
@@ -2890,20 +2629,12 @@ com.example.latinshopapp:color/m3_ref_palette_neutral_variant50 = 0x7f0600fb
 com.example.latinshopapp:style/Base.Theme.MaterialComponents.Dialog = 0x7f13005d
 com.example.latinshopapp:color/m3_ref_palette_neutral_variant30 = 0x7f0600f9
 com.example.latinshopapp:styleable/ShapeableImageView = 0x7f14007b
-<<<<<<< HEAD
 com.example.latinshopapp:layout/design_navigation_menu = 0x7f0d002e
-=======
-com.example.latinshopapp:layout/design_navigation_menu = 0x7f0d002d
->>>>>>> test
 com.example.latinshopapp:attr/icon = 0x7f0401f0
 com.example.latinshopapp:color/m3_ref_palette_neutral_variant10 = 0x7f0600f6
 com.example.latinshopapp:drawable/mtrl_dropdown_arrow = 0x7f0800ab
 com.example.latinshopapp:color/m3_ref_palette_neutral90 = 0x7f0600f2
-<<<<<<< HEAD
 com.example.latinshopapp:layout/design_bottom_navigation_item = 0x7f0d0023
-=======
-com.example.latinshopapp:layout/design_bottom_navigation_item = 0x7f0d0022
->>>>>>> test
 com.example.latinshopapp:attr/titleCentered = 0x7f04044c
 com.example.latinshopapp:id/anticipate = 0x7f0a0050
 com.example.latinshopapp:style/ThemeOverlay.AppCompat.Light = 0x7f130251
@@ -2917,13 +2648,8 @@ com.example.latinshopapp:color/m3_ref_palette_neutral10 = 0x7f0600e9
 com.example.latinshopapp:color/m3_ref_palette_error99 = 0x7f0600e7
 com.example.latinshopapp:drawable/$mtrl_checkbox_button_icon_checked_unchecked__0 = 0x7f08000b
 com.example.latinshopapp:style/Base.Widget.AppCompat.ListMenuView = 0x7f1300d5
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_range_header_title = 0x7f120071
 com.example.latinshopapp:string/material_timepicker_text_input_mode_description = 0x7f12004f
-=======
-com.example.latinshopapp:string/mtrl_picker_range_header_title = 0x7f120070
-com.example.latinshopapp:string/material_timepicker_text_input_mode_description = 0x7f12004e
->>>>>>> test
 com.example.latinshopapp:color/m3_ref_palette_error95 = 0x7f0600e6
 com.example.latinshopapp:id/on = 0x7f0a0149
 com.example.latinshopapp:layout/abc_action_bar_title_item = 0x7f0d0000
@@ -2966,17 +2692,10 @@ com.example.latinshopapp:xml/backup_rules = 0x7f150000
 com.example.latinshopapp:attr/altSrc = 0x7f04002e
 com.example.latinshopapp:drawable/abc_scrubber_control_to_pressed_mtrl_000 = 0x7f080059
 com.example.latinshopapp:attr/windowFixedHeightMajor = 0x7f040494
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_toggle_to_day_selection = 0x7f12007b
 com.example.latinshopapp:color/m3_ref_palette_dynamic_neutral99 = 0x7f0600a6
 com.example.latinshopapp:id/material_clock_face = 0x7f0a0102
 com.example.latinshopapp:layout/select_dialog_singlechoice_material = 0x7f0d006a
-=======
-com.example.latinshopapp:string/mtrl_picker_toggle_to_day_selection = 0x7f12007a
-com.example.latinshopapp:color/m3_ref_palette_dynamic_neutral99 = 0x7f0600a6
-com.example.latinshopapp:id/material_clock_face = 0x7f0a0102
-com.example.latinshopapp:layout/select_dialog_singlechoice_material = 0x7f0d0069
->>>>>>> test
 com.example.latinshopapp:color/m3_ref_palette_dynamic_neutral80 = 0x7f0600a3
 com.example.latinshopapp:drawable/abc_textfield_activated_mtrl_alpha = 0x7f08006c
 com.example.latinshopapp:attr/colorBackgroundFloating = 0x7f0400e0
@@ -3041,11 +2760,7 @@ com.example.latinshopapp:attr/itemPaddingTop = 0x7f040219
 com.example.latinshopapp:id/coordinator = 0x7f0a0083
 com.example.latinshopapp:id/bounceBoth = 0x7f0a0061
 com.example.latinshopapp:color/m3_button_ripple_color_selector = 0x7f060067
-<<<<<<< HEAD
 com.example.latinshopapp:layout/notification_template_custom_big = 0x7f0d0064
-=======
-com.example.latinshopapp:layout/notification_template_custom_big = 0x7f0d0063
->>>>>>> test
 com.example.latinshopapp:attr/toolbarStyle = 0x7f04045d
 com.example.latinshopapp:dimen/compat_button_inset_horizontal_material = 0x7f070056
 com.example.latinshopapp:id/masked = 0x7f0a00fe
@@ -3152,11 +2867,7 @@ com.example.latinshopapp:color/androidx_core_secondary_text_default_material_lig
 com.example.latinshopapp:dimen/notification_action_icon_size = 0x7f070254
 com.example.latinshopapp:color/androidx_core_ripple_material_light = 0x7f06001b
 com.example.latinshopapp:style/Widget.Material3.MaterialCalendar.Year = 0x7f130370
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_alert_select_dialog_item = 0x7f0d0047
-=======
-com.example.latinshopapp:layout/mtrl_alert_select_dialog_item = 0x7f0d0046
->>>>>>> test
 com.example.latinshopapp:attr/touchRegionId = 0x7f040466
 com.example.latinshopapp:dimen/m3_appbar_scrim_height_trigger_large = 0x7f0700a7
 com.example.latinshopapp:style/Widget.MaterialComponents.TimePicker.Display = 0x7f13040e
@@ -3210,11 +2921,7 @@ com.example.latinshopapp:color/m3_sys_color_dark_on_secondary = 0x7f06013d
 com.example.latinshopapp:color/abc_primary_text_material_light = 0x7f06000c
 com.example.latinshopapp:attr/windowFixedWidthMinor = 0x7f040497
 com.example.latinshopapp:attr/popupWindowStyle = 0x7f040350
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_switch_thumb_path_checked = 0x7f12007f
-=======
-com.example.latinshopapp:string/mtrl_switch_thumb_path_checked = 0x7f12007e
->>>>>>> test
 com.example.latinshopapp:drawable/$mtrl_checkbox_button_checked_unchecked__1 = 0x7f080008
 com.example.latinshopapp:attr/windowFixedHeightMinor = 0x7f040495
 com.example.latinshopapp:attr/layout_constraintEnd_toEndOf = 0x7f040249
@@ -3240,11 +2947,7 @@ com.example.latinshopapp:dimen/compat_button_padding_horizontal_material = 0x7f0
 com.example.latinshopapp:attr/useCompatPadding = 0x7f04047e
 com.example.latinshopapp:attr/fontProviderFetchStrategy = 0x7f0401cc
 com.example.latinshopapp:attr/maxActionInlineWidth = 0x7f0402d5
-<<<<<<< HEAD
 com.example.latinshopapp:string/icon_content_description = 0x7f12002f
-=======
-com.example.latinshopapp:string/icon_content_description = 0x7f12002e
->>>>>>> test
 com.example.latinshopapp:attr/shapeAppearanceLargeComponent = 0x7f040386
 com.example.latinshopapp:dimen/m3_sys_motion_easing_emphasized_accelerate_control_y2 = 0x7f070145
 com.example.latinshopapp:attr/upDuration = 0x7f04047d
@@ -3278,11 +2981,7 @@ com.example.latinshopapp:attr/motionDurationMedium1 = 0x7f0402f6
 com.example.latinshopapp:color/m3_chip_stroke_color = 0x7f060072
 com.example.latinshopapp:id/dimensions = 0x7f0a0099
 com.example.latinshopapp:attr/trackThickness = 0x7f040470
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_invalid_format_example = 0x7f120069
-=======
-com.example.latinshopapp:string/mtrl_picker_invalid_format_example = 0x7f120068
->>>>>>> test
 com.example.latinshopapp:id/editTextBirthDate = 0x7f0a00ad
 com.example.latinshopapp:color/design_fab_stroke_top_outer_color = 0x7f060052
 com.example.latinshopapp:attr/trackDecorationTint = 0x7f04046d
@@ -3328,11 +3027,7 @@ com.example.latinshopapp:color/bright_foreground_material_dark = 0x7f060027
 com.example.latinshopapp:anim/btn_radio_to_on_mtrl_dot_group_animation = 0x7f010015
 com.example.latinshopapp:attr/titleMarginBottom = 0x7f040450
 com.example.latinshopapp:color/material_dynamic_primary10 = 0x7f0601c9
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_calendar_month_labeled = 0x7f0d0050
-=======
-com.example.latinshopapp:layout/mtrl_calendar_month_labeled = 0x7f0d004f
->>>>>>> test
 com.example.latinshopapp:color/m3_ref_palette_dynamic_primary40 = 0x7f0600b9
 com.example.latinshopapp:style/TextAppearance.Design.Hint = 0x7f1301aa
 com.example.latinshopapp:id/closest = 0x7f0a0079
@@ -3371,11 +3066,7 @@ com.example.latinshopapp:attr/yearSelectedStyle = 0x7f04049b
 com.example.latinshopapp:dimen/disabled_alpha_material_dark = 0x7f07008e
 com.example.latinshopapp:color/m3_ref_palette_neutral_variant0 = 0x7f0600f5
 com.example.latinshopapp:attr/thumbTextPadding = 0x7f04043f
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_range_header_unselected = 0x7f120072
-=======
-com.example.latinshopapp:string/mtrl_picker_range_header_unselected = 0x7f120071
->>>>>>> test
 com.example.latinshopapp:attr/counterTextAppearance = 0x7f040131
 com.example.latinshopapp:attr/thumbStrokeWidth = 0x7f04043e
 com.example.latinshopapp:string/abc_action_menu_overflow_description = 0x7f120002
@@ -3409,11 +3100,7 @@ com.example.latinshopapp:dimen/mtrl_calendar_day_height = 0x7f0701c2
 com.example.latinshopapp:attr/tickMark = 0x7f040445
 com.example.latinshopapp:color/m3_sys_color_dark_secondary = 0x7f060146
 com.example.latinshopapp:attr/textInputFilledExposedDropdownMenuStyle = 0x7f040424
-<<<<<<< HEAD
 com.example.latinshopapp:layout/activity_register = 0x7f0d0020
-=======
-com.example.latinshopapp:layout/activity_register = 0x7f0d001f
->>>>>>> test
 com.example.latinshopapp:attr/checkedIconSize = 0x7f0400a5
 com.example.latinshopapp:attr/onHide = 0x7f040328
 com.example.latinshopapp:id/homeAsUp = 0x7f0a00db
@@ -3439,11 +3126,7 @@ com.example.latinshopapp:attr/textAppearanceSmallPopupMenu = 0x7f040414
 com.example.latinshopapp:attr/tabIconTint = 0x7f0403d7
 com.example.latinshopapp:attr/textAppearanceSearchResultSubtitle = 0x7f040412
 com.example.latinshopapp:attr/textAppearanceLargePopupMenu = 0x7f04040b
-<<<<<<< HEAD
 com.example.latinshopapp:string/material_clock_display_divider = 0x7f12003c
-=======
-com.example.latinshopapp:string/material_clock_display_divider = 0x7f12003b
->>>>>>> test
 com.example.latinshopapp:attr/expandedTitleMarginBottom = 0x7f04018a
 com.example.latinshopapp:color/mtrl_tabs_legacy_text_color_selector = 0x7f06023e
 com.example.latinshopapp:attr/textAppearanceLabelSmall = 0x7f04040a
@@ -3486,11 +3169,7 @@ com.example.latinshopapp:color/m3_ref_palette_dynamic_primary60 = 0x7f0600bb
 com.example.latinshopapp:color/material_dynamic_tertiary50 = 0x7f0601e8
 com.example.latinshopapp:attr/textAppearanceBodyLarge = 0x7f0403f7
 com.example.latinshopapp:macro/m3_comp_fab_tertiary_icon_color = 0x7f0e0015
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_navigation_rail_item = 0x7f0d0057
-=======
-com.example.latinshopapp:layout/mtrl_navigation_rail_item = 0x7f0d0056
->>>>>>> test
 com.example.latinshopapp:dimen/mtrl_calendar_selection_text_baseline_to_top = 0x7f0701dd
 com.example.latinshopapp:id/material_timepicker_view = 0x7f0a0111
 com.example.latinshopapp:attr/textAppearanceBody1 = 0x7f0403f5
@@ -3503,11 +3182,7 @@ com.example.latinshopapp:attr/telltales_velocityMode = 0x7f0403f3
 com.example.latinshopapp:attr/behavior_halfExpandedRatio = 0x7f04005a
 com.example.latinshopapp:attr/telltales_tailScale = 0x7f0403f2
 com.example.latinshopapp:dimen/m3_chip_icon_size = 0x7f0700e7
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_alert_dialog_title = 0x7f0d0046
-=======
-com.example.latinshopapp:layout/mtrl_alert_dialog_title = 0x7f0d0045
->>>>>>> test
 com.example.latinshopapp:dimen/design_navigation_item_vertical_padding = 0x7f07007a
 com.example.latinshopapp:attr/tabSecondaryStyle = 0x7f0403ea
 com.example.latinshopapp:attr/tabPaddingStart = 0x7f0403e7
@@ -3670,11 +3345,7 @@ com.example.latinshopapp:color/m3_ref_palette_neutral_variant95 = 0x7f060100
 com.example.latinshopapp:attr/searchHintIcon = 0x7f040377
 com.example.latinshopapp:style/Widget.AppCompat.Light.ActionBar.Solid = 0x7f1302cf
 com.example.latinshopapp:attr/scrimBackground = 0x7f040375
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_navigate_to_year_description = 0x7f12006c
-=======
-com.example.latinshopapp:string/mtrl_picker_navigate_to_year_description = 0x7f12006b
->>>>>>> test
 com.example.latinshopapp:dimen/m3_sys_motion_easing_legacy_decelerate_control_x2 = 0x7f070153
 com.example.latinshopapp:dimen/mtrl_navigation_elevation = 0x7f070210
 com.example.latinshopapp:style/Base.V21.Theme.MaterialComponents = 0x7f130096
@@ -3688,11 +3359,7 @@ com.example.latinshopapp:style/Base.DialogWindowTitleBackground.AppCompat = 0x7f
 com.example.latinshopapp:color/m3_fab_efab_background_color_selector = 0x7f060087
 com.example.latinshopapp:macro/m3_comp_extended_fab_tertiary_icon_color = 0x7f0e000a
 com.example.latinshopapp:dimen/m3_sys_state_focus_state_layer_opacity = 0x7f070167
-<<<<<<< HEAD
 com.example.latinshopapp:layout/design_navigation_item_separator = 0x7f0d002c
-=======
-com.example.latinshopapp:layout/design_navigation_item_separator = 0x7f0d002b
->>>>>>> test
 com.example.latinshopapp:layout/abc_screen_simple_overlay_action_mode = 0x7f0d0016
 com.example.latinshopapp:attr/region_heightMoreThan = 0x7f040369
 com.example.latinshopapp:attr/fabSize = 0x7f04019f
@@ -3750,11 +3417,7 @@ com.example.latinshopapp:color/material_dynamic_neutral100 = 0x7f0601b0
 com.example.latinshopapp:attr/percentWidth = 0x7f040343
 com.example.latinshopapp:attr/minSeparation = 0x7f0402e4
 com.example.latinshopapp:attr/path_percent = 0x7f040341
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_alert_select_dialog_multichoice = 0x7f0d0048
-=======
-com.example.latinshopapp:layout/mtrl_alert_select_dialog_multichoice = 0x7f0d0047
->>>>>>> test
 com.example.latinshopapp:attr/layoutManager = 0x7f040236
 com.example.latinshopapp:attr/behavior_hideable = 0x7f04005b
 com.example.latinshopapp:attr/textLocale = 0x7f04042b
@@ -3902,19 +3565,11 @@ com.example.latinshopapp:attr/motionDurationMedium2 = 0x7f0402f7
 com.example.latinshopapp:attr/textOutlineThickness = 0x7f04042d
 com.example.latinshopapp:attr/motionDurationLong4 = 0x7f0402f5
 com.example.latinshopapp:attr/motionDurationLong2 = 0x7f0402f3
-<<<<<<< HEAD
 com.example.latinshopapp:layout/material_time_chip = 0x7f0d003f
 com.example.latinshopapp:id/centerCrop = 0x7f0a006a
 com.example.latinshopapp:attr/headerLayout = 0x7f0401dd
 com.example.latinshopapp:color/design_dark_default_color_on_background = 0x7f060033
 com.example.latinshopapp:layout/material_clock_display = 0x7f0d0037
-=======
-com.example.latinshopapp:layout/material_time_chip = 0x7f0d003e
-com.example.latinshopapp:id/centerCrop = 0x7f0a006a
-com.example.latinshopapp:attr/headerLayout = 0x7f0401dd
-com.example.latinshopapp:color/design_dark_default_color_on_background = 0x7f060033
-com.example.latinshopapp:layout/material_clock_display = 0x7f0d0036
->>>>>>> test
 com.example.latinshopapp:attr/motionDurationLong1 = 0x7f0402f2
 com.example.latinshopapp:id/material_clock_display = 0x7f0a0101
 com.example.latinshopapp:attr/colorSurfaceVariant = 0x7f040103
@@ -3929,11 +3584,7 @@ com.example.latinshopapp:id/overshoot = 0x7f0a014f
 com.example.latinshopapp:attr/mock_showLabel = 0x7f0402ec
 com.example.latinshopapp:attr/mock_showDiagonals = 0x7f0402eb
 com.example.latinshopapp:id/special_effects_controller_view_tag = 0x7f0a0197
-<<<<<<< HEAD
 com.example.latinshopapp:layout/support_simple_spinner_dropdown_item = 0x7f0d006b
-=======
-com.example.latinshopapp:layout/support_simple_spinner_dropdown_item = 0x7f0d006a
->>>>>>> test
 com.example.latinshopapp:attr/errorIconDrawable = 0x7f04017f
 com.example.latinshopapp:attr/actionLayout = 0x7f04000f
 com.example.latinshopapp:attr/selectableItemBackgroundBorderless = 0x7f04037c
@@ -3972,11 +3623,7 @@ com.example.latinshopapp:attr/counterOverflowTextColor = 0x7f040130
 com.example.latinshopapp:attr/materialIconButtonOutlinedStyle = 0x7f0402cd
 com.example.latinshopapp:style/Widget.Material3.TextInputLayout.OutlinedBox.Dense = 0x7f130396
 com.example.latinshopapp:attr/materialDisplayDividerStyle = 0x7f0402c8
-<<<<<<< HEAD
 com.example.latinshopapp:layout/m3_alert_dialog_actions = 0x7f0d0033
-=======
-com.example.latinshopapp:layout/m3_alert_dialog_actions = 0x7f0d0032
->>>>>>> test
 com.example.latinshopapp:attr/materialCardViewElevatedStyle = 0x7f0402c2
 com.example.latinshopapp:color/design_default_color_on_secondary = 0x7f060043
 com.example.latinshopapp:attr/reactiveGuide_applyToAllConstraintSets = 0x7f040364
@@ -4018,17 +3665,10 @@ com.example.latinshopapp:attr/lottie_cacheComposition = 0x7f040297
 com.example.latinshopapp:attr/colorPrimary = 0x7f0400f8
 com.example.latinshopapp:id/textStart = 0x7f0a01c0
 com.example.latinshopapp:attr/logoScaleType = 0x7f040294
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_switch_track_decoration_path = 0x7f120084
 com.example.latinshopapp:attr/reverseLayout = 0x7f04036d
 com.example.latinshopapp:attr/verticalOffsetWithText = 0x7f040482
 com.example.latinshopapp:string/m3_sys_motion_easing_standard_accelerate = 0x7f12003a
-=======
-com.example.latinshopapp:string/mtrl_switch_track_decoration_path = 0x7f120083
-com.example.latinshopapp:attr/reverseLayout = 0x7f04036d
-com.example.latinshopapp:attr/verticalOffsetWithText = 0x7f040482
-com.example.latinshopapp:string/m3_sys_motion_easing_standard_accelerate = 0x7f120039
->>>>>>> test
 com.example.latinshopapp:dimen/notification_top_pad = 0x7f070261
 com.example.latinshopapp:style/Base.Widget.AppCompat.CompoundButton.CheckBox = 0x7f1300c5
 com.example.latinshopapp:attr/behavior_autoShrink = 0x7f040056
@@ -4041,11 +3681,7 @@ com.example.latinshopapp:attr/listPreferredItemPaddingRight = 0x7f04028f
 com.example.latinshopapp:attr/listPreferredItemPaddingEnd = 0x7f04028d
 com.example.latinshopapp:color/material_dynamic_primary20 = 0x7f0601cb
 com.example.latinshopapp:style/Theme.MaterialComponents.Light.DarkActionBar = 0x7f13023a
-<<<<<<< HEAD
 com.example.latinshopapp:layout/design_layout_snackbar = 0x7f0d0025
-=======
-com.example.latinshopapp:layout/design_layout_snackbar = 0x7f0d0024
->>>>>>> test
 com.example.latinshopapp:color/material_dynamic_neutral30 = 0x7f0601b2
 com.example.latinshopapp:color/green = 0x7f06005d
 com.example.latinshopapp:style/ThemeOverlay.Material3.ExtendedFloatingActionButton.Tertiary = 0x7f130273
@@ -4131,11 +3767,7 @@ com.example.latinshopapp:drawable/btn_checkbox_checked_to_unchecked_mtrl_animati
 com.example.latinshopapp:attr/drawableBottomCompat = 0x7f04015a
 com.example.latinshopapp:attr/layout_constraintRight_toLeftOf = 0x7f04025a
 com.example.latinshopapp:attr/layout_constraintLeft_toLeftOf = 0x7f040257
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_auto_complete_simple_item = 0x7f0d004a
-=======
-com.example.latinshopapp:layout/mtrl_auto_complete_simple_item = 0x7f0d0049
->>>>>>> test
 com.example.latinshopapp:color/material_dynamic_neutral_variant95 = 0x7f0601c6
 com.example.latinshopapp:style/TextAppearance.MaterialComponents.Badge = 0x7f1301d1
 com.example.latinshopapp:style/Base.Widget.Material3.MaterialCalendar.NavigationButton = 0x7f1300fb
@@ -4311,15 +3943,9 @@ com.example.latinshopapp:dimen/m3_comp_switch_unselected_pressed_state_layer_opa
 com.example.latinshopapp:attr/trackColorActive = 0x7f040469
 com.example.latinshopapp:interpolator/mtrl_fast_out_linear_in = 0x7f0c000e
 com.example.latinshopapp:attr/hintAnimationEnabled = 0x7f0401e7
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_text_input_date_range_start_hint = 0x7f120076
 com.example.latinshopapp:color/m3_ref_palette_primary80 = 0x7f06010b
 com.example.latinshopapp:string/mtrl_picker_invalid_format_use = 0x7f12006a
-=======
-com.example.latinshopapp:string/mtrl_picker_text_input_date_range_start_hint = 0x7f120075
-com.example.latinshopapp:color/m3_ref_palette_primary80 = 0x7f06010b
-com.example.latinshopapp:string/mtrl_picker_invalid_format_use = 0x7f120069
->>>>>>> test
 com.example.latinshopapp:dimen/m3_extended_fab_bottom_padding = 0x7f070112
 com.example.latinshopapp:attr/state_indeterminate = 0x7f0403b8
 com.example.latinshopapp:attr/hideAnimationBehavior = 0x7f0401e3
@@ -4328,11 +3954,7 @@ com.example.latinshopapp:attr/customFloatValue = 0x7f04013a
 com.example.latinshopapp:dimen/design_snackbar_action_inline_max_width = 0x7f07007e
 com.example.latinshopapp:attr/searchViewStyle = 0x7f040379
 com.example.latinshopapp:attr/customColorValue = 0x7f040138
-<<<<<<< HEAD
 com.example.latinshopapp:layout/material_clock_display_divider = 0x7f0d0038
-=======
-com.example.latinshopapp:layout/material_clock_display_divider = 0x7f0d0037
->>>>>>> test
 com.example.latinshopapp:attr/imageButtonStyle = 0x7f0401fb
 com.example.latinshopapp:attr/carousel_nextState = 0x7f040094
 com.example.latinshopapp:attr/actionDropDownStyle = 0x7f04000e
@@ -4423,11 +4045,7 @@ com.example.latinshopapp:attr/nestedScrollViewStyle = 0x7f040323
 com.example.latinshopapp:attr/floatingActionButtonSmallStyle = 0x7f0401af
 com.example.latinshopapp:attr/floatingActionButtonPrimaryStyle = 0x7f0401ab
 com.example.latinshopapp:style/Base.V14.Theme.Material3.Dark.BottomSheetDialog = 0x7f13007e
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_checkbox_button_icon_path_group_name = 0x7f120052
-=======
-com.example.latinshopapp:string/mtrl_checkbox_button_icon_path_group_name = 0x7f120051
->>>>>>> test
 com.example.latinshopapp:color/m3_chip_ripple_color = 0x7f060071
 com.example.latinshopapp:dimen/abc_dialog_list_padding_bottom_no_buttons = 0x7f070020
 com.example.latinshopapp:style/ShapeAppearanceOverlay.Material3.FloatingActionButton = 0x7f130165
@@ -4627,11 +4245,7 @@ com.example.latinshopapp:attr/deltaPolarRadius = 0x7f040148
 com.example.latinshopapp:style/TextAppearance.MaterialComponents.Button = 0x7f1301d4
 com.example.latinshopapp:id/with_icon = 0x7f0a01ed
 com.example.latinshopapp:color/m3_ref_palette_dynamic_primary10 = 0x7f0600b5
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_switch_thumb_path_pressed = 0x7f120082
-=======
-com.example.latinshopapp:string/mtrl_switch_thumb_path_pressed = 0x7f120081
->>>>>>> test
 com.example.latinshopapp:attr/deltaPolarAngle = 0x7f040147
 com.example.latinshopapp:id/transitionToEnd = 0x7f0a01d5
 com.example.latinshopapp:style/Animation.MaterialComponents.BottomSheetDialog = 0x7f130006
@@ -4654,11 +4268,7 @@ com.example.latinshopapp:attr/colorControlHighlight = 0x7f0400e4
 com.example.latinshopapp:styleable/MaterialRadioButton = 0x7f140058
 com.example.latinshopapp:id/x_left = 0x7f0a01f2
 com.example.latinshopapp:style/Base.V14.Theme.Material3.Light.Dialog = 0x7f130082
-<<<<<<< HEAD
 com.example.latinshopapp:string/material_timepicker_select_time = 0x7f12004e
-=======
-com.example.latinshopapp:string/material_timepicker_select_time = 0x7f12004d
->>>>>>> test
 com.example.latinshopapp:id/navigation_bar_item_small_label_view = 0x7f0a013b
 com.example.latinshopapp:color/m3_ref_palette_dynamic_neutral_variant90 = 0x7f0600b1
 com.example.latinshopapp:anim/abc_popup_enter = 0x7f010003
@@ -4684,11 +4294,7 @@ com.example.latinshopapp:animator/fragment_fade_enter = 0x7f020005
 com.example.latinshopapp:dimen/notification_big_circle_margin = 0x7f070256
 com.example.latinshopapp:attr/checkedIconEnabled = 0x7f0400a2
 com.example.latinshopapp:attr/clockHandColor = 0x7f0400c8
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_timepicker_cancel = 0x7f120086
-=======
-com.example.latinshopapp:string/mtrl_timepicker_cancel = 0x7f120085
->>>>>>> test
 com.example.latinshopapp:drawable/mtrl_switch_thumb_pressed_unchecked = 0x7f0800bd
 com.example.latinshopapp:dimen/design_fab_border_width = 0x7f07006e
 com.example.latinshopapp:style/Base.Widget.AppCompat.ListView = 0x7f1300d7
@@ -4751,11 +4357,8 @@ com.example.latinshopapp:attr/motionEffect_move = 0x7f04030c
 com.example.latinshopapp:attr/colorOnSurfaceInverse = 0x7f0400f3
 com.example.latinshopapp:dimen/mtrl_shape_corner_size_large_component = 0x7f07022d
 com.example.latinshopapp:attr/flow_horizontalBias = 0x7f0401ba
-<<<<<<< HEAD
-=======
 com.example.latinshopapp:id/software = 0x7f0a0194
 com.example.latinshopapp:font/poppins_extrabold = 0x7f090000
->>>>>>> test
 com.example.latinshopapp:attr/colorControlActivated = 0x7f0400e3
 com.example.latinshopapp:attr/colorOnPrimarySurface = 0x7f0400ef
 com.example.latinshopapp:attr/colorOnSurface = 0x7f0400f2
@@ -5096,10 +4699,6 @@ com.example.latinshopapp:style/Widget.Material3.TextInputEditText.FilledBox.Dens
 com.example.latinshopapp:attr/checkedIconGravity = 0x7f0400a3
 com.example.latinshopapp:animator/m3_extended_fab_hide_motion_spec = 0x7f02000f
 com.example.latinshopapp:color/m3_checkbox_button_tint = 0x7f06006e
-<<<<<<< HEAD
-com.example.latinshopapp:id/software = 0x7f0a0194
-=======
->>>>>>> test
 com.example.latinshopapp:array/com_google_android_gms_fonts_certs_prod = 0x7f030002
 com.example.latinshopapp:dimen/m3_chip_checked_hovered_translation_z = 0x7f0700e1
 com.example.latinshopapp:attr/buttonBarNegativeButtonStyle = 0x7f040078
@@ -5192,11 +4791,7 @@ com.example.latinshopapp:style/TextAppearance.MaterialComponents.Headline1 = 0x7
 com.example.latinshopapp:attr/tabTextAppearance = 0x7f0403ed
 com.example.latinshopapp:color/m3_checkbox_button_icon_tint = 0x7f06006d
 com.example.latinshopapp:animator/mtrl_extended_fab_change_size_expand_motion_spec = 0x7f020017
-<<<<<<< HEAD
 com.example.latinshopapp:layout/mtrl_picker_text_input_date = 0x7f0d0060
-=======
-com.example.latinshopapp:layout/mtrl_picker_text_input_date = 0x7f0d005f
->>>>>>> test
 com.example.latinshopapp:attr/tabInlineLabel = 0x7f0403e0
 com.example.latinshopapp:color/m3_ref_palette_dynamic_tertiary30 = 0x7f0600d2
 com.example.latinshopapp:anim/linear_indeterminate_line2_tail_interpolator = 0x7f010020
@@ -5214,11 +4809,7 @@ com.example.latinshopapp:style/Widget.AppCompat.Light.SearchView = 0x7f1302e2
 com.example.latinshopapp:attr/drawableTintMode = 0x7f040161
 com.example.latinshopapp:drawable/mtrl_ic_checkbox_checked = 0x7f0800b0
 com.example.latinshopapp:color/design_default_color_error = 0x7f06003f
-<<<<<<< HEAD
 com.example.latinshopapp:string/mtrl_picker_range_header_only_start_selected = 0x7f12006f
-=======
-com.example.latinshopapp:string/mtrl_picker_range_header_only_start_selected = 0x7f12006e
->>>>>>> test
 com.example.latinshopapp:dimen/mtrl_progress_circular_inset_medium = 0x7f070221
 com.example.latinshopapp:attr/itemFillColor = 0x7f04020f
 com.example.latinshopapp:attr/materialCalendarHeaderTitle = 0x7f0402bb
