@@ -1,4 +1,4 @@
-#Mon Oct 31 02:20:21 COT 2022
-base.0=C\:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\sprint 2\\proyecto real\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Thu Nov 03 23:15:11 COT 2022
+base.0=C\:\\Users\\User\\Desktop\\Ciclo 4\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

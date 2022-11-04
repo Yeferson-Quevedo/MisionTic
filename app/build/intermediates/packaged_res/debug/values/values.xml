@@ -7,6 +7,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#FFDE59</color>
     <string name="app_name">LatinShopApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <style name="Theme.LatinShop" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/blue</item>

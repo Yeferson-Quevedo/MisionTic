@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
+import com.example.latinshopapp.HomeFragment
 import com.example.latinshopapp.R
 import org.w3c.dom.Text
 
@@ -22,7 +23,7 @@ class LoginActivity : AppCompatActivity() {
             startActivity(Intent(this,RegisterActivity::class.java))
         }
         Iniciobutton.setOnClickListener(){
-            startActivity(Intent(this,HomeActivity::class.java))
+            startActivity(Intent(this,HomeFragment::class.java))
         }
         Restaurarbutton.setOnClickListener(){
             startActivity(Intent(this,RestoreActivity::class.java))

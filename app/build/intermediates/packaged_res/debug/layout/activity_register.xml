@@ -145,6 +145,8 @@
         android:shadowDy="40"
         android:shadowRadius="50"
         android:text="Registrarse"
+        android:textStyle="bold"
+        app:backgroundTint="@android:color/holo_green_dark"
         app:cornerRadius="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
