@@ -3319,8 +3319,8 @@ int layout design_navigation_menu 0x7f0d002e
 int layout design_navigation_menu_item 0x7f0d002f
 int layout design_text_input_end_icon 0x7f0d0030
 int layout design_text_input_start_icon 0x7f0d0031
-int layout fragment_first 0x7f0d006e
 int layout fragment_home 0x7f0d0032
+int layout fragment_primero 0x7f0d006f
 int layout m3_alert_dialog 0x7f0d0034
 int layout m3_alert_dialog_actions 0x7f0d0035
 int layout m3_alert_dialog_title 0x7f0d0036

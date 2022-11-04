@@ -49,8 +49,8 @@ layout activity_main
 layout activity_products
 layout activity_register
 layout activity_restore
-layout fragment_first
 layout fragment_home
+layout fragment_primero
 mipmap ic_launcher
 mipmap ic_launcher_round
 raw shopping_cart_animation

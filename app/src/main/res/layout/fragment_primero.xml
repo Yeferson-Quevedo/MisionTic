@@ -3,16 +3,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".view.ui.activities.fragments.FirstFragment">
+    tools:context=".view.ui.activities.fragments.primeroFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment"
-        android:textSize="302dp"
-        tools:layout_editor_absoluteX="78dp"
-        tools:layout_editor_absoluteY="54dp" />
-
+        android:text="@string/hello_blank_fragment" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

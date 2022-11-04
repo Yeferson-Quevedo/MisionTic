@@ -8,8 +8,7 @@ import android.view.ViewGroup
 import com.example.latinshopapp.R
 
 
-class FirstFragment : Fragment() {
-    // TODO: Rename and change types of parameters
+class primeroFragment : Fragment() {
 
 
     override fun onCreateView(
@@ -17,8 +16,7 @@ class FirstFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-
-        return inflater.inflate(R.layout.fragment_first, container, false)
+        return inflater.inflate(R.layout.fragment_primero, container, false)
     }
 
 
