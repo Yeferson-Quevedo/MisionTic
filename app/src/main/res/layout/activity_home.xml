@@ -6,4 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".view.ui.activities.HomeActivity">
 
+    <androidx.fragment.app.FragmentContainerView
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        android:id="@+id/nav_container"
+        tools:ignore="MissingConstraints" />
+
+
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

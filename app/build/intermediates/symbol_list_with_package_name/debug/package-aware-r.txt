@@ -2572,11 +2572,18 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable buzonasa
+drawable buzonino
+drawable chaquetas
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ellas
+drawable hoddies
+drawable home
+drawable home1
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2589,6 +2596,8 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable logo
+drawable logo1
+drawable logo2
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2645,6 +2654,8 @@ drawable mtrl_switch_track
 drawable mtrl_switch_track_decoration
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable ninas
+drawable ninos
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -2659,6 +2670,7 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable stylo_border_editext
 drawable test_level_drawable
+drawable theme_gradients_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 font poppins_extrabold
@@ -2973,6 +2985,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id nav_container
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3307,6 +3320,8 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_first
+layout fragment_home
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title

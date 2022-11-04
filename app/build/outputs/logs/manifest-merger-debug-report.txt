@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-62:12
-INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-62:12
-INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-62:12
-INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-62:12
+ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-66:12
 MERGED from [androidx.databinding:databinding-adapters:7.3.1] C:\Users\fenix\.gradle\caches\transforms-3\edacc3688a2e22b21331f499cdc5980c\transformed\databinding-adapters-7.3.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.databinding:databinding-ktx:7.3.1] C:\Users\fenix\.gradle\caches\transforms-3\72858fdceebb75785080ded3d4e3ef1d\transformed\databinding-ktx-7.3.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.databinding:databinding-runtime:7.3.1] C:\Users\fenix\.gradle\caches\transforms-3\220b789892534b6d06f1baf067f2e11d\transformed\databinding-runtime-7.3.1\AndroidManifest.xml:2:1-9:12
@@ -51,27 +51,27 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fenix\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fenix\.gradle\caches\transforms-3\eb096476208bed94cd51cc904aa804e3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\fenix\.gradle\caches\transforms-3\87b6f924c6c766718f595823a69da52a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\fenix\.gradle\caches\transforms-3\fb44608a9e1d20332c6690b5dda0b67e\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-62:12
-INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-62:12
-INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-66:12
 	package
 		INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-62:12
+		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-66:12
 		INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-62:12
+		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-66:12
 		INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-62:12
+		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:1-66:12
 		INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:5:5-60:19
+ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:5:5-64:19
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\fenix\.gradle\caches\transforms-3\53edefe15d403f8467620aa121e38059\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\fenix\.gradle\caches\transforms-3\53edefe15d403f8467620aa121e38059\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\fenix\.gradle\caches\transforms-3\38043517c514ada7a9c17da61d45b16b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -155,11 +155,11 @@ ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_lat
 	android:name
 		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:49:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:57:9-59:57
+ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:61:9-63:57
 	android:resource
-		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:59:13-54
+		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:63:13-54
 	android:name
-		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:58:13-43
+		ADDED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml:62:13-43
 uses-sdk
 INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\AndroidManifest.xml
