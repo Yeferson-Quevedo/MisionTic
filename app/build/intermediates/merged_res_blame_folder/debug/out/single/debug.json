@@ -64,10 +64,6 @@
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\drawable-v24\\ninos.PNG"
     },
     {
-        "merged": "com.example.latinshopapp-merged_res-35:/layout_fragment_first.xml.flat",
-        "source": "com.example.latinshopapp-main-37:/layout/fragment_first.xml"
-    },
-    {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\layout_fragment_home.xml.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\layout\\fragment_home.xml"
     },
@@ -104,6 +100,10 @@
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\font\\poppins_extrabold.ttf"
     },
     {
+        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\layout\\fragment_first.xml"
+    },
+    {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-30:\\drawable-xhdpi\\ic_launcher_background.png"
     },
@@ -118,10 +118,6 @@
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-37:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "com.example.latinshopapp-merged_res-35:/layout_activity_home.xml.flat",
-        "source": "com.example.latinshopapp-main-37:/layout/activity_home.xml"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-35:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",

@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="@string/hello_blank_fragment"
-        and
+        android:textSize="302dp"
         tools:layout_editor_absoluteX="78dp"
         tools:layout_editor_absoluteY="54dp" />
 

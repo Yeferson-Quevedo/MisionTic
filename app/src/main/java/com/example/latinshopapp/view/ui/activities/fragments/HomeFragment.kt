@@ -1,4 +1,4 @@
-package com.example.latinshopapp.view.ui.activities
+package com.example.latinshopapp.view.ui.activities.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
