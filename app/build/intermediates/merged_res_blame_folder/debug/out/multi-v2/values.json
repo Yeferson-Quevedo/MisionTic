@@ -93,6 +93,42 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\app_cambiosGuia5\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,127",
+                        "endColumns": "49,69",
+                        "endOffsets": "62,192"
+                    },
+                    "to": {
+                        "startLines": "1712,1731",
+                        "startColumns": "4,4",
+                        "startOffsets": "109103,111397",
+                        "endColumns": "49,69",
+                        "endOffsets": "109148,111462"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\app_cambiosGuia5\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "818"
+                    },
+                    "to": {
+                        "startLines": "5873",
+                        "startColumns": "4",
+                        "startOffsets": "401647",
+                        "endLines": "5885",
+                        "endColumns": "12",
+                        "endOffsets": "402228"
+                    }
+                },
+                {
                     "source": "C:\\Users\\fenix\\.gradle\\caches\\transforms-3\\e2ead5f317d22088c48cad1a61f8b969\\transformed\\viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -150,26 +186,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\applicacion_latinShop\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "818"
-                    },
-                    "to": {
-                        "startLines": "5873",
-                        "startColumns": "4",
-                        "startOffsets": "401647",
-                        "endLines": "5885",
-                        "endColumns": "12",
-                        "endOffsets": "402228"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\applicacion_latinShop\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\app_cambiosGuia5\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "6,2,3,5,7,4",
                         "startColumns": "4,4,4,4,4,4",
@@ -205,39 +222,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\applicacion_latinShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\app_cambiosGuia5\\app\\src\\main\\res\\values\\font_certs.xml",
                     "from": {
-                        "startLines": "1,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "17,127",
-                        "endColumns": "49,69",
-                        "endOffsets": "62,192"
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,263,1993",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "257,1987,3582"
                     },
                     "to": {
-                        "startLines": "1712,1731",
-                        "startColumns": "4,4",
-                        "startOffsets": "109103,111397",
-                        "endColumns": "49,69",
-                        "endOffsets": "109148,111462"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\applicacion_latinShop\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "168"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "3667",
-                        "endLines": "18",
-                        "endColumns": "12",
-                        "endOffsets": "3776"
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "150,352,2077",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "347,2072,3662"
                     }
                 },
                 {
@@ -260,22 +260,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\applicacion_latinShop\\app\\src\\main\\res\\values\\font_certs.xml",
+                    "source": "C:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\app_cambiosGuia5\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
                     "from": {
-                        "startLines": "2,6,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "57,263,1993",
-                        "endLines": "5,10,15",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "257,1987,3582"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "168"
                     },
                     "to": {
-                        "startLines": "2,6,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "150,352,2077",
-                        "endLines": "5,10,15",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "347,2072,3662"
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "3667",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "3776"
                     }
                 },
                 {

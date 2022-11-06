@@ -2564,6 +2564,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable ayuda
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2574,7 +2575,10 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable buzonasa
 drawable buzonino
+drawable carrito
+drawable catalogo
 drawable chaquetas
+drawable cuenta
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -2668,11 +2672,13 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable ruta
 drawable stylo_border_editext
 drawable test_level_drawable
 drawable theme_gradients_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable wishlist
 font poppins_extrabold
 font poppinslight
 id ALT
@@ -2681,6 +2687,7 @@ id BOTTOM_START
 id CTRL
 id FUNCTION
 id META
+id MainScroll
 id NO_DEBUG
 id SHIFT
 id SHOW_ALL
@@ -2764,6 +2771,7 @@ id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
 id automatic
+id banner
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -2802,6 +2810,7 @@ id compress
 id confirm_button
 id constraint
 id container
+id contenedorPrincipal
 id content
 id contentPanel
 id contiguous
@@ -2924,9 +2933,11 @@ id leftToRight
 id legacy
 id line1
 id line3
+id lineBlack
 id linear
 id listMode
 id list_item
+id logo
 id lottie_layer_name
 id marquee
 id masked
@@ -2986,6 +2997,7 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
 id nav_container
+id nav_grahn
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3122,6 +3134,7 @@ id tag_window_insets_animation_callback
 id text
 id text2
 id textEnd
+id textHoddie
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
@@ -3320,8 +3333,13 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout fragment_home
-layout fragment_primero
+layout fragment_ayuda
+layout fragment_carrito
+layout fragment_catalogo
+layout fragment_cuenta
+layout fragment_menu
+layout fragment_rutapedido
+layout fragment_wishlist
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3382,6 +3400,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+navigation nav_grahn
 plurals mtrl_badge_content_description
 raw shopping_cart_animation
 string abc_action_bar_home_description

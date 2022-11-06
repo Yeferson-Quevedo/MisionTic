@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import com.example.latinshopapp.R
 
 
-class primeroFragment : Fragment() {
+class menuFragment : Fragment() {
 
 
     override fun onCreateView(
@@ -16,7 +16,7 @@ class primeroFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_primero, container, false)
+        return inflater.inflate(R.layout.fragment_menu, container, false)
     }
 
 
