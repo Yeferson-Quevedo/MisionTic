@@ -20,6 +20,8 @@
     <color name="black">#FF000000</color>
     <color name="blue">#00C2CB</color>
     <color name="green">#C9E265</color>
+    <color name="griss">#F5F5F5F5</color>
+    <color name="grissOscuro">#a5a5a5a5</color>
     <color name="orange">#FF914D</color>
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#FFDE59</color>

@@ -7,12 +7,17 @@ array preloaded_fonts
 color black
 color blue
 color green
+color griss
+color grissOscuro
 color orange
 color white
 color yellow
+drawable add
 drawable ayuda
 drawable buzonasa
 drawable buzonino
+drawable buzopunto
+drawable buzostilo
 drawable carrito
 drawable catalogo
 drawable chaquetas
@@ -28,6 +33,10 @@ drawable logo1
 drawable logo2
 drawable ninas
 drawable ninos
+drawable pantalon
+drawable polo
+drawable ropaelegante
+drawable ropaoficina
 drawable ruta
 drawable stylo_border_editext
 drawable theme_gradients_background
@@ -52,6 +61,7 @@ id cardruta
 id cardwishlist
 id carritoFragment
 id catalogoFragment
+id contenedor2
 id contenedorPrincipal
 id cuentaFragment
 id editTextBirthDate
@@ -74,6 +84,8 @@ id registrobutton
 id restaurarbutton
 id rutapedidoFragment
 id textHoddie
+id textHoddie2
+id textPolo
 id textView
 id wishlistFragment
 layout activity_home
@@ -86,6 +98,7 @@ layout fragment_ayuda
 layout fragment_carrito
 layout fragment_catalogo
 layout fragment_cuenta
+layout fragment_ellos
 layout fragment_menu
 layout fragment_rutapedido
 layout fragment_wishlist

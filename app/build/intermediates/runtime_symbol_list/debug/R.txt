@@ -1393,6 +1393,8 @@ int color error_color_material_light 0x7f06005a
 int color foreground_material_dark 0x7f06005b
 int color foreground_material_light 0x7f06005c
 int color green 0x7f06005d
+int color griss 0x7f060261
+int color grissOscuro 0x7f060262
 int color highlighted_text_material_dark 0x7f06005e
 int color highlighted_text_material_light 0x7f06005f
 int color m3_appbar_overlay_color 0x7f060060
@@ -2607,6 +2609,7 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f08006e
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f08006f
 int drawable abc_textfield_search_material 0x7f080070
 int drawable abc_vector_test 0x7f080071
+int drawable add 0x7f0800e7
 int drawable avd_hide_password 0x7f080072
 int drawable avd_show_password 0x7f080073
 int drawable ayuda 0x7f080074
@@ -2620,6 +2623,8 @@ int drawable btn_radio_on_mtrl 0x7f08007b
 int drawable btn_radio_on_to_off_mtrl_animation 0x7f08007c
 int drawable buzonasa 0x7f08007d
 int drawable buzonino 0x7f08007e
+int drawable buzopunto 0x7f0800e8
+int drawable buzostilo 0x7f0800e9
 int drawable carrito 0x7f08007f
 int drawable catalogo 0x7f080080
 int drawable chaquetas 0x7f080081
@@ -2717,6 +2722,10 @@ int drawable notification_template_icon_bg 0x7f0800dc
 int drawable notification_template_icon_low_bg 0x7f0800dd
 int drawable notification_tile_bg 0x7f0800de
 int drawable notify_panel_notification_icon_bg 0x7f0800df
+int drawable pantalon 0x7f0800ea
+int drawable polo 0x7f0800eb
+int drawable ropaelegante 0x7f0800ec
+int drawable ropaoficina 0x7f0800ed
 int drawable ruta 0x7f0800e0
 int drawable stylo_border_editext 0x7f0800e1
 int drawable test_level_drawable 0x7f0800e2
@@ -2871,6 +2880,7 @@ int id compress 0x7f0a008d
 int id confirm_button 0x7f0a008e
 int id constraint 0x7f0a008f
 int id container 0x7f0a0090
+int id contenedor2 0x7f0a0218
 int id contenedorPrincipal 0x7f0a0091
 int id content 0x7f0a0092
 int id contentPanel 0x7f0a0093
@@ -3207,6 +3217,8 @@ int id text 0x7f0a01dd
 int id text2 0x7f0a01de
 int id textEnd 0x7f0a01df
 int id textHoddie 0x7f0a01e0
+int id textHoddie2 0x7f0a0219
+int id textPolo 0x7f0a021a
 int id textSpacerNoButtons 0x7f0a01e1
 int id textSpacerNoTitle 0x7f0a01e2
 int id textStart 0x7f0a01e3
@@ -3411,6 +3423,7 @@ int layout fragment_ayuda 0x7f0d0032
 int layout fragment_carrito 0x7f0d0033
 int layout fragment_catalogo 0x7f0d0034
 int layout fragment_cuenta 0x7f0d0035
+int layout fragment_ellos 0x7f0d0073
 int layout fragment_menu 0x7f0d0036
 int layout fragment_rutapedido 0x7f0d0037
 int layout fragment_wishlist 0x7f0d0038

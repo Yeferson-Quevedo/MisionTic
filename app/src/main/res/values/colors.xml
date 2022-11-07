@@ -6,4 +6,6 @@
     <color name="orange">#FF914D</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="griss">#F5F5F5F5</color>
+    <color name="grissOscuro">#a5a5a5a5</color>
 </resources>

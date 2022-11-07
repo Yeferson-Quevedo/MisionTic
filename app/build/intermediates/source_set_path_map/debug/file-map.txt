@@ -43,11 +43,11 @@ com.example.latinshopapp-lifecycle-viewmodel-2.5.1-41 C:\Users\fenix\.gradle\cac
 com.example.latinshopapp-fragment-1.5.4-42 C:\Users\fenix\.gradle\caches\transforms-3\f4e8c752aa58e883914bac4502d8ce05\transformed\fragment-1.5.4\res
 com.example.latinshopapp-navigation-fragment-ktx-2.5.3-43 C:\Users\fenix\.gradle\caches\transforms-3\f892d77d61bc7728ff9aa59943d891d4\transformed\navigation-fragment-ktx-2.5.3\res
 com.example.latinshopapp-annotation-experimental-1.1.0-44 C:\Users\fenix\.gradle\caches\transforms-3\fb44608a9e1d20332c6690b5dda0b67e\transformed\annotation-experimental-1.1.0\res
-com.example.latinshopapp-pngs-45 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\app_cambiosGuia5\app\build\generated\res\pngs\debug
-com.example.latinshopapp-resValues-46 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\app_cambiosGuia5\app\build\generated\res\resValues\debug
-com.example.latinshopapp-rs-47 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\app_cambiosGuia5\app\build\generated\res\rs\debug
-com.example.latinshopapp-packageDebugResources-48 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\app_cambiosGuia5\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.latinshopapp-packageDebugResources-49 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\app_cambiosGuia5\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.latinshopapp-merged_res-50 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\app_cambiosGuia5\app\build\intermediates\merged_res\debug
-com.example.latinshopapp-debug-51 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\app_cambiosGuia5\app\src\debug\res
-com.example.latinshopapp-main-52 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\app_cambiosGuia5\app\src\main\res
+com.example.latinshopapp-pngs-45 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\generated\res\pngs\debug
+com.example.latinshopapp-resValues-46 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\generated\res\resValues\debug
+com.example.latinshopapp-rs-47 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\generated\res\rs\debug
+com.example.latinshopapp-packageDebugResources-48 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.latinshopapp-packageDebugResources-49 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.latinshopapp-merged_res-50 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\intermediates\merged_res\debug
+com.example.latinshopapp-debug-51 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\debug\res
+com.example.latinshopapp-main-52 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\res

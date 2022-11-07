@@ -1394,6 +1394,8 @@ color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
 color green
+color griss
+color grissOscuro
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color m3_appbar_overlay_color
@@ -2608,6 +2610,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable add
 drawable avd_hide_password
 drawable avd_show_password
 drawable ayuda
@@ -2621,6 +2624,8 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable buzonasa
 drawable buzonino
+drawable buzopunto
+drawable buzostilo
 drawable carrito
 drawable catalogo
 drawable chaquetas
@@ -2718,6 +2723,10 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pantalon
+drawable polo
+drawable ropaelegante
+drawable ropaoficina
 drawable ruta
 drawable stylo_border_editext
 drawable test_level_drawable
@@ -2872,6 +2881,7 @@ id compress
 id confirm_button
 id constraint
 id container
+id contenedor2
 id contenedorPrincipal
 id content
 id contentPanel
@@ -3208,6 +3218,8 @@ id text
 id text2
 id textEnd
 id textHoddie
+id textHoddie2
+id textPolo
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
@@ -3412,6 +3424,7 @@ layout fragment_ayuda
 layout fragment_carrito
 layout fragment_catalogo
 layout fragment_cuenta
+layout fragment_ellos
 layout fragment_menu
 layout fragment_rutapedido
 layout fragment_wishlist
