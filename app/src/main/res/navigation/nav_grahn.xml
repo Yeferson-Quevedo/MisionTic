@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
-             xmlns:app="http://schemas.android.com/apk/res-auto"
-             android:id="@+id/nav_grahn">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_grahn"
+    app:startDestination="@id/menuFragment">
 
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.MenuFragment"
+        android:label="fragment_menu"
+        tools:layout="@layout/fragment_menu" >
+        <action
+            android:id="@+id/action_menuFragment_to_catalogoFragment"
+            app:destination="@id/catalogoFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_carritoFragment"
+            app:destination="@id/carritoFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_wishlistFragment"
+            app:destination="@id/wishlistFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_cuentaFragment"
+            app:destination="@id/cuentaFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_rutapedidoFragment"
+            app:destination="@id/rutapedidoFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_ayudaFragment"
+            app:destination="@id/ayudaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/catalogoFragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.CatalogoFragment"
+        android:label="fragment_catalogo"
+        tools:layout="@layout/fragment_catalogo" />
+    <fragment
+        android:id="@+id/carritoFragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.CarritoFragment"
+        android:label="fragment_carrito"
+        tools:layout="@layout/fragment_carrito" />
+    <fragment
+        android:id="@+id/wishlistFragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.WishlistFragment"
+        android:label="fragment_wishlist"
+        tools:layout="@layout/fragment_wishlist" />
+    <fragment
+        android:id="@+id/ayudaFragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.AyudaFragment"
+        android:label="fragment_ayuda"
+        tools:layout="@layout/fragment_ayuda" />
+    <fragment
+        android:id="@+id/cuentaFragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.CuentaFragment"
+        android:label="fragment_cuenta"
+        tools:layout="@layout/fragment_cuenta" />
+    <fragment
+        android:id="@+id/rutapedidoFragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.RutapedidoFragment"
+        android:label="fragment_rutapedido"
+        tools:layout="@layout/fragment_rutapedido" />
 </navigation>

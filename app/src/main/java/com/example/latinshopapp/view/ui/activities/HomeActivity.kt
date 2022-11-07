@@ -4,8 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 //import com.example.latinshopapp.view.ui.activities.fragments
 import android.os.Bundle
 import com.example.latinshopapp.R
-import com.example.latinshopapp.view.ui.activities.fragments.HomeFragment
-import com.example.latinshopapp.view.ui.activities.fragments.primeroFragment
+import com.example.latinshopapp.view.ui.activities.fragments.CatalogoFragment
 
 class HomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -13,6 +12,6 @@ class HomeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_home)
 
         //con este abrimos los fragments el fragment home
-        supportFragmentManager.beginTransaction().replace(R.id.nav_container,HomeFragment()).commit()
+        supportFragmentManager.beginTransaction().replace(R.id.nav_container,CatalogoFragment()).commit()
     }
 }

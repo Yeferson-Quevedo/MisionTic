@@ -4,7 +4,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".view.ui.activities.fragments.HomeFragment"
+    tools:context=".view.ui.activities.fragments.CatalogoFragment"
     android:orientation="vertical"
     android:background="@color/white"
     >

@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.latinshopapp.R
 
-class ConfiguracionFragment : Fragment() {
+class WishlistFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
