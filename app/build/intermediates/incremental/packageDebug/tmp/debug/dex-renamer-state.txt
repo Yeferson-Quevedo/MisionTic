@@ -1,4 +1,4 @@
-#Mon Nov 07 01:01:20 COT 2022
-base.0=D\:\\Android Studio\\AndroidStudioProjects\\LatinShop App\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon Nov 07 10:38:11 COT 2022
+base.0=C\:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\app_cambiosGuia5\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
