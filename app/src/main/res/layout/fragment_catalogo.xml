@@ -9,54 +9,72 @@
     android:background="@color/white"
     >
 
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="60dp"
-        android:layout_marginLeft="100dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginRight="100dp"
-        android:background="@drawable/logo2"
-        android:scaleType="center"
-        android:text="Hoddies todos"
-        tools:ignore="MissingConstraints">
-    </LinearLayout>
+
+
+
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:background="@drawable/home1"
-        tools:ignore="MissingConstraints">
-
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="238dp"
-        android:layout_height="51dp"
-        android:background="@drawable/hoddies"
-        android:scaleType="centerInside"
-        tools:ignore="MissingConstraints"></LinearLayout>
-
-    <LinearLayout
+        android:id="@+id/contenedorPrincipal"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="5dp"
-        android:layout_marginTop="50dp"
-        android:background="@color/white"
-        android:orientation="vertical"
-        android:src="@drawable/logo">
+        android:orientation="vertical">
 
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginRight="10dp"
-            android:background="@color/green">
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:background="@color/white">
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_marginTop="10dp"
+                android:layout_width="90dp"
+                android:layout_height="25dp"
+                android:background="@drawable/logo1"
+                android:scaleType="centerInside"
+                android:layout_alignParentTop="true"
+                android:layout_centerInParent="true"
+                android:orientation="vertical"
+                >
+            </ImageView>
+            <ImageView
+                android:layout_marginTop="10dp"
+                android:id="@+id/banner"
+                android:layout_width="wrap_content"
+                android:layout_height="120dp"
+                android:orientation="vertical"
+                android:background="@drawable/home1"
+                android:layout_below="@id/logo"
+                >
+            </ImageView>
+            <ImageView
+                android:id="@+id/textHoddie"
+                android:background="@drawable/hoddies"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_below="@+id/banner"
+                android:orientation="vertical"
+                >
+            </ImageView>
+
+            <LinearLayout
+                android:id="@+id/lineBlack"
+                android:layout_marginTop="0dp"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#a5a5a5"
+                android:orientation="horizontal"
+                android:layout_below="@id/textHoddie"
+                />
 
             <ScrollView
+                android:id="@+id/MainScroll"
+                android:background="@color/white"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_below="@id/lineBlack"
                 android:visibility="visible">
 
                 <GridLayout
