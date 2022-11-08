@@ -5,6 +5,6 @@
 <item
     android:id="@id/home"
     android:title="Menu"
-    android:icon="@drawable/ic_baseline_home">
+    android:icon="@drawable/logo">
 </item>
 </navigation>

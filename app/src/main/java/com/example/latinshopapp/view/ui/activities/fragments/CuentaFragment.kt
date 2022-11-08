@@ -5,6 +5,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.navigation.fragment.findNavController
 import com.example.latinshopapp.R
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
@@ -22,8 +23,11 @@ class CuentaFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        val button=view.findViewById<BottomNavigationView>(R.id.buttonNavigationMenu)
+        val button=view.findViewById<BottomNavigationView>(R.id.cuentaFragment)
         button.setOnNavigationItemReselectedListener(){
-            when(it.itemId){R.id.home -> findNavController().navigate(R.id.action_cuentaFragment_to_menuFragment)
+            when(it.itemId){R.id.home -> findNavController().navigate(R.id.cuentaFragment)
+
             }
+        }
     }
+}
