@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067912464331",
+    "project_id": "latincoders2022misiontic",
+    "storage_bucket": "latincoders2022misiontic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067912464331:android:08222e66c54b5f43d6984e",
+        "android_client_info": {
+          "package_name": "com.example.latinshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067912464331-9n31s62t0u430h9vesbsnpjuhqlbg7u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3nC2p8E_wafcpH8BH7dttPpj45bVcFRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067912464331-9n31s62t0u430h9vesbsnpjuhqlbg7u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

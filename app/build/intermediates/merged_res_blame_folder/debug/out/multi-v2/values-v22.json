@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.latinshopapp-mergeDebugResources-48:/values-v22/values-v22.xml",
+            "outputFile": "com.example.latinshopapp-mergeDebugResources-53:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\fenix\\.gradle\\caches\\transforms-3\\35247393b79a5fe3c4f500e2adf3d76f\\transformed\\appcompat-1.5.1\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\fenix\\.gradle\\caches\\transforms-3\\f2d0d7f972c1252ab98c765bf9fee9d1\\transformed\\appcompat-1.5.1\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

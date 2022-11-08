@@ -34,7 +34,6 @@ drawable logo2
 drawable ninas
 drawable ninos
 drawable pantalon
-drawable polo
 drawable ropaelegante
 drawable ropaoficina
 drawable ruta
@@ -84,8 +83,6 @@ id registrobutton
 id restaurarbutton
 id rutapedidoFragment
 id textHoddie
-id textHoddie2
-id textPolo
 id textView
 id wishlistFragment
 layout activity_home
@@ -107,7 +104,18 @@ mipmap ic_launcher_round
 navigation nav_grahn
 raw shopping_cart_animation
 string app_name
+string banner
+string default_web_client_id
+string ellos
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
 string hello_blank_fragment
+string logo
+string project_id
+string ropa_para_todos
 style Theme.LatinShop
 xml backup_rules
 xml data_extraction_rules

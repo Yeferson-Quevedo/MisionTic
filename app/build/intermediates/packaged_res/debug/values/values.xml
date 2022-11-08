@@ -26,7 +26,18 @@
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#FFDE59</color>
     <string name="app_name">LatinShopApp</string>
+    <string name="banner">Banner</string>
+    <string name="default_web_client_id" translatable="false">1067912464331-9n31s62t0u430h9vesbsnpjuhqlbg7u1.apps.googleusercontent.com</string>
+    <string name="ellos">Ellos</string>
+    <string name="gcm_defaultSenderId" translatable="false">1067912464331</string>
+    <string name="google_api_key" translatable="false">AIzaSyB3nC2p8E_wafcpH8BH7dttPpj45bVcFRg</string>
+    <string name="google_app_id" translatable="false">1:1067912464331:android:08222e66c54b5f43d6984e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB3nC2p8E_wafcpH8BH7dttPpj45bVcFRg</string>
+    <string name="google_storage_bucket" translatable="false">latincoders2022misiontic.appspot.com</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">Logo</string>
+    <string name="project_id" translatable="false">latincoders2022misiontic</string>
+    <string name="ropa_para_todos">: ropa para todos</string>
     <style name="Theme.LatinShop" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/blue</item>

@@ -1,53 +1,58 @@
-com.example.latinshopapp-appcompat-resources-1.5.1-0 C:\Users\fenix\.gradle\caches\transforms-3\07314dd07c6d151d1d21cf5484b5b880\transformed\appcompat-resources-1.5.1\res
-com.example.latinshopapp-savedstate-ktx-1.2.0-1 C:\Users\fenix\.gradle\caches\transforms-3\0df7e7742d8f8e795c92f4553aaca675\transformed\savedstate-ktx-1.2.0\res
-com.example.latinshopapp-emoji2-views-helper-1.2.0-2 C:\Users\fenix\.gradle\caches\transforms-3\0ee939d3497cce09e896af53913a88ae\transformed\emoji2-views-helper-1.2.0\res
-com.example.latinshopapp-navigation-runtime-ktx-2.5.3-3 C:\Users\fenix\.gradle\caches\transforms-3\129d02e406a6fb657430a57e1f3c643c\transformed\navigation-runtime-ktx-2.5.3\res
-com.example.latinshopapp-navigation-ui-2.5.3-4 C:\Users\fenix\.gradle\caches\transforms-3\19a531f90efcc9e9cd8b0bca09ee9f81\transformed\navigation-ui-2.5.3\res
-com.example.latinshopapp-lifecycle-livedata-2.4.0-5 C:\Users\fenix\.gradle\caches\transforms-3\1d20fd5e33eeb412e85dea55a9fa27eb\transformed\lifecycle-livedata-2.4.0\res
-com.example.latinshopapp-core-1.8.0-6 C:\Users\fenix\.gradle\caches\transforms-3\205feb206244c8c1b4b56fcdc8d69988\transformed\core-1.8.0\res
-com.example.latinshopapp-databinding-runtime-7.3.1-7 C:\Users\fenix\.gradle\caches\transforms-3\220b789892534b6d06f1baf067f2e11d\transformed\databinding-runtime-7.3.1\res
-com.example.latinshopapp-appcompat-1.5.1-8 C:\Users\fenix\.gradle\caches\transforms-3\35247393b79a5fe3c4f500e2adf3d76f\transformed\appcompat-1.5.1\res
-com.example.latinshopapp-constraintlayout-2.1.4-9 C:\Users\fenix\.gradle\caches\transforms-3\38043517c514ada7a9c17da61d45b16b\transformed\constraintlayout-2.1.4\res
-com.example.latinshopapp-cardview-1.0.0-10 C:\Users\fenix\.gradle\caches\transforms-3\3d0b12a6a2875ebc8055ad98f7863014\transformed\cardview-1.0.0\res
-com.example.latinshopapp-emoji2-1.2.0-11 C:\Users\fenix\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\res
-com.example.latinshopapp-activity-1.5.1-12 C:\Users\fenix\.gradle\caches\transforms-3\452faa790de09d58da6b284d50d9ef16\transformed\activity-1.5.1\res
-com.example.latinshopapp-drawerlayout-1.1.1-13 C:\Users\fenix\.gradle\caches\transforms-3\47ac39755f246ef2ff54ad5b7942d42f\transformed\drawerlayout-1.1.1\res
-com.example.latinshopapp-savedstate-1.2.0-14 C:\Users\fenix\.gradle\caches\transforms-3\49b48222c9092f86b8f1b7ce566730b4\transformed\savedstate-1.2.0\res
-com.example.latinshopapp-fragment-ktx-1.5.4-15 C:\Users\fenix\.gradle\caches\transforms-3\4c6d9e70d31e8f8607f5ad4e9e68bc60\transformed\fragment-ktx-1.5.4\res
-com.example.latinshopapp-lifecycle-livedata-core-ktx-2.5.1-16 C:\Users\fenix\.gradle\caches\transforms-3\512e20b1c7fee3cb347fbcaa3f34cf1b\transformed\lifecycle-livedata-core-ktx-2.5.1\res
-com.example.latinshopapp-material-1.7.0-17 C:\Users\fenix\.gradle\caches\transforms-3\53edefe15d403f8467620aa121e38059\transformed\material-1.7.0\res
-com.example.latinshopapp-slidingpanelayout-1.2.0-18 C:\Users\fenix\.gradle\caches\transforms-3\59a2a9ac5a9283956c706c8562f3d88a\transformed\slidingpanelayout-1.2.0\res
-com.example.latinshopapp-lifecycle-runtime-ktx-2.5.1-19 C:\Users\fenix\.gradle\caches\transforms-3\5f1f86b25644df3b525c292fe559dc45\transformed\lifecycle-runtime-ktx-2.5.1\res
-com.example.latinshopapp-navigation-runtime-2.5.3-20 C:\Users\fenix\.gradle\caches\transforms-3\6ee9ec5e19045a713d630d5204d23ad2\transformed\navigation-runtime-2.5.3\res
-com.example.latinshopapp-lottie-3.4.2-21 C:\Users\fenix\.gradle\caches\transforms-3\7170018d4ba40b4a7fa939684716bb4c\transformed\lottie-3.4.2\res
-com.example.latinshopapp-navigation-ui-ktx-2.5.3-22 C:\Users\fenix\.gradle\caches\transforms-3\7406cecfe272b073c0dcc2a285e70c2c\transformed\navigation-ui-ktx-2.5.3\res
-com.example.latinshopapp-lifecycle-viewmodel-ktx-2.5.1-23 C:\Users\fenix\.gradle\caches\transforms-3\7539988c0c43f68de6af56adfe29364e\transformed\lifecycle-viewmodel-ktx-2.5.1\res
-com.example.latinshopapp-transition-1.4.1-24 C:\Users\fenix\.gradle\caches\transforms-3\8fd69d7879fcc60c4adfacc4279ac29a\transformed\transition-1.4.1\res
-com.example.latinshopapp-core-ktx-1.8.0-25 C:\Users\fenix\.gradle\caches\transforms-3\97f9aee10d1c259b8eaca17205107e00\transformed\core-ktx-1.8.0\res
-com.example.latinshopapp-lifecycle-livedata-core-2.5.1-26 C:\Users\fenix\.gradle\caches\transforms-3\9b72d3a0628617d3f17d9cb77d3f51cf\transformed\lifecycle-livedata-core-2.5.1\res
-com.example.latinshopapp-lifecycle-viewmodel-savedstate-2.5.1-27 C:\Users\fenix\.gradle\caches\transforms-3\a499c8d2b59af5c3d7b5f216dcb51a9d\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
-com.example.latinshopapp-lifecycle-process-2.4.1-28 C:\Users\fenix\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\res
-com.example.latinshopapp-navigation-common-2.5.3-29 C:\Users\fenix\.gradle\caches\transforms-3\a8cb8f63c3b4100f59d4dc0be3528a80\transformed\navigation-common-2.5.3\res
-com.example.latinshopapp-navigation-fragment-2.5.3-30 C:\Users\fenix\.gradle\caches\transforms-3\aca35061b9cc6f022f377619122c29c4\transformed\navigation-fragment-2.5.3\res
-com.example.latinshopapp-startup-runtime-1.1.1-31 C:\Users\fenix\.gradle\caches\transforms-3\b9bab58cadaff330d559da69256a0313\transformed\startup-runtime-1.1.1\res
-com.example.latinshopapp-recyclerview-1.1.0-32 C:\Users\fenix\.gradle\caches\transforms-3\bebc84e5611febee61e63b319d718ccf\transformed\recyclerview-1.1.0\res
-com.example.latinshopapp-navigation-common-ktx-2.5.3-33 C:\Users\fenix\.gradle\caches\transforms-3\cc91c0ac4fd34254de1ed37267bc0813\transformed\navigation-common-ktx-2.5.3\res
-com.example.latinshopapp-activity-ktx-1.5.1-34 C:\Users\fenix\.gradle\caches\transforms-3\d02dd27a486a219f7c6f881968309553\transformed\activity-ktx-1.5.1\res
-com.example.latinshopapp-viewpager2-1.0.0-35 C:\Users\fenix\.gradle\caches\transforms-3\e2ead5f317d22088c48cad1a61f8b969\transformed\viewpager2-1.0.0\res
-com.example.latinshopapp-lifecycle-service-2.4.0-36 C:\Users\fenix\.gradle\caches\transforms-3\e3e2ad842672ad627f300545a3ef191a\transformed\lifecycle-service-2.4.0\res
-com.example.latinshopapp-coordinatorlayout-1.1.0-37 C:\Users\fenix\.gradle\caches\transforms-3\e5a7f5c955953cc9d13feeef1215b998\transformed\coordinatorlayout-1.1.0\res
-com.example.latinshopapp-window-1.0.0-38 C:\Users\fenix\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\res
-com.example.latinshopapp-lifecycle-runtime-2.5.1-39 C:\Users\fenix\.gradle\caches\transforms-3\ecb295b800ded09051f724a4ba193524\transformed\lifecycle-runtime-2.5.1\res
-com.example.latinshopapp-databinding-adapters-7.3.1-40 C:\Users\fenix\.gradle\caches\transforms-3\edacc3688a2e22b21331f499cdc5980c\transformed\databinding-adapters-7.3.1\res
-com.example.latinshopapp-lifecycle-viewmodel-2.5.1-41 C:\Users\fenix\.gradle\caches\transforms-3\f2489d9065f4dca5ca4b308de42fbf04\transformed\lifecycle-viewmodel-2.5.1\res
-com.example.latinshopapp-fragment-1.5.4-42 C:\Users\fenix\.gradle\caches\transforms-3\f4e8c752aa58e883914bac4502d8ce05\transformed\fragment-1.5.4\res
-com.example.latinshopapp-navigation-fragment-ktx-2.5.3-43 C:\Users\fenix\.gradle\caches\transforms-3\f892d77d61bc7728ff9aa59943d891d4\transformed\navigation-fragment-ktx-2.5.3\res
-com.example.latinshopapp-annotation-experimental-1.1.0-44 C:\Users\fenix\.gradle\caches\transforms-3\fb44608a9e1d20332c6690b5dda0b67e\transformed\annotation-experimental-1.1.0\res
-com.example.latinshopapp-pngs-45 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\generated\res\pngs\debug
-com.example.latinshopapp-resValues-46 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\generated\res\resValues\debug
-com.example.latinshopapp-rs-47 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\generated\res\rs\debug
-com.example.latinshopapp-packageDebugResources-48 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.latinshopapp-packageDebugResources-49 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.latinshopapp-merged_res-50 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\intermediates\merged_res\debug
-com.example.latinshopapp-debug-51 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\debug\res
-com.example.latinshopapp-main-52 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\res
+com.example.latinshopapp-savedstate-1.2.0-0 C:\Users\fenix\.gradle\caches\transforms-3\04f3813c0ec498721954aa16d5083ac2\transformed\savedstate-1.2.0\res
+com.example.latinshopapp-coordinatorlayout-1.1.0-1 C:\Users\fenix\.gradle\caches\transforms-3\066bb550ece5824b7669a16181191ca9\transformed\coordinatorlayout-1.1.0\res
+com.example.latinshopapp-databinding-adapters-7.3.1-2 C:\Users\fenix\.gradle\caches\transforms-3\0e3794387942aa59b96a4753c57f85c7\transformed\databinding-adapters-7.3.1\res
+com.example.latinshopapp-lifecycle-viewmodel-ktx-2.5.1-3 C:\Users\fenix\.gradle\caches\transforms-3\14d63f5325a1926c10f52558432fb45b\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.latinshopapp-navigation-fragment-2.5.3-4 C:\Users\fenix\.gradle\caches\transforms-3\1552f55efa90df0ba8f3ae8c31946c17\transformed\navigation-fragment-2.5.3\res
+com.example.latinshopapp-lifecycle-livedata-core-ktx-2.5.1-5 C:\Users\fenix\.gradle\caches\transforms-3\240944cdbaf80a2cf267d92a989735eb\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.example.latinshopapp-material-1.7.0-6 C:\Users\fenix\.gradle\caches\transforms-3\2dbc367b9043792d39c48a69483c752f\transformed\material-1.7.0\res
+com.example.latinshopapp-recyclerview-1.1.0-7 C:\Users\fenix\.gradle\caches\transforms-3\2f3662499110b317632713c112c7dc2d\transformed\recyclerview-1.1.0\res
+com.example.latinshopapp-lifecycle-service-2.4.0-8 C:\Users\fenix\.gradle\caches\transforms-3\307dd7509fbc600941d02132c448411d\transformed\lifecycle-service-2.4.0\res
+com.example.latinshopapp-startup-runtime-1.1.1-9 C:\Users\fenix\.gradle\caches\transforms-3\31102e560e259be8658cb41f9589fc46\transformed\startup-runtime-1.1.1\res
+com.example.latinshopapp-lifecycle-process-2.4.1-10 C:\Users\fenix\.gradle\caches\transforms-3\31f6ee8882f6fe4fc5dde2a3ddb98b2a\transformed\lifecycle-process-2.4.1\res
+com.example.latinshopapp-lifecycle-runtime-ktx-2.5.1-11 C:\Users\fenix\.gradle\caches\transforms-3\3307cd2d0e39d62fef97871337f9055e\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.example.latinshopapp-navigation-runtime-2.5.3-12 C:\Users\fenix\.gradle\caches\transforms-3\45e3c95c14e3db319e6bd4c92c436acb\transformed\navigation-runtime-2.5.3\res
+com.example.latinshopapp-navigation-common-2.5.3-13 C:\Users\fenix\.gradle\caches\transforms-3\4f93f65e4e61cb4b5306579471341d15\transformed\navigation-common-2.5.3\res
+com.example.latinshopapp-core-ktx-1.8.0-14 C:\Users\fenix\.gradle\caches\transforms-3\53a164fce2a8a4605008b6d032057e6e\transformed\core-ktx-1.8.0\res
+com.example.latinshopapp-fragment-1.5.4-15 C:\Users\fenix\.gradle\caches\transforms-3\53d304363432d6f32a5e8d15002a6cc9\transformed\fragment-1.5.4\res
+com.example.latinshopapp-cardview-1.0.0-16 C:\Users\fenix\.gradle\caches\transforms-3\5cdc50d1350230e8d12a4c64d6ecd3ca\transformed\cardview-1.0.0\res
+com.example.latinshopapp-fragment-ktx-1.5.4-17 C:\Users\fenix\.gradle\caches\transforms-3\5f2c8d74286401d737b3258070b24623\transformed\fragment-ktx-1.5.4\res
+com.example.latinshopapp-play-services-basement-18.1.0-18 C:\Users\fenix\.gradle\caches\transforms-3\60ad575613674b89076a13107b7a2cba\transformed\play-services-basement-18.1.0\res
+com.example.latinshopapp-navigation-ui-ktx-2.5.3-19 C:\Users\fenix\.gradle\caches\transforms-3\7a618499bf4414b1f06d6a90f4dfafc8\transformed\navigation-ui-ktx-2.5.3\res
+com.example.latinshopapp-lifecycle-viewmodel-2.5.1-20 C:\Users\fenix\.gradle\caches\transforms-3\8239322746e0fe75e50d73eba3d9c6ac\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.latinshopapp-constraintlayout-2.1.4-21 C:\Users\fenix\.gradle\caches\transforms-3\886a19b0e464162703df04a163d5541b\transformed\constraintlayout-2.1.4\res
+com.example.latinshopapp-navigation-common-ktx-2.5.3-22 C:\Users\fenix\.gradle\caches\transforms-3\889e568e5077a4894be55b929e12954b\transformed\navigation-common-ktx-2.5.3\res
+com.example.latinshopapp-savedstate-ktx-1.2.0-23 C:\Users\fenix\.gradle\caches\transforms-3\8c66c75cdc7cdacbf46e24ad56b26dd3\transformed\savedstate-ktx-1.2.0\res
+com.example.latinshopapp-slidingpanelayout-1.2.0-24 C:\Users\fenix\.gradle\caches\transforms-3\8d2f19e354ff03b18ee49ba6658100b9\transformed\slidingpanelayout-1.2.0\res
+com.example.latinshopapp-firebase-common-20.2.0-25 C:\Users\fenix\.gradle\caches\transforms-3\91b1a835626dfc64cbdfc3167a9c406f\transformed\firebase-common-20.2.0\res
+com.example.latinshopapp-annotation-experimental-1.1.0-26 C:\Users\fenix\.gradle\caches\transforms-3\96e1ec01ea4592a82c4fe1c0e3b49f56\transformed\annotation-experimental-1.1.0\res
+com.example.latinshopapp-drawerlayout-1.1.1-27 C:\Users\fenix\.gradle\caches\transforms-3\9ab13e57914a700daff1826bd5de90de\transformed\drawerlayout-1.1.1\res
+com.example.latinshopapp-lifecycle-livedata-core-2.5.1-28 C:\Users\fenix\.gradle\caches\transforms-3\a4dbc0b3486165dfe92f36c5046b5df7\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.latinshopapp-activity-ktx-1.5.1-29 C:\Users\fenix\.gradle\caches\transforms-3\a556a0dc2a28a3c52a11f12c6b38a210\transformed\activity-ktx-1.5.1\res
+com.example.latinshopapp-navigation-runtime-ktx-2.5.3-30 C:\Users\fenix\.gradle\caches\transforms-3\a64ff01d927148a1e16e4a5bc469db4d\transformed\navigation-runtime-ktx-2.5.3\res
+com.example.latinshopapp-core-1.8.0-31 C:\Users\fenix\.gradle\caches\transforms-3\a84ea4f0cd19dbb745b8f3c734753675\transformed\core-1.8.0\res
+com.example.latinshopapp-activity-1.5.1-32 C:\Users\fenix\.gradle\caches\transforms-3\abba9f0f4c4425eac584f446b510cc59\transformed\activity-1.5.1\res
+com.example.latinshopapp-window-1.0.0-33 C:\Users\fenix\.gradle\caches\transforms-3\ae12180b409873111286bf80f5d78ab0\transformed\window-1.0.0\res
+com.example.latinshopapp-databinding-runtime-7.3.1-34 C:\Users\fenix\.gradle\caches\transforms-3\b275db144e90c1dd4e93dc1a65d2275e\transformed\databinding-runtime-7.3.1\res
+com.example.latinshopapp-emoji2-1.2.0-35 C:\Users\fenix\.gradle\caches\transforms-3\c0596a6605a2cd363274364441e60e9a\transformed\emoji2-1.2.0\res
+com.example.latinshopapp-lifecycle-livedata-2.4.0-36 C:\Users\fenix\.gradle\caches\transforms-3\c119a4869e9d16f66c29c8d3249f7b3c\transformed\lifecycle-livedata-2.4.0\res
+com.example.latinshopapp-viewpager2-1.0.0-37 C:\Users\fenix\.gradle\caches\transforms-3\c6174e7d4756bd4c5fcaa5e89f4a1199\transformed\viewpager2-1.0.0\res
+com.example.latinshopapp-lifecycle-runtime-2.5.1-38 C:\Users\fenix\.gradle\caches\transforms-3\c800959e8870aac01eb0a2c4cc5d317c\transformed\lifecycle-runtime-2.5.1\res
+com.example.latinshopapp-navigation-fragment-ktx-2.5.3-39 C:\Users\fenix\.gradle\caches\transforms-3\caeb5b503959485498d742338960d14b\transformed\navigation-fragment-ktx-2.5.3\res
+com.example.latinshopapp-transition-1.4.1-40 C:\Users\fenix\.gradle\caches\transforms-3\cafbdedcf2fb5895628e5f3ed17696d2\transformed\transition-1.4.1\res
+com.example.latinshopapp-lottie-3.4.2-41 C:\Users\fenix\.gradle\caches\transforms-3\cc6d01650e2a3aa657e61161b1b7da96\transformed\lottie-3.4.2\res
+com.example.latinshopapp-browser-1.4.0-42 C:\Users\fenix\.gradle\caches\transforms-3\d3d5d8a4f4fb8531ab6e030194e9f1ad\transformed\browser-1.4.0\res
+com.example.latinshopapp-emoji2-views-helper-1.2.0-43 C:\Users\fenix\.gradle\caches\transforms-3\dc568cb064a7d9688bb559ec608f8a80\transformed\emoji2-views-helper-1.2.0\res
+com.example.latinshopapp-navigation-ui-2.5.3-44 C:\Users\fenix\.gradle\caches\transforms-3\dd2c4a897219f801ce63bd12645ff9f7\transformed\navigation-ui-2.5.3\res
+com.example.latinshopapp-appcompat-resources-1.5.1-45 C:\Users\fenix\.gradle\caches\transforms-3\e317bdafd26feecacd40217ec6bc9da5\transformed\appcompat-resources-1.5.1\res
+com.example.latinshopapp-lifecycle-viewmodel-savedstate-2.5.1-46 C:\Users\fenix\.gradle\caches\transforms-3\eb340e923b77101b13b8b59c74fe457a\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.latinshopapp-appcompat-1.5.1-47 C:\Users\fenix\.gradle\caches\transforms-3\f2d0d7f972c1252ab98c765bf9fee9d1\transformed\appcompat-1.5.1\res
+com.example.latinshopapp-play-services-base-18.0.1-48 C:\Users\fenix\.gradle\caches\transforms-3\fa7cbc3e616d3b71103e51ede7651b46\transformed\play-services-base-18.0.1\res
+com.example.latinshopapp-google-services-49 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\generated\res\google-services\debug
+com.example.latinshopapp-pngs-50 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\generated\res\pngs\debug
+com.example.latinshopapp-resValues-51 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\generated\res\resValues\debug
+com.example.latinshopapp-rs-52 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\generated\res\rs\debug
+com.example.latinshopapp-packageDebugResources-53 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.latinshopapp-packageDebugResources-54 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.latinshopapp-merged_res-55 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\build\intermediates\merged_res\debug
+com.example.latinshopapp-debug-56 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\debug\res
+com.example.latinshopapp-main-57 C:\Users\fenix\Documents\Aplicacion hospital\mockup 2\applicacion_latinShop\app\src\main\res

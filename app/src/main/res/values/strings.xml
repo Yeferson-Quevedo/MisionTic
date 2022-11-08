@@ -2,4 +2,8 @@
     <string name="app_name">LatinShopApp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">Logo</string>
+    <string name="banner">Banner</string>
+    <string name="ellos">Ellos</string>
+    <string name="ropa_para_todos">: ropa para todos</string>
 </resources>
