@@ -2948,7 +2948,6 @@ id confirm_button
 id constraint
 id container
 id contenedor2
-id contenedorPrincipal
 id content
 id contentPanel
 id contiguous

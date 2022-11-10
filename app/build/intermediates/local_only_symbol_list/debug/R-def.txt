@@ -77,7 +77,6 @@ id cardwishlist
 id carritoFragment
 id catalogoFragment
 id contenedor2
-id contenedorPrincipal
 id cuentaFragment
 id editTextBirthDate
 id editTextEmail
