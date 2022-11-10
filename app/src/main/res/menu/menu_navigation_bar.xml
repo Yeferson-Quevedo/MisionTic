@@ -10,10 +10,6 @@
         android:id="@+id/Nav_productos"
         android:icon="@drawable/product"
         />
-    <item android:title="Casa"
-        android:id="@+id/Nav_home"
-        android:icon="@drawable/nav_home1"
-        />
     <item android:title="Perfil"
         android:id="@+id/Nav_profile"
         android:icon="@drawable/profile"

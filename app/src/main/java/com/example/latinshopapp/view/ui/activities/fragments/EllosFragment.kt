@@ -21,6 +21,11 @@ class EllosFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+
+
+
+
+
         val cardcatalogue=view.findViewById<ImageView>(R.id.imageEllos)
         cardcatalogue.setOnClickListener(){
 

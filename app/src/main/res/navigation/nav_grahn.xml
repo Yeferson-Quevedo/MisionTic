@@ -73,5 +73,15 @@
         android:id="@+id/ellos2"
         android:name="com.example.latinshopapp.ellos2"
         android:label="fragment_ellos2"
-        tools:layout="@layout/fragment_ellos2" />
+        tools:layout="@layout/fragment_ellos2" >
+        <action
+            android:id="@+id/action_ellos2_to_menuFragment"
+            app:destination="@id/menuFragment" />
+        <action
+            android:id="@+id/action_ellos2_to_catalogoFragment"
+            app:destination="@id/catalogoFragment" />
+        <action
+            android:id="@+id/action_ellos2_to_cuentaFragment"
+            app:destination="@id/cuentaFragment" />
+    </fragment>
 </navigation>

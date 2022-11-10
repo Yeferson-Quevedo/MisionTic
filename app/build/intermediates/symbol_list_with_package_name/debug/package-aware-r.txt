@@ -2791,7 +2791,6 @@ id FUNCTION
 id META
 id MainScroll
 id NO_DEBUG
-id Nav_home
 id Nav_menu
 id Nav_productos
 id Nav_profile
@@ -2852,6 +2851,9 @@ id action_catalogoFragment_to_menuFragment
 id action_container
 id action_context_bar
 id action_divider
+id action_ellos2_to_catalogoFragment
+id action_ellos2_to_cuentaFragment
+id action_ellos2_to_menuFragment
 id action_image
 id action_menuFragment_to_ayudaFragment
 id action_menuFragment_to_carritoFragment
