@@ -3,6 +3,7 @@ package com.example.latinshopapp.view.ui.activities
 import androidx.appcompat.app.AppCompatActivity
 //import com.example.latinshopapp.view.ui.activities.fragments
 import android.os.Bundle
+import android.view.View
 import com.example.latinshopapp.R
 import com.example.latinshopapp.view.ui.activities.fragments.CatalogoFragment
 
@@ -14,4 +15,6 @@ class HomeActivity : AppCompatActivity() {
         //con este abrimos los fragments el fragment home
         supportFragmentManager.beginTransaction().replace(R.id.nav_container,CatalogoFragment()).commit()
     }
+
+
 }

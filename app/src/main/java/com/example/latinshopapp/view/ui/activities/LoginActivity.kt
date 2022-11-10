@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
+
 import androidx.fragment.app.FragmentManager
 //import com.example.latinshopapp.HomeFragment
 import com.example.latinshopapp.R
@@ -31,4 +32,6 @@ class LoginActivity : AppCompatActivity() {
             startActivity(Intent(this,RestoreActivity::class.java))
         }
     }
+
+
 }

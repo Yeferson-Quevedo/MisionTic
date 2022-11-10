@@ -2791,6 +2791,10 @@ id FUNCTION
 id META
 id MainScroll
 id NO_DEBUG
+id Nav_home
+id Nav_menu
+id Nav_productos
+id Nav_profile
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -2842,7 +2846,9 @@ id action_bar_root
 id action_bar_spinner
 id action_bar_subtitle
 id action_bar_title
+id action_catalogoFragment_to_cuentaFragment
 id action_catalogoFragment_to_ellos2
+id action_catalogoFragment_to_menuFragment
 id action_container
 id action_context_bar
 id action_divider
@@ -2916,7 +2922,6 @@ id cardruta
 id cardwishlist
 id carritoFragment
 id carryVelocity
-id casa
 id catalogoFragment
 id center
 id centerCrop
@@ -3102,9 +3107,7 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
-id menu
 id menuFragment
-id menu_navigation_bar_xml
 id message
 id middle
 id mini
@@ -3181,14 +3184,12 @@ id path
 id pathRelative
 id peekHeight
 id percent
-id perfil
 id pin
 id position
 id postLayout
 id precio
 id pressed
 id producto
-id productos
 id progress_circular
 id progress_horizontal
 id radio
@@ -3563,7 +3564,6 @@ layout support_simple_spinner_dropdown_item
 menu menu_navigation_bar
 mipmap ic_launcher
 mipmap ic_launcher_round
-navigation menu_navigation_bar
 navigation nav_grahn
 plurals mtrl_badge_content_description
 raw firebase_common_keep

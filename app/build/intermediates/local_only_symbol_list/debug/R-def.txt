@@ -47,7 +47,13 @@ drawable wishlist
 font poppins_extrabold
 font poppinslight
 id MainScroll
+id Nav_home
+id Nav_menu
+id Nav_productos
+id Nav_profile
+id action_catalogoFragment_to_cuentaFragment
 id action_catalogoFragment_to_ellos2
+id action_catalogoFragment_to_menuFragment
 id action_menuFragment_to_ayudaFragment
 id action_menuFragment_to_carritoFragment
 id action_menuFragment_to_catalogoFragment
@@ -67,7 +73,6 @@ id cardcuenta
 id cardruta
 id cardwishlist
 id carritoFragment
-id casa
 id catalogoFragment
 id contenedor2
 id contenedorPrincipal
@@ -88,16 +93,12 @@ id imageView3
 id iniciobutton
 id lineBlack
 id logo
-id menu
 id menuFragment
-id menu_navigation_bar.xml
 id nav_container
 id nav_grahn
 id nav_host_fragment
-id perfil
 id precio
 id producto
-id productos
 id registrobutton
 id restaurarbutton
 id rutapedidoFragment
@@ -123,7 +124,6 @@ layout fragment_wishlist
 menu menu_navigation_bar
 mipmap ic_launcher
 mipmap ic_launcher_round
-navigation menu_navigation_bar
 navigation nav_grahn
 raw shopping_cart_animation
 string app_name
