@@ -174,45 +174,6 @@
                         android:layout_rowWeight="1"
                         android:layout_columnWeight="1"
                         android:layout_margin="12dp"
-                        android:gravity="center"
-                        app:cardCornerRadius="5dp"
-                        app:cardElevation="5dp">
-
-                        <LinearLayout
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:orientation="vertical"
-                            android:padding="16dp">
-
-                            <ImageView
-                                android:id="@+id/cardwishlist"
-                                android:layout_width="100dp"
-                                android:layout_height="100dp"
-                                android:src="@drawable/wishlist">
-
-                            </ImageView>
-
-                            <TextView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_marginTop="2dp"
-                                android:gravity="center"
-                                android:text="Wish list"
-                                android:textSize="18sp"
-                                android:textStyle="bold"></TextView>
-
-                        </LinearLayout>
-
-                    </androidx.cardview.widget.CardView>
-
-                    <androidx.cardview.widget.CardView
-                        android:layout_width="100dp"
-                        android:layout_height="wrap_content"
-                        android:layout_rowWeight="1"
-                        android:layout_columnWeight="1"
-                        android:layout_margin="12dp"
                         app:cardCornerRadius="5dp"
                         app:cardElevation="5dp">
 
@@ -237,7 +198,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="2dp"
                                 android:gravity="center"
-                                android:text="Ruta de pedido"
+                                android:text="Ubicación"
                                 android:textSize="18sp"
                                 android:textStyle="bold"></TextView>
 
@@ -252,33 +213,7 @@
                         android:layout_columnWeight="1"
                         android:layout_margin="12dp"
                         app:cardCornerRadius="5dp"
-                        app:cardElevation="5dp">
-
-                        <LinearLayout
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:orientation="vertical"
-                            android:padding="16dp">
-
-                            <ImageView
-                                android:id="@+id/cardayuda"
-                                android:layout_width="100dp"
-                                android:layout_height="100dp"
-                                android:src="@drawable/ayuda"></ImageView>
-
-                            <TextView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_marginTop="2dp"
-                                android:gravity="center"
-                                android:text="Ayuda"
-                                android:textSize="18sp"
-                                android:textStyle="bold"></TextView>
-
-                        </LinearLayout>
-                    </androidx.cardview.widget.CardView>
+                        app:cardElevation="5dp"/>
 
                 </GridLayout>
             </ScrollView>

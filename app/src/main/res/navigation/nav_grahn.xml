@@ -28,6 +28,12 @@
         <action
             android:id="@+id/action_menuFragment_to_ayudaFragment"
             app:destination="@id/ayudaFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_ellos2"
+            app:destination="@id/ellos2" />
+        <action
+            android:id="@+id/action_menuFragment_to_ellos22"
+            app:destination="@id/ellos2" />
     </fragment>
     <fragment
         android:id="@+id/catalogoFragment"

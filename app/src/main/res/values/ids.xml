@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="home" type="id" />
+    <item name="lineBlack2" type="id" />
+    <item name="CerrarSesion" type="id" />
 </resources>

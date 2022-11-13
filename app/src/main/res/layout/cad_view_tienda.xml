@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/card_tienda"
+    android:layout_margin="12dp"
+
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+
+    <ImageView
+        android:id="@+id/card_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        >
+    </ImageView>
+
+
+    <TextView
+        android:id="@+id/titulo_tienda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Titulo del producto"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:fontFamily="@font/poppinslight"
+        android:layout_marginLeft="20dp"
+        android:gravity="center_horizontal"
+        android:layout_toEndOf="@+id/image"
+
+        android:layout_toRightOf="@+id/image">
+    </TextView>
+        <TextView
+            android:id="@+id/card_precio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="precio"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/poppinslight"
+            android:gravity="center_horizontal"
+            android:layout_toEndOf="@+id/image"
+
+            android:layout_below="@+id/titulo_tienda"
+            android:layout_toRightOf="@+id/image">
+        </TextView>
+        <TextView
+            android:id="@+id/card_descripcion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="descripción"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/poppinslight"
+            android:gravity="center_horizontal"
+            android:layout_toEndOf="@+id/image"
+
+            android:layout_below="@+id/card_precio"
+            android:layout_toRightOf="@+id/image">
+        </TextView>
+
+    </RelativeLayout>
+
+
+
+</androidx.cardview.widget.CardView>

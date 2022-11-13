@@ -47,11 +47,9 @@ class MenuFragment : Fragment(){
         super.onViewCreated(view, savedInstanceState)
         val cardcatalogue=view.findViewById<ImageView>(R.id.cardcatalogo)
         cardcatalogue.setOnClickListener(){
-            
-            findNavController().navigate(R.id.action_menuFragment_to_catalogoFragment)
-
-
-
+            //findNavController().navigate(R.id.action_menuFragment_to_catalogoFragment)
+            //quitamos el catalogo y lo dejamos como algo para el futuri
+            findNavController().navigate(R.id.action_menuFragment_to_ellos2)
         }
         val cardcar=view.findViewById<ImageView>(R.id.cardcarrito)
         cardcar.setOnClickListener(){
@@ -63,19 +61,10 @@ class MenuFragment : Fragment(){
             findNavController().navigate(R.id.action_menuFragment_to_cuentaFragment)
         }
 
-        val cardlist=view.findViewById<ImageView>(R.id.cardwishlist)
-        cardlist.setOnClickListener(){
-            findNavController().navigate(R.id.action_menuFragment_to_wishlistFragment)
-        }
 
         val cardroute=view.findViewById<ImageView>(R.id.cardruta)
         cardroute.setOnClickListener(){
             findNavController().navigate(R.id.action_menuFragment_to_rutapedidoFragment)
-        }
-
-        val cardhelp=view.findViewById<ImageView>(R.id.cardayuda)
-        cardhelp.setOnClickListener(){
-            findNavController().navigate(R.id.action_menuFragment_to_ayudaFragment)
         }
 
 
@@ -85,7 +74,7 @@ class MenuFragment : Fragment(){
         btm.setOnNavigationItemReselectedListener {
             when(it.itemId)
             {
-                R.id.Nav_menu -> findNavController().navigate(R.id.action_catalogoFragment_to_menuFragment)
+                // R.id.Nav_menu -> findNavController().navigate(R.id.action_catalogoFragment_to_menuFragment)
                 R.id.Nav_profile ->findNavController().navigate(R.id.action_catalogoFragment_to_cuentaFragment)
             }
         }
