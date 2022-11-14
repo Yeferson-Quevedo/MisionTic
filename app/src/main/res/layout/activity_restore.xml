@@ -64,7 +64,7 @@
         android:text="Restaurar"
         android:textStyle="bold"
         app:backgroundTint="#62AE65"
-        app:cornerRadius="20dp"
+        app:cornerRadius="40dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

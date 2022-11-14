@@ -4,7 +4,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".view.ui.activities.fragments.Articulo1Fragment"
+    tools:context=".view.ui.activities.fragments.Articulo5Fragment"
     android:orientation="vertical"
     android:background="@color/white"
     >
@@ -36,7 +36,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginLeft="110dp"
             android:layout_marginBottom="10dp"
-            android:background="@drawable/chaquetas"
+            android:background="@drawable/ropaoficina"
             android:contentDescription="@string/banner"
             android:orientation="vertical"
             android:scaleType="center"
@@ -60,7 +60,7 @@
                 android:layout_marginBottom="10dp"
                 android:fontFamily="@font/poppinslight"
                 android:gravity="center"
-                android:text="Polo"
+                android:text="Vestido formal"
                 android:textColor="@color/green"
                 android:textSize="25sp"
                 android:textStyle="bold">
@@ -88,7 +88,7 @@
                 android:layout_marginBottom="10dp"
                 android:fontFamily="@font/poppinslight"
                 android:gravity="center"
-                android:text="$50.000"
+                android:text="$380.000"
                 android:textColor="@color/white"
                 android:textSize="18sp"
                 android:textStyle="bold">
@@ -99,7 +99,7 @@
         <LinearLayout
             android:id="@+id/contenedor4"
             android:layout_width="match_parent"
-            android:layout_height="100dp"
+            android:layout_height="140dp"
             android:orientation="horizontal"
             android:background="@color/white"
             android:layout_below="@id/contenedor3">
@@ -114,7 +114,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginBottom="20dp"
                 android:fontFamily="@font/poppinslight"
-                android:text="Chaqueta negra 100% en cuero colombiano"
+                android:text="El vestido formal comprende un blazer, un pantalón y una camiseta negra cuello tortuga"
                 android:textColor="@color/black"
                 android:textSize="20sp"
                 android:textStyle="bold">
@@ -128,7 +128,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/contenedor4"
             android:layout_marginLeft="80dp"
-            android:layout_marginTop="110dp"
+            android:layout_marginTop="74dp"
             android:layout_marginRight="20dp"
             android:background="@color/green"
             android:layout-marginTop="200dp"
@@ -137,7 +137,7 @@
             android:text="Agregar al carrito"
             android:textSize="18sp"
             android:textStyle="bold"
-            app:backgroundTint="#8BC34A"/>
+            app:backgroundTint="#8BC34A" />
 
     </RelativeLayout>
 

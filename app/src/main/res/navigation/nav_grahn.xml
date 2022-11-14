@@ -17,23 +17,17 @@
             android:id="@+id/action_menuFragment_to_carritoFragment"
             app:destination="@id/carritoFragment" />
         <action
-            android:id="@+id/action_menuFragment_to_wishlistFragment"
-            app:destination="@id/wishlistFragment" />
-        <action
             android:id="@+id/action_menuFragment_to_cuentaFragment"
             app:destination="@id/cuentaFragment" />
         <action
             android:id="@+id/action_menuFragment_to_rutapedidoFragment"
             app:destination="@id/rutapedidoFragment" />
         <action
-            android:id="@+id/action_menuFragment_to_ayudaFragment"
-            app:destination="@id/ayudaFragment" />
-        <action
             android:id="@+id/action_menuFragment_to_ellos2"
-            app:destination="@id/ellos2" />
+            app:destination="@id/navigation" />
         <action
             android:id="@+id/action_menuFragment_to_ellos22"
-            app:destination="@id/ellos2" />
+            app:destination="@id/navigation" />
     </fragment>
     <fragment
         android:id="@+id/catalogoFragment"
@@ -42,7 +36,7 @@
         tools:layout="@layout/fragment_catalogo" >
         <action
             android:id="@+id/action_catalogoFragment_to_ellos2"
-            app:destination="@id/ellos2" />
+            app:destination="@id/navigation" />
         <action
             android:id="@+id/action_catalogoFragment_to_menuFragment"
             app:destination="@id/menuFragment" />
@@ -56,38 +50,70 @@
         android:label="fragment_carrito"
         tools:layout="@layout/fragment_carrito" />
     <fragment
-        android:id="@+id/wishlistFragment"
-        android:name="com.example.latinshopapp.view.ui.activities.fragments.WishlistFragment"
-        android:label="fragment_wishlist"
-        tools:layout="@layout/fragment_wishlist" />
-    <fragment
-        android:id="@+id/ayudaFragment"
-        android:name="com.example.latinshopapp.view.ui.activities.fragments.AyudaFragment"
-        android:label="fragment_ayuda"
-        tools:layout="@layout/fragment_ayuda" />
-    <fragment
         android:id="@+id/cuentaFragment"
         android:name="com.example.latinshopapp.view.ui.activities.fragments.CuentaFragment"
         android:label="fragment_cuenta"
         tools:layout="@layout/fragment_cuenta" />
     <fragment
         android:id="@+id/rutapedidoFragment"
-        android:name="com.example.latinshopapp.view.ui.activities.fragments.RutapedidoFragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.UbicacionFragment"
         android:label="fragment_rutapedido"
-        tools:layout="@layout/fragment_rutapedido" />
+        tools:layout="@layout/fragment_ubicacion" />
+    <navigation android:id="@+id/navigation"
+        app:startDestination="@id/ellos2">
+        <fragment
+            android:id="@+id/ellos2"
+            android:name="com.example.latinshopapp.ellos2"
+            android:label="fragment_ellos2"
+            tools:layout="@layout/fragment_ellos2">
+            <action
+                android:id="@+id/action_ellos2_to_menuFragment"
+                app:destination="@id/menuFragment" />
+            <action
+                android:id="@+id/action_ellos2_to_catalogoFragment"
+                app:destination="@id/catalogoFragment" />
+            <action
+                android:id="@+id/action_ellos2_to_cuentaFragment"
+                app:destination="@id/cuentaFragment" />
+        </fragment>
+        <action
+            android:id="@+id/action_global_articulo1Fragment2"
+            app:destination="@id/articulo1Fragment2" />
+        <action
+            android:id="@+id/action_global_articulo6Fragment"
+            app:destination="@id/articulo6Fragment" />
+        <action
+            android:id="@+id/action_global_articulo4Fragment"
+            app:destination="@id/articulo4Fragment" />
+        <action
+            android:id="@+id/action_global_articulo3Fragment"
+            app:destination="@id/articulo3Fragment" />
+        <action
+            android:id="@+id/action_global_articulo5Fragment"
+            app:destination="@id/articulo5Fragment" />
+    </navigation>
     <fragment
-        android:id="@+id/ellos2"
-        android:name="com.example.latinshopapp.ellos2"
-        android:label="fragment_ellos2"
-        tools:layout="@layout/fragment_ellos2" >
-        <action
-            android:id="@+id/action_ellos2_to_menuFragment"
-            app:destination="@id/menuFragment" />
-        <action
-            android:id="@+id/action_ellos2_to_catalogoFragment"
-            app:destination="@id/catalogoFragment" />
-        <action
-            android:id="@+id/action_ellos2_to_cuentaFragment"
-            app:destination="@id/cuentaFragment" />
-    </fragment>
+        android:id="@+id/articulo3Fragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.Articulo3Fragment"
+        android:label="Articulo3Fragment" />
+    <fragment
+        android:id="@+id/articulo1Fragment2"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.Articulo1Fragment"
+        android:label="fragment_articulo1"
+        tools:layout="@layout/fragment_articulo1" />
+    <fragment
+        android:id="@+id/articulo4Fragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.Articulo4Fragment"
+        android:label="fragment_articulo4"
+        tools:layout="@layout/fragment_articulo4" />
+    <fragment
+        android:id="@+id/articulo6Fragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.Articulo6Fragment"
+        android:label="fragment_articulo6"
+        tools:layout="@layout/fragment_articulo6" />
+    <fragment
+        android:id="@+id/articulo5Fragment"
+        android:name="com.example.latinshopapp.view.ui.activities.fragments.Articulo5Fragment"
+        android:label="fragment_articulo5"
+        tools:layout="@layout/fragment_articulo5" />
 </navigation>

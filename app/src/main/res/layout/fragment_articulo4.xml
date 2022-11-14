@@ -4,7 +4,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".view.ui.activities.fragments.Articulo1Fragment"
+    tools:context=".view.ui.activities.fragments.Articulo4Fragment"
     android:orientation="vertical"
     android:background="@color/white"
     >
@@ -36,7 +36,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginLeft="110dp"
             android:layout_marginBottom="10dp"
-            android:background="@drawable/chaquetas"
+            android:background="@drawable/ropaelegante"
             android:contentDescription="@string/banner"
             android:orientation="vertical"
             android:scaleType="center"
@@ -60,7 +60,7 @@
                 android:layout_marginBottom="10dp"
                 android:fontFamily="@font/poppinslight"
                 android:gravity="center"
-                android:text="Polo"
+                android:text="Camisa"
                 android:textColor="@color/green"
                 android:textSize="25sp"
                 android:textStyle="bold">
@@ -88,7 +88,7 @@
                 android:layout_marginBottom="10dp"
                 android:fontFamily="@font/poppinslight"
                 android:gravity="center"
-                android:text="$50.000"
+                android:text="$80.000"
                 android:textColor="@color/white"
                 android:textSize="18sp"
                 android:textStyle="bold">
@@ -114,7 +114,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginBottom="20dp"
                 android:fontFamily="@font/poppinslight"
-                android:text="Chaqueta negra 100% en cuero colombiano"
+                android:text="Camisa blanca con botones y cuello tortuga"
                 android:textColor="@color/black"
                 android:textSize="20sp"
                 android:textStyle="bold">

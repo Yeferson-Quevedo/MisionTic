@@ -26,7 +26,7 @@
             android:background="@drawable/logo1"
             android:contentDescription="@string/logo"
             android:orientation="vertical"
-            android:scaleType="centerInside"/>
+            android:scaleType="centerInside" />
 
         <ImageView
             android:id="@+id/banner"
@@ -40,85 +40,104 @@
             android:contentDescription="@string/banner"
             android:orientation="vertical"
             android:scaleType="center"
-            android:layout_gravity="center"/>
+            android:layout_gravity="center"
+            />
 
         <LinearLayout
             android:id="@+id/contenedor2"
             android:layout_width="match_parent"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:orientation="horizontal"
-            android:background="@color/green"
+            android:background="@color/white"
             android:layout_below="@id/banner">
 
             <TextView
 
                 android:id="@+id/titulo1"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="10dp"
-                android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="10dp"
                 android:fontFamily="@font/poppinslight"
+                android:gravity="center"
                 android:text="Pantalón"
-                android:textColor="@color/black"
-                android:textSize="22sp"
+                android:textColor="@color/green"
+                android:textSize="25sp"
                 android:textStyle="bold">
 
             </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/contenedor3"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:background="@color/green"
+            android:layout_below="@id/contenedor2">
 
             <TextView
 
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="100dp"
-                android:layout_marginTop="50dp"
-                android:layout_marginEnd="20dp"
+                android:layout_below="@id/titulo1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginBottom="10dp"
                 android:fontFamily="@font/poppinslight"
-                android:text="$80.000"
+                android:gravity="center"
+                android:text="$70.000"
                 android:textColor="@color/white"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:layout_below="@id/titulo1">
+                android:textStyle="bold">
 
             </TextView>
-
         </LinearLayout>
 
+        <LinearLayout
+            android:id="@+id/contenedor4"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            android:layout_below="@id/contenedor3">
 
         <TextView
-
-            android:id="@+id/parrafo1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/contenedor2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
             android:layout_marginTop="20dp"
-            android:layout_marginRight="50dp"
-            android:layout_marginLeft="60dp"
-            android:layout_marginBottom="30dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="20dp"
             android:fontFamily="@font/poppinslight"
             android:text="Pantalón gris hecho con algodón"
             android:textColor="@color/black"
-            android:textSize="18sp"
+            android:textSize="20sp"
             android:textStyle="bold">
 
         </TextView>
+        </LinearLayout>
 
         <Button
             android:id="@+id/button"
-            android:layout_below="@id/parrafo1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginRight="20dp"
+            android:layout_below="@id/contenedor4"
             android:layout_marginLeft="80dp"
+            android:layout_marginTop="110dp"
+            android:layout_marginRight="20dp"
+            android:background="@color/green"
+            android:layout-marginTop="200dp"
+            android:layout-marginBottom="100dp"
+            android:shadowRadius="50"
             android:text="Agregar al carrito"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:color="@color/green"/>
+            app:backgroundTint="#8BC34A"/>
 
     </RelativeLayout>
 
