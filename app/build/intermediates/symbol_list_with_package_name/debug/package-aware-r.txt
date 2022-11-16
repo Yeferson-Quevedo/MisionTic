@@ -2770,6 +2770,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable pantalon
+drawable perfil2
 drawable product
 drawable profile
 drawable ropaelegante
@@ -2784,16 +2785,22 @@ drawable wishlist
 font poppins_extrabold
 font poppinslight
 id ALT
+id ApellidoUser
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
+id CerrarSesion
+id Correo
 id FUNCTION
+id Fecha_Nac
 id META
 id MainScroll
 id NO_DEBUG
 id Nav_menu
 id Nav_productos
 id Nav_profile
+id NombreUser
+id Password
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -2962,7 +2969,6 @@ id cos
 id counterclockwise
 id cradle
 id cuentaFragment
-id cuenta_banner
 id cuenta_logo
 id currentState
 id custom
@@ -3011,6 +3017,11 @@ id editTextNewPassword
 id editTextNumberSigned2
 id editTextPassword
 id edit_query
+id edtApellido
+id edtCorreo
+id edtNacimiento
+id edtNombre
+id edtPass
 id elastic
 id ellos2
 id embed
@@ -3085,6 +3096,7 @@ id light
 id line1
 id line3
 id lineBlack
+id lineBlack2
 id linear
 id listMode
 id list_item
@@ -3193,6 +3205,7 @@ id path
 id pathRelative
 id peekHeight
 id percent
+id perfil
 id pin
 id position
 id postLayout
@@ -3204,6 +3217,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyvlerview
 id registrobutton
 id restart
 id restaurarbutton

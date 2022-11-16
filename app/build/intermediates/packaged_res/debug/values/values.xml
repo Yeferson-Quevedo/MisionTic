@@ -25,7 +25,9 @@
     <color name="orange">#FF914D</color>
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#FFDE59</color>
+    <item name="CerrarSesion" type="id"/>
     <item name="home" type="id"/>
+    <item name="lineBlack2" type="id"/>
     <string name="app_name">LatinShopApp</string>
     <string name="banner">Banner</string>
     <string name="default_web_client_id" translatable="false">1067912464331-9n31s62t0u430h9vesbsnpjuhqlbg7u1.apps.googleusercontent.com</string>
