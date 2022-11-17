@@ -2651,6 +2651,7 @@ drawable buzopunto
 drawable buzostilo
 drawable carrito
 drawable catalogo
+drawable cerrar
 drawable chaquetas
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
@@ -2854,12 +2855,15 @@ id action_bar_subtitle
 id action_bar_title
 id action_catalogoFragment_to_cuentaFragment
 id action_catalogoFragment_to_ellos2
+id action_catalogoFragment_to_loginActivity
 id action_catalogoFragment_to_menuFragment
 id action_container
 id action_context_bar
+id action_cuentaFragment_to_loginActivity
 id action_divider
 id action_ellos2_to_catalogoFragment
 id action_ellos2_to_cuentaFragment
+id action_ellos2_to_loginActivity
 id action_ellos2_to_menuFragment
 id action_image
 id action_menuFragment_to_ayudaFragment
@@ -2868,6 +2872,7 @@ id action_menuFragment_to_catalogoFragment
 id action_menuFragment_to_cuentaFragment
 id action_menuFragment_to_ellos2
 id action_menuFragment_to_ellos22
+id action_menuFragment_to_loginActivity
 id action_menuFragment_to_rutapedidoFragment
 id action_menuFragment_to_wishlistFragment
 id action_menu_divider
@@ -2942,6 +2947,7 @@ id centerCrop
 id centerInside
 id center_horizontal
 id center_vertical
+id cerrar
 id chain
 id chain2
 id chains
@@ -3023,8 +3029,10 @@ id edtNacimiento
 id edtNombre
 id edtPass
 id elastic
+id ellos
 id ellos2
 id embed
+id encabezado
 id end
 id endToStart
 id enterAlways
@@ -3101,6 +3109,7 @@ id linear
 id listMode
 id list_item
 id locale
+id loginActivity
 id logo
 id lottie_layer_name
 id ltr
@@ -3217,7 +3226,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
-id recyvlerview
+id recyclerview
 id registrobutton
 id restart
 id restaurarbutton

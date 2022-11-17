@@ -34,6 +34,9 @@
         <action
             android:id="@+id/action_menuFragment_to_ellos22"
             app:destination="@id/ellos2" />
+        <action
+            android:id="@+id/action_menuFragment_to_loginActivity"
+            app:destination="@id/loginActivity" />
     </fragment>
     <fragment
         android:id="@+id/catalogoFragment"
@@ -49,6 +52,9 @@
         <action
             android:id="@+id/action_catalogoFragment_to_cuentaFragment"
             app:destination="@id/cuentaFragment" />
+        <action
+            android:id="@+id/action_catalogoFragment_to_loginActivity"
+            app:destination="@id/loginActivity" />
     </fragment>
     <fragment
         android:id="@+id/carritoFragment"
@@ -69,7 +75,11 @@
         android:id="@+id/cuentaFragment"
         android:name="com.example.latinshopapp.view.ui.activities.fragments.CuentaFragment"
         android:label="fragment_cuenta"
-        tools:layout="@layout/fragment_cuenta" />
+        tools:layout="@layout/fragment_cuenta" >
+        <action
+            android:id="@+id/action_cuentaFragment_to_loginActivity"
+            app:destination="@id/loginActivity" />
+    </fragment>
     <fragment
         android:id="@+id/rutapedidoFragment"
         android:name="com.example.latinshopapp.view.ui.activities.fragments.RutapedidoFragment"
@@ -89,5 +99,13 @@
         <action
             android:id="@+id/action_ellos2_to_cuentaFragment"
             app:destination="@id/cuentaFragment" />
+        <action
+            android:id="@+id/action_ellos2_to_loginActivity"
+            app:destination="@id/loginActivity" />
     </fragment>
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.example.latinshopapp.view.ui.activities.LoginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
 </navigation>

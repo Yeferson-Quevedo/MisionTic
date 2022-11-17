@@ -20,6 +20,7 @@ drawable buzopunto
 drawable buzostilo
 drawable carrito
 drawable catalogo
+drawable cerrar
 drawable chaquetas
 drawable cuenta
 drawable ellas
@@ -59,9 +60,12 @@ id NombreUser
 id Password
 id action_catalogoFragment_to_cuentaFragment
 id action_catalogoFragment_to_ellos2
+id action_catalogoFragment_to_loginActivity
 id action_catalogoFragment_to_menuFragment
+id action_cuentaFragment_to_loginActivity
 id action_ellos2_to_catalogoFragment
 id action_ellos2_to_cuentaFragment
+id action_ellos2_to_loginActivity
 id action_ellos2_to_menuFragment
 id action_menuFragment_to_ayudaFragment
 id action_menuFragment_to_carritoFragment
@@ -69,6 +73,7 @@ id action_menuFragment_to_catalogoFragment
 id action_menuFragment_to_cuentaFragment
 id action_menuFragment_to_ellos2
 id action_menuFragment_to_ellos22
+id action_menuFragment_to_loginActivity
 id action_menuFragment_to_rutapedidoFragment
 id action_menuFragment_to_wishlistFragment
 id animation_view
@@ -88,6 +93,7 @@ id cardcuenta
 id cardruta
 id carritoFragment
 id catalogoFragment
+id cerrar
 id contenedor2
 id cuentaFragment
 id cuenta_logo
@@ -103,9 +109,10 @@ id edtCorreo
 id edtNacimiento
 id edtNombre
 id edtPass
+id ellos
 id ellos2
+id encabezado
 id home
-id image
 id imageEllos
 id imageView
 id imageView2
@@ -113,6 +120,7 @@ id imageView3
 id iniciobutton
 id lineBlack
 id lineBlack2
+id loginActivity
 id logo
 id menuFragment
 id nav_container
@@ -122,7 +130,7 @@ id parrafo1
 id perfil
 id precio
 id producto
-id recyvlerview
+id recyclerview
 id registrobutton
 id restaurarbutton
 id rutapedidoFragment
