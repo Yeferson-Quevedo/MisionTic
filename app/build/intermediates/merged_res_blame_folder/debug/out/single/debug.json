@@ -68,10 +68,6 @@
         "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-57:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.latinshopapp-merged_res-55:/layout_fragment_ellos2.xml.flat",
-        "source": "com.example.latinshopapp-main-57:/layout/fragment_ellos2.xml"
-    },
-    {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-55:\\drawable-v24_ellas.PNG.flat",
         "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-57:\\drawable-v24\\ellas.PNG"
     },
@@ -334,6 +330,10 @@
     {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-55:\\drawable-hdpi_product.png.flat",
         "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-50:\\drawable-hdpi\\product.png"
+    },
+    {
+        "merged": "com.example.latinshopapp-merged_res-55:/layout_activity_login.xml.flat",
+        "source": "com.example.latinshopapp-main-57:/layout/activity_login.xml"
     },
     {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-55:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",

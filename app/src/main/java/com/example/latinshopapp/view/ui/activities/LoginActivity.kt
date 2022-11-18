@@ -11,6 +11,8 @@ import androidx.fragment.app.FragmentManager
 import com.example.latinshopapp.R
 import com.google.android.gms.tasks.Task
 import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.ktx.auth
+import com.google.firebase.ktx.Firebase
 
 class LoginActivity : AppCompatActivity() {
     lateinit var Iniciobutton: Button
@@ -26,6 +28,7 @@ class LoginActivity : AppCompatActivity() {
         Restaurarbutton=findViewById<TextView>(R.id.restaurarbutton)
         val correo= findViewById<EditText>(R.id.editTextEmail)
         val contraseña= findViewById<EditText>(R.id.editTextPassword)
+        firebaseAuth= Firebase.auth
         Registrobutton.setOnClickListener(){
             startActivity(Intent(this,RegisterActivity::class.java))
         }
