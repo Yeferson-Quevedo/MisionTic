@@ -26,8 +26,8 @@ class CatalogoFragment : Fragment() {
         val btm= view.findViewById<BottomNavigationView>(R.id.bottomNavigationView)
 
 
-        val cardhelp=view.findViewById<ImageView>(R.id.imageEllos)
-        cardhelp.setOnClickListener(){
+        val cardProduct=view.findViewById<ImageView>(R.id.imageEllos)
+        cardProduct.setOnClickListener(){
             findNavController().navigate(R.id.action_catalogoFragment_to_ellos2)
         }
 

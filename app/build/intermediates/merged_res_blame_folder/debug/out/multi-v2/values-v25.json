@@ -4,7 +4,7 @@
             "outputFile": "com.example.latinshopapp-mergeDebugResources-53:/values-v25/values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f2d0d7f972c1252ab98c765bf9fee9d1\\transformed\\appcompat-1.5.1\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\fenix\\.gradle\\caches\\transforms-3\\f2d0d7f972c1252ab98c765bf9fee9d1\\transformed\\appcompat-1.5.1\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

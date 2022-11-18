@@ -2924,7 +2924,6 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
-id button
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2933,6 +2932,7 @@ id cantidad
 id cardEllos
 id card_descripcion
 id card_image
+id card_library
 id card_precio
 id card_tienda
 id cardcarrito
@@ -2989,6 +2989,7 @@ id decor_content_parent
 id default_activity_button
 id deltaRelative
 id dependency_ordering
+id desc
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -3104,6 +3105,7 @@ id light
 id line1
 id line3
 id lineBlack
+id lineBlack1
 id lineBlack2
 id linear
 id listMode
@@ -3208,7 +3210,6 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
-id parrafo1
 id password_toggle
 id path
 id pathRelative
@@ -3342,7 +3343,7 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
-id titulo1
+id titles
 id titulo_tienda
 id toggle
 id top
@@ -3514,6 +3515,7 @@ layout activity_restore
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout cad_view_tienda
+layout card_view_shop
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3530,14 +3532,12 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout fragment_articulo1
-layout fragment_articulo2
-layout fragment_articulo3
 layout fragment_ayuda
 layout fragment_carrito
 layout fragment_catalogo
 layout fragment_cuenta
 layout fragment_ellos2
+layout fragment_libreria
 layout fragment_menu
 layout fragment_rutapedido
 layout fragment_wishlist

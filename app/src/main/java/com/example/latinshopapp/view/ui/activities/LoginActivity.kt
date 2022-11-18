@@ -44,7 +44,7 @@ class LoginActivity : AppCompatActivity() {
             .addOnCompleteListener(this){
                 task->if (task.isSuccessful){
                     val user= firebaseAuth.currentUser
-                Toast.makeText(baseContext, user?.uid.toString(), Toast.LENGTH_SHORT)
+                Toast.makeText(baseContext,"Login exitoso, bienvenido ", Toast.LENGTH_SHORT).show()
                 startActivity(Intent(this, HomeActivity::class.java))
             }else{
             Toast.makeText(baseContext, "Error en autenticación", Toast.LENGTH_SHORT).show()

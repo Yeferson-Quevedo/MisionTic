@@ -31,7 +31,7 @@ class EllosFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        val view=inflater.inflate(R.layout.fragment_ellos2,container,false)
+        val view=inflater.inflate(R.layout.fragment_libreria,container,false)
         recyclerLib=view.findViewById(R.id.recyclerview)
         val adapter = TiendaAdaptor()
         recyclerLib.layoutManager=LinearLayoutManager(context)

@@ -2923,7 +2923,6 @@ int id browser_actions_menu_item_icon 0x7f0a0087
 int id browser_actions_menu_item_text 0x7f0a0088
 int id browser_actions_menu_items 0x7f0a0089
 int id browser_actions_menu_view 0x7f0a008a
-int id button 0x7f0a008b
 int id buttonPanel 0x7f0a008c
 int id cache_measures 0x7f0a008d
 int id callMeasure 0x7f0a008e
@@ -2932,6 +2931,7 @@ int id cantidad 0x7f0a0090
 int id cardEllos 0x7f0a0091
 int id card_descripcion 0x7f0a0092
 int id card_image 0x7f0a0093
+int id card_library 0x7f0a0254
 int id card_precio 0x7f0a0094
 int id card_tienda 0x7f0a0095
 int id cardcarrito 0x7f0a0096
@@ -2988,6 +2988,7 @@ int id decor_content_parent 0x7f0a00c8
 int id default_activity_button 0x7f0a00c9
 int id deltaRelative 0x7f0a00ca
 int id dependency_ordering 0x7f0a00cb
+int id desc 0x7f0a0255
 int id design_bottom_sheet 0x7f0a00cc
 int id design_menu_item_action_area 0x7f0a00cd
 int id design_menu_item_action_area_stub 0x7f0a00ce
@@ -3103,6 +3104,7 @@ int id light 0x7f0a013b
 int id line1 0x7f0a013c
 int id line3 0x7f0a013d
 int id lineBlack 0x7f0a013e
+int id lineBlack1 0x7f0a0256
 int id lineBlack2 0x7f0a013f
 int id linear 0x7f0a0140
 int id listMode 0x7f0a0141
@@ -3207,7 +3209,6 @@ int id parent 0x7f0a01a3
 int id parentPanel 0x7f0a01a4
 int id parentRelative 0x7f0a01a5
 int id parent_matrix 0x7f0a01a6
-int id parrafo1 0x7f0a01a7
 int id password_toggle 0x7f0a01a8
 int id path 0x7f0a01a9
 int id pathRelative 0x7f0a01aa
@@ -3341,7 +3342,7 @@ int id time 0x7f0a0229
 int id title 0x7f0a022a
 int id titleDividerNoCustom 0x7f0a022b
 int id title_template 0x7f0a022c
-int id titulo1 0x7f0a022d
+int id titles 0x7f0a0257
 int id titulo_tienda 0x7f0a022e
 int id toggle 0x7f0a022f
 int id top 0x7f0a0230
@@ -3513,6 +3514,7 @@ int layout activity_restore 0x7f0d0021
 int layout browser_actions_context_menu_page 0x7f0d0022
 int layout browser_actions_context_menu_row 0x7f0d0023
 int layout cad_view_tienda 0x7f0d0024
+int layout card_view_shop 0x7f0d007a
 int layout custom_dialog 0x7f0d0025
 int layout design_bottom_navigation_item 0x7f0d0026
 int layout design_bottom_sheet_dialog 0x7f0d0027
@@ -3529,14 +3531,12 @@ int layout design_navigation_menu 0x7f0d0031
 int layout design_navigation_menu_item 0x7f0d0032
 int layout design_text_input_end_icon 0x7f0d0033
 int layout design_text_input_start_icon 0x7f0d0034
-int layout fragment_articulo1 0x7f0d0035
-int layout fragment_articulo2 0x7f0d0036
-int layout fragment_articulo3 0x7f0d0037
 int layout fragment_ayuda 0x7f0d0038
 int layout fragment_carrito 0x7f0d0039
 int layout fragment_catalogo 0x7f0d003a
 int layout fragment_cuenta 0x7f0d003b
 int layout fragment_ellos2 0x7f0d003c
+int layout fragment_libreria 0x7f0d007b
 int layout fragment_menu 0x7f0d003d
 int layout fragment_rutapedido 0x7f0d003e
 int layout fragment_wishlist 0x7f0d003f
