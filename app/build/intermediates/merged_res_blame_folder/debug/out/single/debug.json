@@ -308,16 +308,12 @@
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-50:\\drawable-ldpi\\menu.png"
     },
     {
-        "merged": "com.example.latinshopapp-merged_res-55:/layout_activity_login.xml.flat",
-        "source": "com.example.latinshopapp-main-57:/layout/activity_login.xml"
+        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-55:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-57:\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-55:\\drawable-anydpi-v21_menu.xml.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-50:\\drawable-anydpi-v21\\menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-55:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-57:\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-55:\\layout_activity_main.xml.flat",
@@ -334,6 +330,10 @@
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-55:\\layout_activity_register.xml.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-57:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "com.example.latinshopapp-merged_res-55:/layout_card_view_shop.xml.flat",
+        "source": "com.example.latinshopapp-main-57:/layout/card_view_shop.xml"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-55:\\drawable_buzopunto.PNG.flat",

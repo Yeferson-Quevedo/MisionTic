@@ -10,7 +10,6 @@ import com.example.latinshopapp.R
 
 class CarritoFragment : Fragment() {
 
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
