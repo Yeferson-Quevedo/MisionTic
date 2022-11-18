@@ -19,34 +19,29 @@
             android:id="@+id/perfil"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
+            android:layout_alignParentTop="true"
+            android:layout_centerInParent="true"
             android:background="@drawable/perfil2"
             android:orientation="vertical" />
         <LinearLayout
             android:id="@+id/relativeBottom"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
             android:layout_below="@id/perfil"
             android:orientation="horizontal" >
-
-
 
             <Button
                 android:id="@+id/btmcamara"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-
-
-
                 android:text="camara"
-
                 />
             <Button
                 android:id="@+id/btmgaleria"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-
-
+                android:layout_marginLeft="10dp"
                 android:text="galeria"
 
                 />
@@ -54,159 +49,122 @@
         </LinearLayout>
 
 
-
-
-        <TextView
-            android:id="@+id/NombreUser"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/relativeBottom"
-            android:layout_marginLeft="50dp"
-            android:layout_marginTop="40dp"
-            android:text="Nombre: "
-            android:textSize="18sp"
-            android:textStyle="bold"></TextView>
-
-        <EditText
-            android:id="@+id/edtNombre"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/relativeBottom"
-            android:layout_marginLeft="150dp"
-            android:layout_marginRight="50dp"
-            android:backgroundTint="@color/white"
-            android:textColor="#FFFFFF"
-            android:background="@color/green"
+        <LinearLayout
             android:layout_marginTop="20dp"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:minHeight="48dp"
-            android:text=""
-            tools:ignore="SpeakableTextPresentCheck" />
-        <TextView
-            android:id="@+id/ApellidoUser"
+            android:id="@+id/rec0"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/NombreUser"
-            android:layout_marginLeft="50dp"
-            android:layout_marginTop="40dp"
-            android:text="Apellido: "
-            android:textSize="18sp"
-            android:textStyle="bold"></TextView>
+            android:layout_centerInParent="true"
+            android:orientation="horizontal"
+            android:layout_below="@id/relativeBottom">
 
-        <EditText
-            android:id="@+id/edtApellido"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/edtNombre"
-            android:layout_marginLeft="150dp"
-            android:layout_marginRight="50dp"
-            android:textColor="#FFFFFF"
-            android:background="@color/white"
-            android:layout_marginTop="16dp"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:minHeight="48dp"
-            android:text=""
-            tools:ignore="SpeakableTextPresentCheck" />
+            <TextView
+                android:id="@+id/Nombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/relativeBottom"
 
-        <TextView
-            android:id="@+id/Fecha_Nac"
+                android:text="Nombre: "
+                android:textSize="18sp"
+                android:textStyle="bold"></TextView>
+
+            <EditText
+                android:id="@+id/edtNombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="#000000"
+                android:background="@color/green"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:text=""
+                tools:ignore="SpeakableTextPresentCheck" />
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+
+            android:id="@+id/rec1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/ApellidoUser"
-            android:layout_marginLeft="50dp"
-            android:layout_marginTop="40dp"
-            android:text="Fecha de nacimiento: "
-            android:textSize="18sp"
-            android:textStyle="bold"></TextView>
-        <EditText
-            android:id="@+id/edtNacimiento"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/edtApellido"
-            android:layout_marginLeft="230dp"
-            android:layout_marginRight="50dp"
-            android:textColor="#FFFFFF"
-            android:background="@color/white"
-            android:layout_marginTop="17dp"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:minHeight="48dp"
-            android:text=""
-            tools:ignore="SpeakableTextPresentCheck" />
+            android:layout_centerInParent="true"
+            android:orientation="horizontal"
+            android:layout_below="@id/rec0">
 
         <TextView
             android:id="@+id/Correo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/Fecha_Nac"
-            android:layout_marginLeft="50dp"
-            android:layout_marginTop="40dp"
-            android:text="Email: "
+            android:layout_below="@id/relativeBottom"
+
+            android:text="Correo: "
             android:textSize="18sp"
             android:textStyle="bold"></TextView>
 
-        <EditText
-            android:id="@+id/edtCorreo"
+            <EditText
+                android:id="@+id/editTextEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="#000000"
+                android:background="@color/green"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:text=""
+                tools:ignore="SpeakableTextPresentCheck" />
+
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:id="@+id/rec2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/edtNacimiento"
-            android:layout_marginLeft="150dp"
-            android:layout_marginTop="18dp"
-            android:layout_marginRight="50dp"
-            android:background="@color/white"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:minHeight="48dp"
-            android:text=""
-            android:textColor="#FFFFFF"
-            tools:ignore="SpeakableTextPresentCheck" />
+            android:layout_centerInParent="true"
+            android:orientation="horizontal"
+            android:layout_below="@id/rec1">
 
-        <TextView
-            android:id="@+id/Password"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/Correo"
-            android:layout_marginLeft="50dp"
-            android:layout_marginTop="45dp"
-            android:text="Password: "
-            android:textSize="18sp"
-            android:textStyle="bold"></TextView>
+            <TextView
+                android:id="@+id/Password"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/relativeBottom"
 
-        <EditText
-            android:id="@+id/edtPass"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/Correo"
-            android:layout_marginLeft="150dp"
-            android:layout_marginTop="25dp"
-            android:layout_marginRight="50dp"
-            android:background="@color/white"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:minHeight="48dp"
-            android:text=""
-            android:textColor="#FFFFFF"
-            tools:ignore="SpeakableTextPresentCheck" />
+                android:text="Contraseña: "
+                android:textSize="18sp"
+                android:textStyle="bold"></TextView>
 
-        <TextView
+            <EditText
+                android:id="@+id/edtPass"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:textColor="#000000"
+                android:background="@color/green"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:text=""
+                tools:ignore="SpeakableTextPresentCheck" />
+
+        </LinearLayout>
+
+        <Button
             android:id="@+id/CerrarSesion"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="26dp"
-            android:text="¿Cerrar sesion?"
-            android:gravity="center"
-            android:layout_below="@+id/Password"
-            android:layout_marginTop="30dp"
-            android:layout_marginLeft="150dp"
-            android:layout_marginRight="150dp"
-            android:textColor="@color/blue"
-            android:textStyle="bold"
-            android:fontFamily="@font/poppinslight"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            />
+            android:layout_below="@id/rec2"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="100dp"
+
+
+            android:text="Cerrar sesión" />
+
 
 
 
