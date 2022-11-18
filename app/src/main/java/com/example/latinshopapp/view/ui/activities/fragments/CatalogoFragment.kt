@@ -23,15 +23,9 @@ class CatalogoFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+
+
         val btm= view.findViewById<BottomNavigationView>(R.id.bottomNavigationView)
-
-
-        val cardhelp=view.findViewById<ImageView>(R.id.imageEllos)
-        cardhelp.setOnClickListener(){
-            findNavController().navigate(R.id.action_catalogoFragment_to_ellos2)
-        }
-
-
         btm.setOnNavigationItemReselectedListener {
             when(it.itemId)
             {

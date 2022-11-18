@@ -22,22 +22,11 @@
         >
 
         <ImageView
-            android:id="@+id/cuenta_logo"
-            android:layout_width="110dp"
-            android:layout_height="30dp"
-            android:layout_alignParentTop="true"
-            android:layout_centerInParent="true"
-
-            android:layout_marginTop="20dp"
-            android:background="@drawable/logo1"></ImageView>
-
-        <ImageView
             android:id="@+id/perfil"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/cuenta_logo"
-            android:layout_centerInParent="true"
-            android:layout_marginTop="25dp"
+
+
             android:background="@drawable/perfil2"
             android:orientation="vertical" />
 
@@ -204,14 +193,41 @@
             />
 
         <LinearLayout
-            android:id="@+id/lineBlack2"
-            android:layout_marginTop="20dp"
-            android:layout_width="fill_parent"
-            android:layout_height="1dp"
-            android:background="#a5a5a5"
-            android:orientation="horizontal"
+            android:id="@+id/relativeBottom"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
             android:layout_below="@id/CerrarSesion"
-            />
+            android:orientation="horizontal" >
+
+
+
+            <Button
+                android:id="@+id/btmcamara"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/CerrarSesion"
+
+
+                android:text="camara"
+
+                />
+            <Button
+                android:id="@+id/btmgaleria"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+
+
+                android:text="galeria"
+
+                />
+
+        </LinearLayout>
+
+
+
+
+
 
     </RelativeLayout>
 

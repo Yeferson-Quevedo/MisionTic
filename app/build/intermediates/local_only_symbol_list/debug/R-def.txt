@@ -75,6 +75,8 @@ id animation_view
 id ayudaFragment
 id banner
 id bottomNavigationView
+id btmcamara
+id btmgaleria
 id cantidad
 id cardEllos
 id card_descripcion
@@ -89,7 +91,6 @@ id carritoFragment
 id catalogoFragment
 id contenedor2
 id cuentaFragment
-id cuenta_logo
 id editTextBirthDate
 id editTextEmail
 id editTextLastname
@@ -122,6 +123,7 @@ id precio
 id producto
 id recyvlerview
 id registrobutton
+id relativeBottom
 id restaurarbutton
 id rutapedidoFragment
 id scrollView

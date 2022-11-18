@@ -2919,6 +2919,8 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
+id btmcamara
+id btmgaleria
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2968,7 +2970,6 @@ id cos
 id counterclockwise
 id cradle
 id cuentaFragment
-id cuenta_logo
 id currentState
 id custom
 id customPanel
@@ -3217,6 +3218,7 @@ id ratio
 id rectangles
 id recyvlerview
 id registrobutton
+id relativeBottom
 id restart
 id restaurarbutton
 id reverse
