@@ -1,4 +1,5 @@
 package com.example.latinshopapp.view.ui.activities
+import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -39,7 +40,9 @@ class LoginActivity : AppCompatActivity() {
             startActivity(Intent(this,RestoreActivity::class.java))
         }
     }
+    @SuppressLint("SuspiciousIndentation")
     private fun login(correo:String, contraseña: String){
+
         firebaseAuth.signInWithEmailAndPassword(correo, contraseña)
             .addOnCompleteListener(this){
                 task->if (task.isSuccessful){

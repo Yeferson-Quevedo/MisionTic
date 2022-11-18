@@ -40,13 +40,41 @@ class LibraryAdapter: RecyclerView.Adapter<LibraryAdapter.ViewHolder>() {
         return titles.size
     }
 
-    val titles= arrayOf("Buzo caballero","Jogger deportivo para caballero",
-        "Traje elegante para caballero")
-    val precio= arrayOf("$80.000", "$95.000", "$350.000")
-    val desc= arrayOf("Buzo en algodon para caballero",
-        "JPantalon deportivo para caballero estilo Jogger",
-        "Traje elegante para caballero, incluye buzo negro cuello trotuga")
-    val image= arrayOf(R.drawable.buzostilo, R.drawable.pantalon,
-        R.drawable.buzostilo)
+    val titles= arrayOf(
+        "Chaqueta de cuero",
+        "Jogger deportivo para caballero",
+        "Buzo de hilo",
+        "Camisa elegante para caballero",
+        "Traje elegante para caballero",
+        "Buzo NASA para caballero",
+        "Buzo blanco para caballero",
+        "Buzo elegante para caballero")
+    val precio= arrayOf(
+        "$200.000",
+        "$70.000",
+        "$75.000",
+        "$80.000",
+        "$380.000",
+        "$80.000",
+        "$80.000",
+        "$120.000")
+    val desc= arrayOf(
+        "Chaqueta 100% cuero de excelente calidad, con costura italiana.",
+        "Pantalon deportivo para caballero estilo Jogger.",
+        "Buzo en hilo rojo para caballero.",
+        "Camisa blanca elegante para caballero.",
+        "Traje gris para caballero formal, incluye buso cuello tortuga negro de algodón.",
+        "Buzo para caballero 100% algodón de la NASA.",
+        "Buzo para caballero 100% algodón.",
+        "Buzo para caballero negro 100% algodón.")
+    val image= arrayOf(
+        R.drawable.chaquetas,
+        R.drawable.pantalon,
+        R.drawable.buzopunto,
+        R.drawable.ropaelegante,
+        R.drawable.ropaoficina,
+        R.drawable.buzonasa,
+        R.drawable.buzonino,
+        R.drawable.buzonino,)
 
 }
