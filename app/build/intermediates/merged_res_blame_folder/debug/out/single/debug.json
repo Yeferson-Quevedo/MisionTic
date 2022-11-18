@@ -4,10 +4,6 @@
         "source": "com.example.latinshopapp-main-57:/navigation/nav_grahn.xml"
     },
     {
-        "merged": "com.example.latinshopapp-merged_res-55:/layout_fragment_articulo1.xml.flat",
-        "source": "com.example.latinshopapp-main-57:/layout/fragment_articulo1.xml"
-    },
-    {
         "merged": "com.example.latinshopapp-merged_res-55:/drawable-hdpi_profile.png.flat",
         "source": "com.example.latinshopapp-pngs-50:/drawable-hdpi/profile.png"
     },
@@ -124,10 +120,6 @@
         "source": "com.example.latinshopapp-main-57:/layout/activity_home.xml"
     },
     {
-        "merged": "com.example.latinshopapp-merged_res-55:/layout_fragment_articulo3.xml.flat",
-        "source": "com.example.latinshopapp-main-57:/layout/fragment_articulo3.xml"
-    },
-    {
         "merged": "com.example.latinshopapp-merged_res-55:/drawable-mdpi_product.png.flat",
         "source": "com.example.latinshopapp-pngs-50:/drawable-mdpi/product.png"
     },
@@ -204,12 +196,12 @@
         "source": "com.example.latinshopapp-pngs-50:/drawable-xhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.example.latinshopapp-merged_res-55:/drawable-v24_cuenta.png.flat",
-        "source": "com.example.latinshopapp-main-57:/drawable-v24/cuenta.png"
-    },
-    {
         "merged": "com.example.latinshopapp-merged_res-55:/drawable-mdpi_profile.png.flat",
         "source": "com.example.latinshopapp-pngs-50:/drawable-mdpi/profile.png"
+    },
+    {
+        "merged": "com.example.latinshopapp-merged_res-55:/drawable-v24_cuenta.png.flat",
+        "source": "com.example.latinshopapp-main-57:/drawable-v24/cuenta.png"
     },
     {
         "merged": "com.example.latinshopapp-merged_res-55:/drawable-mdpi_menu.png.flat",
@@ -358,10 +350,6 @@
     {
         "merged": "com.example.latinshopapp-merged_res-55:/drawable-v24_theme_gradients_background.xml.flat",
         "source": "com.example.latinshopapp-main-57:/drawable-v24/theme_gradients_background.xml"
-    },
-    {
-        "merged": "com.example.latinshopapp-merged_res-55:/layout_fragment_articulo2.xml.flat",
-        "source": "com.example.latinshopapp-main-57:/layout/fragment_articulo2.xml"
     },
     {
         "merged": "com.example.latinshopapp-merged_res-55:/drawable-v24_ruta.png.flat",

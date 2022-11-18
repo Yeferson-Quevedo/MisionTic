@@ -2919,7 +2919,6 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
-id button
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3199,7 +3198,6 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
-id parrafo1
 id password_toggle
 id path
 id pathRelative
@@ -3333,7 +3331,6 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
-id titulo1
 id titulo_tienda
 id toggle
 id top
@@ -3521,9 +3518,6 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout fragment_articulo1
-layout fragment_articulo2
-layout fragment_articulo3
 layout fragment_ayuda
 layout fragment_carrito
 layout fragment_catalogo

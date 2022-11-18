@@ -75,7 +75,6 @@ id animation_view
 id ayudaFragment
 id banner
 id bottomNavigationView
-id button
 id cantidad
 id cardEllos
 id card_descripcion
@@ -118,7 +117,6 @@ id menuFragment
 id nav_container
 id nav_grahn
 id nav_host_fragment
-id parrafo1
 id perfil
 id precio
 id producto
@@ -130,7 +128,6 @@ id scrollView
 id subtotal
 id textHoddie
 id textView
-id titulo1
 id titulo_tienda
 id wishlistFragment
 layout activity_home
@@ -140,9 +137,6 @@ layout activity_products
 layout activity_register
 layout activity_restore
 layout cad_view_tienda
-layout fragment_articulo1
-layout fragment_articulo2
-layout fragment_articulo3
 layout fragment_ayuda
 layout fragment_carrito
 layout fragment_catalogo
