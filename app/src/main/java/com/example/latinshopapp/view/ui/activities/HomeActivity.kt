@@ -16,5 +16,8 @@ class HomeActivity : AppCompatActivity() {
         supportFragmentManager.beginTransaction().replace(R.id.nav_container,CatalogoFragment()).commit()
     }
 
+    override fun onBackPressed() {
+        return
+    }
 
 }

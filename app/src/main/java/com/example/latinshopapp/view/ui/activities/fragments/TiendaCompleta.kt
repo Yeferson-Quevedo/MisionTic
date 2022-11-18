@@ -21,12 +21,9 @@ import com.google.firebase.ktx.Firebase
 class TiendaCompleta : Fragment() {
 
     lateinit var recyclerLib: RecyclerView
-    lateinit var firebaseAuth: FirebaseAuth
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        firebaseAuth= Firebase.auth
-    }
+
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
@@ -57,8 +54,19 @@ class TiendaCompleta : Fragment() {
                 R.id.Nav_menu -> findNavController().navigate(R.id.menuFragment)
                 R.id.Nav_profile ->findNavController().navigate(R.id.cuentaFragment)
                 R.id.Nav_productos ->findNavController().navigate(R.id.catalogoFragment)
+                R.id.Nav_cerrar ->{
+                    firebaseAuth.signOut()
+                    findNavController().navigate(R.id.loginActivity)
+                    true
+                }
+
             }
         }
+    }
 
+    private lateinit var firebaseAuth: FirebaseAuth
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        firebaseAuth=Firebase.auth
     }
 }

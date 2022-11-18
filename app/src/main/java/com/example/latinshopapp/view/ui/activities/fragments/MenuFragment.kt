@@ -15,6 +15,7 @@ import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.appcompat.view.menu.MenuView.ItemView
 import androidx.core.graphics.drawable.IconCompat
 import androidx.drawerlayout.widget.DrawerLayout
+import androidx.fragment.app.FragmentContainer
 
 import androidx.navigation.fragment.findNavController
 import com.example.latinshopapp.R
@@ -22,8 +23,9 @@ import com.example.latinshopapp.databinding.ActivityMainBinding
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 import com.google.android.material.navigation.NavigationView.*
-
-
+import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.ktx.auth
+import com.google.firebase.ktx.Firebase
 
 
 class MenuFragment : Fragment(){
@@ -36,6 +38,7 @@ class MenuFragment : Fragment(){
 
 
 
+
     ): View? {
         val view= inflater.inflate(R.layout.fragment_menu,container,false)
         return view
@@ -44,6 +47,8 @@ class MenuFragment : Fragment(){
 
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+
+
         super.onViewCreated(view, savedInstanceState)
         val cardcatalogue=view.findViewById<ImageView>(R.id.cardcatalogo)
         cardcatalogue.setOnClickListener(){
@@ -75,12 +80,21 @@ class MenuFragment : Fragment(){
                 R.id.Nav_menu -> findNavController().navigate(R.id.menuFragment)
                 R.id.Nav_profile ->findNavController().navigate(R.id.cuentaFragment)
                 R.id.Nav_productos ->findNavController().navigate(R.id.catalogoFragment)
+                R.id.Nav_cerrar ->{
+                    firebaseAuth.signOut()
+                    findNavController().navigate(R.id.loginActivity)
+                    true
+                }
+
             }
         }
     }
 
-
-
+    private lateinit var firebaseAuth: FirebaseAuth
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        firebaseAuth=Firebase.auth
+    }
 
 
 }

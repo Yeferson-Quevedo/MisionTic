@@ -2652,6 +2652,7 @@ drawable buzostilo
 drawable carrito
 drawable catalogo
 drawable chaquetas
+drawable closesession
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -2794,6 +2795,7 @@ id FUNCTION
 id META
 id MainScroll
 id NO_DEBUG
+id Nav_cerrar
 id Nav_menu
 id Nav_productos
 id Nav_profile
@@ -3083,6 +3085,7 @@ id linear
 id listMode
 id list_item
 id locale
+id loginActivity
 id logo
 id lottie_layer_name
 id ltr

@@ -2651,6 +2651,7 @@ int drawable buzostilo 0x7f080081
 int drawable carrito 0x7f080082
 int drawable catalogo 0x7f080083
 int drawable chaquetas 0x7f080084
+int drawable closesession 0x7f080107
 int drawable common_full_open_on_phone 0x7f080085
 int drawable common_google_signin_btn_icon_dark 0x7f080086
 int drawable common_google_signin_btn_icon_dark_focused 0x7f080087
@@ -2793,6 +2794,7 @@ int id FUNCTION 0x7f0a0007
 int id META 0x7f0a0009
 int id MainScroll 0x7f0a000a
 int id NO_DEBUG 0x7f0a000b
+int id Nav_cerrar 0x7f0a0242
 int id Nav_menu 0x7f0a000c
 int id Nav_productos 0x7f0a000d
 int id Nav_profile 0x7f0a000e
@@ -3082,6 +3084,7 @@ int id linear 0x7f0a012c
 int id listMode 0x7f0a012d
 int id list_item 0x7f0a012e
 int id locale 0x7f0a012f
+int id loginActivity 0x7f0a0243
 int id logo 0x7f0a0130
 int id lottie_layer_name 0x7f0a0131
 int id ltr 0x7f0a0132

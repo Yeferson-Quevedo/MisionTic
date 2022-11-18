@@ -9,6 +9,9 @@ import android.widget.ImageView
 import androidx.navigation.fragment.findNavController
 import com.example.latinshopapp.R
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.ktx.auth
+import com.google.firebase.ktx.Firebase
 
 class CatalogoFragment : Fragment() {
 
@@ -38,8 +41,19 @@ class CatalogoFragment : Fragment() {
                 R.id.Nav_menu -> findNavController().navigate(R.id.menuFragment)
                 R.id.Nav_profile ->findNavController().navigate(R.id.cuentaFragment)
                 R.id.Nav_productos ->findNavController().navigate(R.id.catalogoFragment)
+                R.id.Nav_cerrar ->{
+                    firebaseAuth.signOut()
+                    findNavController().navigate(R.id.loginActivity)
+                    true
+                }
+
             }
         }
+    }
 
+    private lateinit var firebaseAuth: FirebaseAuth
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        firebaseAuth= Firebase.auth
     }
 }

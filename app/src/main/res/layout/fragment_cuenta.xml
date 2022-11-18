@@ -160,9 +160,9 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/rec2"
             android:layout_centerInParent="true"
+
+
             android:layout_marginTop="100dp"
-
-
             android:text="Cerrar sesión" />
 
 

@@ -15,6 +15,11 @@
         android:icon="@drawable/profile"
         />
 
+    <item android:title="Cerrar sesión"
+        android:id="@+id/Nav_cerrar"
+        android:icon="@drawable/closesession"
+        />
+
 </menu>
 
 

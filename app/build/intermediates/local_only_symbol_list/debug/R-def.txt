@@ -21,6 +21,7 @@ drawable buzostilo
 drawable carrito
 drawable catalogo
 drawable chaquetas
+drawable closesession
 drawable cuenta
 drawable ellas
 drawable hoddies
@@ -50,6 +51,7 @@ font poppinslight
 id CerrarSesion
 id Correo
 id MainScroll
+id Nav_cerrar
 id Nav_menu
 id Nav_productos
 id Nav_profile
@@ -95,6 +97,7 @@ id imageView3
 id iniciobutton
 id lineBlack
 id lineBlack2
+id loginActivity
 id logo
 id menuFragment
 id nav_container

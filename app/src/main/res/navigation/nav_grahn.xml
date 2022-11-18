@@ -52,6 +52,11 @@
         android:name="com.example.latinshopapp.view.ui.activities.fragments.TiendaCompleta"
         android:label="fragment_tienda_completa"
         tools:layout="@layout/fragment_tienda_completa" />
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.example.latinshopapp.view.ui.activities.LoginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
 
 
 </navigation>
