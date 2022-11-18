@@ -124,8 +124,6 @@ id precio
 id producto
 id recyvlerview
 id registrobutton
-id registroemail
-id registropassword
 id restaurarbutton
 id rutapedidoFragment
 id scrollView

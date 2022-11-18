@@ -22,7 +22,7 @@
         app:layout_constraintTop_toBottomOf="@+id/registrobutton" />
 
     <EditText
-        android:id="@+id/loginpassword"
+        android:id="@+id/editTextPassword"
         android:layout_width="288dp"
         android:layout_height="61dp"
         android:layout_marginStart="56dp"
@@ -44,7 +44,7 @@
         app:layout_constraintTop_toBottomOf="@+id/editTextEmail" />
 
     <EditText
-        android:id="@+id/loginemail"
+        android:id="@+id/editTextEmail"
         android:layout_width="289dp"
         android:layout_height="58dp"
         android:layout_marginStart="57dp"
