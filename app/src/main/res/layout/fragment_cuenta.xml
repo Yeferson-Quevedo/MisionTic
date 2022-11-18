@@ -9,12 +9,6 @@
     >
 
 
-
-
-
-
-
-
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -26,25 +20,47 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
-
             android:background="@drawable/perfil2"
             android:orientation="vertical" />
-
-
         <LinearLayout
-            android:id="@+id/lineBlack"
-            android:layout_width="fill_parent"
-            android:layout_height="1dp"
+            android:id="@+id/relativeBottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_below="@id/perfil"
-            android:layout_marginTop="20dp"
-            android:background="#a5a5a5"
-            android:orientation="horizontal" />
+            android:orientation="horizontal" >
+
+
+
+            <Button
+                android:id="@+id/btmcamara"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+
+
+                android:text="camara"
+
+                />
+            <Button
+                android:id="@+id/btmgaleria"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+
+                android:text="galeria"
+
+                />
+
+        </LinearLayout>
+
+
+
 
         <TextView
             android:id="@+id/NombreUser"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/lineBlack"
+            android:layout_below="@id/relativeBottom"
             android:layout_marginLeft="50dp"
             android:layout_marginTop="40dp"
             android:text="Nombre: "
@@ -55,7 +71,7 @@
             android:id="@+id/edtNombre"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/lineBlack"
+            android:layout_below="@id/relativeBottom"
             android:layout_marginLeft="150dp"
             android:layout_marginRight="50dp"
             android:backgroundTint="@color/white"
@@ -192,37 +208,6 @@
             app:layout_constraintStart_toStartOf="parent"
             />
 
-        <LinearLayout
-            android:id="@+id/relativeBottom"
-            android:layout_width="300dp"
-            android:layout_height="50dp"
-            android:layout_below="@id/CerrarSesion"
-            android:orientation="horizontal" >
-
-
-
-            <Button
-                android:id="@+id/btmcamara"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@id/CerrarSesion"
-
-
-                android:text="camara"
-
-                />
-            <Button
-                android:id="@+id/btmgaleria"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-
-
-
-                android:text="galeria"
-
-                />
-
-        </LinearLayout>
 
 
 
