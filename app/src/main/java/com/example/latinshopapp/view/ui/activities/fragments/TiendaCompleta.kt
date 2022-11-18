@@ -48,5 +48,17 @@ class TiendaCompleta : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
 
+        //navigation
+
+        val btm= view.findViewById<BottomNavigationView>(R.id.bottomNavigationView)
+        btm.setOnNavigationItemReselectedListener {
+            when(it.itemId)
+            {
+                R.id.Nav_menu -> findNavController().navigate(R.id.menuFragment)
+                R.id.Nav_profile ->findNavController().navigate(R.id.cuentaFragment)
+                R.id.Nav_productos ->findNavController().navigate(R.id.catalogoFragment)
+            }
+        }
+
     }
 }

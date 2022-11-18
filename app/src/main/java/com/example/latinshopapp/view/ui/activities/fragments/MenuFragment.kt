@@ -72,8 +72,9 @@ class MenuFragment : Fragment(){
         btm.setOnNavigationItemReselectedListener {
             when(it.itemId)
             {
-                // R.id.Nav_menu -> findNavController().navigate(R.id.action_catalogoFragment_to_menuFragment)
-                //R.id.Nav_profile ->findNavController().navigate(R.id.action_catalogoFragment_to_cuentaFragment)
+                R.id.Nav_menu -> findNavController().navigate(R.id.menuFragment)
+                R.id.Nav_profile ->findNavController().navigate(R.id.cuentaFragment)
+                R.id.Nav_productos ->findNavController().navigate(R.id.catalogoFragment)
             }
         }
     }
