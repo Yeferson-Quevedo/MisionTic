@@ -80,6 +80,9 @@
                 android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
@@ -87,6 +90,9 @@
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
 
