@@ -47,9 +47,7 @@ class MenuFragment : Fragment(){
         super.onViewCreated(view, savedInstanceState)
         val cardcatalogue=view.findViewById<ImageView>(R.id.cardcatalogo)
         cardcatalogue.setOnClickListener(){
-            //findNavController().navigate(R.id.action_menuFragment_to_catalogoFragment)
-            //quitamos el catalogo y lo dejamos como algo para el futuri
-            findNavController().navigate(R.id.action_menuFragment_to_ellos2)
+            findNavController().navigate(R.id.action_menuFragment_to_catalogoFragment)
         }
         val cardcar=view.findViewById<ImageView>(R.id.cardcarrito)
         cardcar.setOnClickListener(){
@@ -75,7 +73,7 @@ class MenuFragment : Fragment(){
             when(it.itemId)
             {
                 // R.id.Nav_menu -> findNavController().navigate(R.id.action_catalogoFragment_to_menuFragment)
-                R.id.Nav_profile ->findNavController().navigate(R.id.action_catalogoFragment_to_cuentaFragment)
+                //R.id.Nav_profile ->findNavController().navigate(R.id.action_catalogoFragment_to_cuentaFragment)
             }
         }
     }

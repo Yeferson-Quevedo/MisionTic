@@ -24,14 +24,11 @@ class CatalogoFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-
-        val btm= view.findViewById<BottomNavigationView>(R.id.bottomNavigationView)
-        btm.setOnNavigationItemReselectedListener {
-            when(it.itemId)
-            {
-                R.id.Nav_menu -> findNavController().navigate(R.id.action_catalogoFragment_to_menuFragment)
-                R.id.Nav_profile ->findNavController().navigate(R.id.action_catalogoFragment_to_cuentaFragment)
-            }
+        val cardcatalogue=view.findViewById<ImageView>(R.id.imageEllos)
+        cardcatalogue.setOnClickListener(){
+            findNavController().navigate(R.id.action_catalogoFragment_to_tiendaCompleta)
         }
+
+
     }
 }
