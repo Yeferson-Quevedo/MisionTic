@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.latinshopapp-mergeDebugResources-53:/values-or/values-or.xml",
+            "outputFile": "com.example.latinshopapp-mergeDebugResources-54:/values-or/values-or.xml",
             "map": [
                 {
                     "source": "C:\\Users\\fenix\\.gradle\\caches\\transforms-3\\60ad575613674b89076a13107b7a2cba\\transformed\\play-services-basement-18.1.0\\res\\values-or\\values.xml",

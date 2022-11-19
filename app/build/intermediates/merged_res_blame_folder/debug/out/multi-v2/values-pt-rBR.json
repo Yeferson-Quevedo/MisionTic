@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.latinshopapp-mergeDebugResources-53:/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "com.example.latinshopapp-mergeDebugResources-54:/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\fenix\\.gradle\\caches\\transforms-3\\d3d5d8a4f4fb8531ab6e030194e9f1ad\\transformed\\browser-1.4.0\\res\\values-pt-rBR\\values-pt-rBR.xml",

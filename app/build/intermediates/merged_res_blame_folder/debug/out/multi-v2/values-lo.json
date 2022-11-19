@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.latinshopapp-mergeDebugResources-53:/values-lo/values-lo.xml",
+            "outputFile": "com.example.latinshopapp-mergeDebugResources-54:/values-lo/values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\fenix\\.gradle\\caches\\transforms-3\\fa7cbc3e616d3b71103e51ede7651b46\\transformed\\play-services-base-18.0.1\\res\\values-lo\\values.xml",
