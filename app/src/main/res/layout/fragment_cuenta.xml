@@ -63,6 +63,7 @@
             android:layout_below="@id/relativeBottom"
             android:layout_marginLeft="50dp"
             android:layout_marginTop="40dp"
+            android:textColor="@color/black"
             android:text="Nombre: "
             android:textSize="18sp"
             android:textStyle="bold"></TextView>
@@ -91,6 +92,7 @@
             android:layout_marginLeft="50dp"
             android:layout_marginTop="40dp"
             android:text="Apellido: "
+            android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold"></TextView>
 
@@ -118,6 +120,7 @@
             android:layout_marginLeft="50dp"
             android:layout_marginTop="40dp"
             android:text="Fecha de nacimiento: "
+            android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold"></TextView>
         <EditText
@@ -144,6 +147,7 @@
             android:layout_marginLeft="50dp"
             android:layout_marginTop="40dp"
             android:text="Email: "
+            android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold"></TextView>
 
@@ -171,6 +175,7 @@
             android:layout_marginLeft="50dp"
             android:layout_marginTop="45dp"
             android:text="Password: "
+            android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold"></TextView>
 

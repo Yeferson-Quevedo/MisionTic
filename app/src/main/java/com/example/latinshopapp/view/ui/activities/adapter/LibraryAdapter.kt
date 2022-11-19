@@ -1,5 +1,6 @@
 package com.example.latinshopapp.view.ui.activities.view.adapter
 
+import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -7,37 +8,40 @@ import android.widget.ImageView
 import android.widget.TextView
 import com.example.latinshopapp.R
 import androidx.recyclerview.widget.RecyclerView
+import com.example.latinshopapp.view.ui.activities.fragments.Tienda
+import com.squareup.picasso.Picasso
 
-class LibraryAdapter: RecyclerView.Adapter<LibraryAdapter.ViewHolder>() {
+class LibraryAdapter(private val context: Context): RecyclerView.Adapter<LibraryAdapter.ViewHolder>() {
+    private var tiendalista= mutableListOf<Tienda>()
 
+    fun setListData(data: MutableList<Tienda>){
+        tiendalista = data
+    }
     override fun onCreateViewHolder(viewGroup: ViewGroup, i:Int):ViewHolder{
         val v=LayoutInflater.from(viewGroup.context).inflate(R.layout.card_view_shop,
             viewGroup,false)
         return ViewHolder(v)
     }
     inner class ViewHolder(itemview: View):RecyclerView.ViewHolder(itemview){
-        var itemImage: ImageView
-        var itemTitle: TextView
-        var itemPrecio: TextView
-        var itemDesc: TextView
-
-        init {
-            itemImage=itemview.findViewById(R.id.image)
-            itemTitle=itemview.findViewById(R.id.titles)
-            itemPrecio=itemview.findViewById(R.id.precio)
-            itemDesc=itemview.findViewById(R.id.desc)
-        }
+      fun binwew(tienda: Tienda){
+          itemView.findViewById<TextView>(R.id.titles).text= tienda.titulo
+          itemView.findViewById<TextView>(R.id.precio).text= tienda.precio
+          itemView.findViewById<TextView>(R.id.desc).text= tienda.descripcion
+          Picasso.with(context).load(tienda.image).into(itemView.findViewById<ImageView>(R.id.image))
+      }
     }
 
     override fun onBindViewHolder(viewHolder: ViewHolder, i:Int) {
-        viewHolder.itemTitle.text=titles[i]
-        viewHolder.itemPrecio.text=precio[i]
-        viewHolder.itemDesc.text=desc[i]
-        viewHolder.itemImage.setImageResource(image[i])
+        val tienda= tiendalista[i]
+        viewHolder.binwew(tienda)
     }
 
     override fun getItemCount(): Int {
-        return titles.size
+        return if(tiendalista.size > 0){
+            tiendalista.size
+        }else{
+            0
+        }
     }
 
     val titles= arrayOf(
@@ -75,6 +79,6 @@ class LibraryAdapter: RecyclerView.Adapter<LibraryAdapter.ViewHolder>() {
         R.drawable.ropaoficina,
         R.drawable.buzonasa,
         R.drawable.buzonino,
-        R.drawable.buzonino,)
+        R.drawable.buzostilo,)
 
 }
