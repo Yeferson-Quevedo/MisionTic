@@ -99,6 +99,7 @@ id lineBlack
 id lineBlack2
 id loginActivity
 id logo
+id map_view
 id menuFragment
 id nav_container
 id nav_grahn
@@ -138,6 +139,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 navigation nav_grahn
 raw shopping_cart_animation
+string ApiMapa
 string app_name
 string banner
 string default_web_client_id

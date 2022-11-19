@@ -1,4 +1,4 @@
-#Fri Nov 18 19:47:23 COT 2022
+#Fri Nov 18 21:29:01 COT 2022
 base.2=C\:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\applicacion_latinShop\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes3.dex
 path.2=classes3.dex
 base.1=C\:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\applicacion_latinShop\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex

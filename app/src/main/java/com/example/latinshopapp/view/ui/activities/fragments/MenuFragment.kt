@@ -19,7 +19,7 @@ import androidx.fragment.app.FragmentContainer
 
 import androidx.navigation.fragment.findNavController
 import com.example.latinshopapp.R
-import com.example.latinshopapp.databinding.ActivityMainBinding
+//import com.example.latinshopapp.databinding.ActivityMainBinding
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 import com.google.android.material.navigation.NavigationView.*

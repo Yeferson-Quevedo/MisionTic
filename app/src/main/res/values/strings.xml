@@ -6,4 +6,5 @@
     <string name="banner">Banner</string>
     <string name="ellos">Ellos</string>
     <string name="ropa_para_todos">: ropa para todos</string>
+    <string name="ApiMapa" templateMergeStrategy="preserve" translatable="false">AIzaSyDZT2cqD6XPOE6pevzEQdxtvuWRyYDLyZY</string>
 </resources>
