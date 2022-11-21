@@ -2956,6 +2956,7 @@ id cardcuenta
 id cardruta
 id carrito
 id carritoFragment
+id carrito_delete
 id carryVelocity
 id catalogoFragment
 id center
@@ -3004,7 +3005,6 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
-id delete
 id deltaRelative
 id dependency_ordering
 id desc

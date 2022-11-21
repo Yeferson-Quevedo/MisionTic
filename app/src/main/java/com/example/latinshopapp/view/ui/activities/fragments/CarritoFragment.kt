@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
+import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
@@ -84,7 +85,6 @@ class CarritoFragment : Fragment(), onComprasItemClickListener {
                 val precio_iva=preciosubtotal*0.19
                 val precio_total=precio_iva+preciosubtotal
 
-
                 val floatStr1 = precio_iva
                 val floatVal1: String? = floatStr1.toString()
 
@@ -97,21 +97,13 @@ class CarritoFragment : Fragment(), onComprasItemClickListener {
 
             }
 
-        // private fun preciototal(subtotal:Double, iva:Double){
-            //val subtotal= precioS.getInstance()(capturar el subtotal)
-            //val iva= 0.19
-            //val preciototal= subtotal+(subtotal*iva)
-            //precioT.setText(Integer.toString(preciototal))}
-
-        fun realizarCompra(){
-
-        }
-
 }
     override fun onItemClick(producto: compras, position: Int) {
         database.collection("compras")
             .document(producto.titulo)
             .delete()
+        Toast.makeText(requireContext(), "se hizo la accion delete", Toast.LENGTH_SHORT).show()
+        findNavController().navigate(R.id.carritoFragment)
     }
 
     private lateinit var firebaseAuth: FirebaseAuth

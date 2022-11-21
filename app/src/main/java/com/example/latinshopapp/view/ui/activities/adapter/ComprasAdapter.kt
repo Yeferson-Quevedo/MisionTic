@@ -10,7 +10,6 @@ import androidx.recyclerview.widget.RecyclerView
 //import com.google.firebase.database.core.Context
 import android.content.Context
 import com.example.latinshopapp.view.ui.activities.model.compras
-import com.example.latinshopapp.view.ui.activities.model.productos
 import com.squareup.picasso.Picasso
 
 class ComprasAdapter(private val context: Context, var clickListener: onComprasItemClickListener): RecyclerView.Adapter<ComprasAdapter.ViewHolder>() {
@@ -32,7 +31,7 @@ class ComprasAdapter(private val context: Context, var clickListener: onComprasI
             itemView.findViewById<TextView>(R.id.precio).text=producto.precio
             //itemView.findViewById<TextView>(R.id.desc).text=producto.descripcion
             Picasso.with(context).load(producto.image).into(itemView.findViewById<ImageView>(R.id.image))
-            val btndelete=itemView.findViewById<ImageView>(R.id.delete)
+            val btndelete=itemView.findViewById<ImageView>(R.id.carrito_delete)
             btndelete.setOnClickListener{
                 action.onItemClick(producto, adapterPosition)
             }

@@ -83,13 +83,13 @@ id cardcuenta
 id cardruta
 id carrito
 id carritoFragment
+id carrito_delete
 id catalogoFragment
 id contenedor2
 id contenedor3
 id contenedor4
 id contenedor5
 id cuentaFragment
-id delete
 id desc
 id editTextBirthDate
 id editTextEmail

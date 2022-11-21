@@ -71,11 +71,13 @@
             >
         </TextView>
         <ImageButton
-            android:id="@+id/delete"
+
+            android:id="@+id/carrito_delete"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:layout_marginLeft="30dp"
-            android:layout_toRightOf="@id/title"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/titles"
+
             android:src="@drawable/ic_baseline_delete_24"
             android:background="@color/red">
         </ImageButton>

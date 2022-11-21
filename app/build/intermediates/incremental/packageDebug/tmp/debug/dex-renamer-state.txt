@@ -1,9 +1,9 @@
-#Mon Nov 21 00:40:57 COT 2022
-base.2=C\:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\app f\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes3.dex
+#Mon Nov 21 07:33:28 COT 2022
+base.2=C\:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\applicacion_latinShop\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes3.dex
 path.2=classes3.dex
-base.1=C\:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\app f\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+base.1=C\:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\applicacion_latinShop\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
 path.1=classes2.dex
-base.0=C\:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\app f\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+base.0=C\:\\Users\\fenix\\Documents\\Aplicacion hospital\\mockup 2\\applicacion_latinShop\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
