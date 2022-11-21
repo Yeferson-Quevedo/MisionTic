@@ -36,7 +36,11 @@
         android:id="@+id/carritoFragment"
         android:name="com.example.latinshopapp.view.ui.activities.fragments.CarritoFragment"
         android:label="fragment_carrito"
-        tools:layout="@layout/fragment_carrito" />
+        tools:layout="@layout/fragment_carrito" >
+        <action
+            android:id="@+id/action_carritoFragment_to_menuFragment"
+            app:destination="@id/menuFragment" />
+    </fragment>
     <fragment
         android:id="@+id/cuentaFragment"
         android:name="com.example.latinshopapp.view.ui.activities.fragments.CuentaFragment"

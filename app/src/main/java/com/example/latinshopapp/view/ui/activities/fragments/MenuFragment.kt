@@ -2,6 +2,7 @@ package com.example.latinshopapp.view.ui.activities.fragments
 
 import android.annotation.SuppressLint
 import android.graphics.drawable.Icon
+import android.media.Image
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -63,6 +64,7 @@ class MenuFragment : Fragment(){
         cardprofile.setOnClickListener(){
             findNavController().navigate(R.id.action_menuFragment_to_cuentaFragment)
         }
+
 
 
         val cardroute=view.findViewById<ImageView>(R.id.cardruta)
