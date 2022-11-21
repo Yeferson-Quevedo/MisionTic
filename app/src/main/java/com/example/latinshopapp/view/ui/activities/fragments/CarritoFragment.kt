@@ -2,12 +2,11 @@ package com.example.latinshopapp.view.ui.activities.fragments
 
 import android.app.AlertDialog
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
 import android.widget.TextView
+import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
@@ -23,6 +22,7 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.ktx.Firebase
+
 
 
 class CarritoFragment : Fragment(), onComprasItemClickListener {
@@ -44,6 +44,7 @@ class CarritoFragment : Fragment(), onComprasItemClickListener {
         precioS=view.findViewById(R.id.preciosubtotal)
         precioT=view.findViewById(R.id.preciototal)
         compraT=view.findViewById(R.id.realizarCompra)
+        precioIva=view.findViewById(R.id.precio_iva)
         adapter= ComprasAdapter(requireContext(), this)
         recyclerView.layoutManager=LinearLayoutManager(context)
         recyclerView.adapter=adapter
@@ -80,8 +81,19 @@ class CarritoFragment : Fragment(), onComprasItemClickListener {
                     preciounitario.add(precio!!)
                 }
                 val preciosubtotal=preciounitario.mapNotNull { it.toIntOrNull() }.sum()
+                val precio_iva=preciosubtotal*0.19
+                val precio_total=precio_iva+preciosubtotal
 
-                precioS.setText(Integer.toString(preciosubtotal))
+
+                val floatStr1 = precio_iva
+                val floatVal1: String? = floatStr1.toString()
+
+                val floatStr2=precio_total
+                val strPrecio :String?=floatStr2.toString()
+
+                precioIva.setText("$"+floatVal1)
+                precioT.setText("$"+strPrecio)
+                precioS.setText("$"+Integer.toString(preciosubtotal))
 
             }
 

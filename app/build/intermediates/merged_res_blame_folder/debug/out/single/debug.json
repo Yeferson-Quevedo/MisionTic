@@ -40,32 +40,32 @@
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-59:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-mdpi_ic_baseline_delete_24.png.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-mdpi\\ic_baseline_delete_24.png"
+        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-59:\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-59:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-hdpi_menu.png.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-hdpi\\menu.png"
+        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-mdpi_ic_baseline_delete_24.png.flat",
+        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-mdpi\\ic_baseline_delete_24.png"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-ldpi_product.png.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-ldpi\\product.png"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-v24_ninas.PNG.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-59:\\drawable-v24\\ninas.PNG"
+        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-hdpi_menu.png.flat",
+        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-hdpi\\menu.png"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-xxxhdpi_closesession.png.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-xxxhdpi\\closesession.png"
+    },
+    {
+        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-v24_ninas.PNG.flat",
+        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-59:\\drawable-v24\\ninas.PNG"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable_add.jpeg.flat",
@@ -84,12 +84,12 @@
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-xxhdpi\\closesession.png"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-ldpi_profile.png.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-ldpi\\profile.png"
-    },
-    {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-ldpi_profile.png.flat",
+        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-ldpi\\profile.png"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-xxxhdpi_menu.png.flat",
@@ -100,12 +100,12 @@
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-59:\\font\\poppins_extrabold.ttf"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-xhdpi_ic_baseline_shopping_cart_24.png.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-xhdpi\\ic_baseline_shopping_cart_24.png"
-    },
-    {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-ldpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-xhdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-xhdpi\\ic_baseline_shopping_cart_24.png"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\layout_card_view_compras.xml.flat",
@@ -120,12 +120,12 @@
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-xhdpi\\ic_baseline_delete_24.png"
     },
     {
-        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-59:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-ldpi_ic_baseline_delete_24.png.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-pngs-52:\\drawable-ldpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-59:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-mdpi_product.png.flat",
@@ -388,10 +388,6 @@
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-59:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.latinshopapp-merged_res-57:/layout_fragment_cuenta.xml.flat",
-        "source": "com.example.latinshopapp-main-59:/layout/fragment_cuenta.xml"
-    },
-    {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-v24_chaquetas.PNG.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-59:\\drawable-v24\\chaquetas.PNG"
     },
@@ -438,6 +434,10 @@
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\drawable-v24_wishlist.png.flat",
         "source": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-main-59:\\drawable-v24\\wishlist.png"
+    },
+    {
+        "merged": "com.example.latinshopapp-merged_res-57:/layout_fragment_carrito.xml.flat",
+        "source": "com.example.latinshopapp-main-59:/layout/fragment_carrito.xml"
     },
     {
         "merged": "C:\\Users\\fenix\\.gradle\\daemon\\7.4\\com.example.latinshopapp-merged_res-57:\\menu_menu_navigation_bar.xml.flat",
