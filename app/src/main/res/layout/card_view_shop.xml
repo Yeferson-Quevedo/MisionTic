@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/card_library"
+    android:id="@+id/card_shop"
     android:layout_margin="12dp"
     app:cardBackgroundColor="@color/green"
     app:cardCornerRadius="20dp"
@@ -72,6 +72,16 @@
             android:textSize="18dp"
             >
         </TextView>
+        <ImageButton
+            android:id="@+id/carrito"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@id/title"
+            android:src="@drawable/ic_baseline_shopping_cart_24"
+            android:background="@color/green">
+        </ImageButton>
+
 
     </RelativeLayout>
 

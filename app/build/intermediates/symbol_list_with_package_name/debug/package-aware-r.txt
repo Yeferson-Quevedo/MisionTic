@@ -1941,6 +1941,7 @@ color primary_text_default_material_dark
 color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
+color red
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -2709,6 +2710,8 @@ drawable googleg_standard_color_18
 drawable hoddies
 drawable home
 drawable home1
+drawable ic_baseline_delete_24
+drawable ic_baseline_shopping_cart_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2833,6 +2836,9 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id Tiva
+id Tpreciosubtotal
+id Tpreciototal
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -2877,6 +2883,7 @@ id action_bar_root
 id action_bar_spinner
 id action_bar_subtitle
 id action_bar_title
+id action_carritoFragment_to_menuFragment
 id action_catalogoFragment_to_tiendaCompleta
 id action_container
 id action_context_bar
@@ -2940,13 +2947,14 @@ id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
-id cantidad
 id cardEllos
-id card_library
+id card_compras
+id card_shop
 id cardcarrito
 id cardcatalogo
 id cardcuenta
 id cardruta
+id carrito
 id carritoFragment
 id carryVelocity
 id catalogoFragment
@@ -2973,6 +2981,9 @@ id confirm_button
 id constraint
 id container
 id contenedor2
+id contenedor3
+id contenedor4
+id contenedor5
 id content
 id contentPanel
 id contiguous
@@ -2993,6 +3004,7 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
+id delete
 id deltaRelative
 id dependency_ordering
 id desc
@@ -3027,7 +3039,6 @@ id editTextEmail
 id editTextLastname
 id editTextName
 id editTextNewPassword
-id editTextNumberSigned2
 id editTextPassword
 id edit_query
 id edtNombre
@@ -3222,17 +3233,21 @@ id pin
 id position
 id postLayout
 id precio
+id precio_iva
+id preciosubtotal
+id preciototal
 id pressed
-id producto
 id progress_circular
 id progress_horizontal
 id radio
 id ratio
+id realizarCompra
 id rec0
 id rec1
 id rec2
 id rectangles
 id recyvlerview
+id recyvlerviewcarrito
 id registrobutton
 id relativeBottom
 id restart
@@ -3311,7 +3326,6 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
-id subtotal
 id supportScrollUp
 id tabMode
 id tag_accessibility_actions
@@ -3521,6 +3535,7 @@ layout activity_register
 layout activity_restore
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
+layout card_view_compras
 layout card_view_shop
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -4922,7 +4937,7 @@ styleable LinearProgressIndicator indeterminateAnimationType indicatorDirectionL
 styleable ListPopupWindow android_dropDownHorizontalOffset android_dropDownVerticalOffset
 styleable LoadingImageView circleCrop imageAspectRatio imageAspectRatioAdjust
 styleable LottieAnimationView lottie_autoPlay lottie_cacheComposition lottie_colorFilter lottie_enableMergePathsForKitKatAndAbove lottie_fallbackRes lottie_fileName lottie_imageAssetsFolder lottie_loop lottie_progress lottie_rawRes lottie_renderMode lottie_repeatCount lottie_repeatMode lottie_scale lottie_speed lottie_url
-styleable MapAttrs backgroundColor ambientEnabled cameraBearing cameraMaxZoomPreference cameraMinZoomPreference cameraTargetLat cameraTargetLng cameraTilt cameraZoom latLngBoundsNorthEastLatitude latLngBoundsNorthEastLongitude latLngBoundsSouthWestLatitude latLngBoundsSouthWestLongitude liteMode mapId mapType uiCompass uiMapToolbar uiRotateGestures uiScrollGestures uiScrollGesturesDuringRotateOrZoom uiTiltGestures uiZoomControls uiZoomGestures useViewLifecycle zOrderOnTop
+styleable MapAttrs ambientEnabled backgroundColor cameraBearing cameraMaxZoomPreference cameraMinZoomPreference cameraTargetLat cameraTargetLng cameraTilt cameraZoom latLngBoundsNorthEastLatitude latLngBoundsNorthEastLongitude latLngBoundsSouthWestLatitude latLngBoundsSouthWestLongitude liteMode mapId mapType uiCompass uiMapToolbar uiRotateGestures uiScrollGestures uiScrollGesturesDuringRotateOrZoom uiTiltGestures uiZoomControls uiZoomGestures useViewLifecycle zOrderOnTop
 styleable MaterialAlertDialog backgroundInsetBottom backgroundInsetEnd backgroundInsetStart backgroundInsetTop
 styleable MaterialAlertDialogTheme materialAlertDialogBodyTextStyle materialAlertDialogButtonSpacerVisibility materialAlertDialogTheme materialAlertDialogTitleIconStyle materialAlertDialogTitlePanelStyle materialAlertDialogTitleTextStyle
 styleable MaterialAutoCompleteTextView android_inputType android_popupElevation simpleItemLayout simpleItemSelectedColor simpleItemSelectedRippleColor simpleItems

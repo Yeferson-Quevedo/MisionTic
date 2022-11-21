@@ -6,45 +6,190 @@
     android:layout_height="match_parent"
     tools:context=".view.ui.activities.fragments.CarritoFragment">
 
-    <TextView
-        android:id="@+id/producto"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Producto"
-        tools:layout_editor_absoluteX="27dp"
-        tools:layout_editor_absoluteY="115dp" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:background="@color/white">
 
-    <TextView
-        android:id="@+id/precio"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Precio"
-        tools:layout_editor_absoluteX="126dp"
-        tools:layout_editor_absoluteY="114dp" />
+        >
 
-    <TextView
-        android:id="@+id/cantidad"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Cantidad"
-        tools:layout_editor_absoluteX="213dp"
-        tools:layout_editor_absoluteY="115dp" />
 
-    <TextView
-        android:id="@+id/subtotal"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Subtotal"
-        tools:layout_editor_absoluteX="315dp"
-        tools:layout_editor_absoluteY="113dp" />
+        <LinearLayout
+            android:id="@+id/contenedor2"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
 
-    <EditText
-        android:id="@+id/editTextNumberSigned2"
-        android:layout_width="52dp"
-        android:layout_height="40dp"
-        android:ems="10"
-        android:inputType="numberSigned"
-        tools:layout_editor_absoluteX="217dp"
-        tools:layout_editor_absoluteY="166dp" />
+            >
+            <TextView
+
+                android:fontFamily="@font/poppinslight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:text="Mi carrito"
+                android:textSize="22sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_marginStart="10dp">
+
+            </TextView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lineBlack"
+            android:layout_marginTop="0dp"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#a5a5a5"
+            android:orientation="horizontal"
+            android:layout_below="@id/contenedor2"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyvlerviewcarrito"
+            android:layout_width="match_parent"
+            android:layout_height="340dp"
+            android:layout_below="@id/contenedor2"
+
+            />
+
+        <LinearLayout
+            android:id="@+id/contenedor3"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:orientation="horizontal"
+            android:layout_below="@id/recyvlerviewcarrito"
+            >
+        <TextView
+            android:id="@+id/Tpreciosubtotal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:text="Precio sub total"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:layout_marginLeft="30dp"
+            >
+        </TextView>
+        <TextView
+            android:id="@+id/Tiva"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:layout_marginLeft="15dp"
+            android:text="Precio con iva"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            >
+        </TextView>
+
+        <TextView
+            android:id="@+id/Tpreciototal"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="0dp"
+            android:layout_marginLeft="10dp"
+            android:text="Precio total
+"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            >
+        </TextView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/contenedor4"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:layout_below="@id/contenedor3"
+            >
+            <TextView
+                android:id="@+id/preciosubtotal"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:background="@color/griss"
+                android:layout_marginTop="0dp"
+                android:layout_marginLeft="30dp"
+                android:text="0"
+                android:textColor="@color/black"
+                android:textAlignment="center"
+                android:textSize="30dp"
+                >
+            </TextView>
+            <TextView
+                android:id="@+id/precio_iva"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:background="@color/griss"
+                android:layout_marginTop="00dp"
+                android:layout_marginLeft="15dp"
+                android:text="19%"
+                android:textColor="@color/black"
+                android:textAlignment="center"
+                android:textSize="30dp"
+                >
+            </TextView>
+
+            <TextView
+                android:id="@+id/preciototal"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:background="@color/green"
+                android:layout_marginTop="0dp"
+                android:layout_marginLeft="20dp"
+                android:text="0"
+                android:textColor="@color/white"
+                android:textAlignment="center"
+                android:textSize="30dp"
+                >
+            </TextView>
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/contenedor5"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:layout_below="@id/contenedor4"
+            >
+            <TextView
+                android:id="@+id/realizarCompra"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="@color/blue"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="120dp"
+                android:text="Comprar"
+                android:textColor="@color/white"
+                android:textAlignment="center"
+                android:textSize="30dp"
+                >
+            </TextView>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/menu_navigation_bar"
+        >
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

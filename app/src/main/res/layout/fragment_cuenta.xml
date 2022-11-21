@@ -65,7 +65,8 @@
                 android:layout_below="@id/relativeBottom"
 
                 android:text="Nombre: "
-                android:textSize="18sp"
+                android:textSize="20dp"
+                android:textColor="@color/black"
                 android:textStyle="bold"></TextView>
 
             <EditText
@@ -95,15 +96,16 @@
             android:orientation="horizontal"
             android:layout_below="@id/rec0">
 
-        <TextView
-            android:id="@+id/Correo"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/relativeBottom"
+            <TextView
+                android:id="@+id/Correo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/relativeBottom"
 
-            android:text="Correo: "
-            android:textSize="18sp"
-            android:textStyle="bold"></TextView>
+                android:text="Correo: "
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"></TextView>
 
             <EditText
                 android:id="@+id/editTextEmail"
@@ -136,7 +138,8 @@
                 android:layout_below="@id/relativeBottom"
 
                 android:text="Contraseña: "
-                android:textSize="18sp"
+                android:textSize="20dp"
+                android:textColor="@color/black"
                 android:textStyle="bold"></TextView>
 
             <EditText
